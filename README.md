@@ -3,6 +3,10 @@
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
 
+**📊 Current Stats:** 50 jobs | 12% remote | 43 companies | Avg salary: 180k
+
+**🔥 Trending Skills:** machine learning, pytorch, sql, python, ai
+
 Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs) — **you choose the job, we handle the paperwork**.  
 Your Human + AI job search platform that helps you find, auto-apply, and track applications effortlessly.
 
@@ -43,7 +47,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Rakuten Viber](https://www.viber.com/)** | **[Data Scientist - Risk & Fraud](https://www.comeet.com/jobs/viber/04.002/data-scientist---risk--fraud/AF.95E)** | Bnei Brak, Tel Aviv District, IL | On Site | Sep 10 |
 | **[Delivery Hero](https://www.deliveryhero.com)** | **[Sr. Data Scientist, GenAI Algorithms (Based in Dubai)](https://jobs.smartrecruiters.com/DeliveryHero/744000080999632-sr-data-scientist-genai-algorithms-based-in-dubai-)** | London, England, United Kingdom | On Site | Sep 10 |
 | **[Shift Technology](https://www.shift-technology.com/)** | **[Data Scientist Internship - January 2026 (6 months)](https://www.shift-technology.com/careers?gh_jid=7102004003)** | France - Paris | On Site | Sep 10 |
-| **[TikTok](https://www.tiktok.com/)** | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Summer (MBA)](https://lifeattiktok.com/search/7533926061685016839)** | San Jose, California, United States | On Site | Sep 10 |
+| **[TikTok](https://www.tiktok.com/)** | **[Data Scientist Intern \[TikTok LIVE-Data Science\]-2026 Summer (MBA)](https://lifeattiktok.com/search/7533926061685016839)** | San Jose, California, United States | On Site | Sep 10 |
 | **[Vestiaire Collective](https://www.vestiairecollective.com/)** | **[Senior Marketing Data Scientist](https://jobs.lever.co/vestiairecollective/bdcefa99-a3d7-4501-be8b-163e832dbca8)** | Paris | On Site | Sep 10 |
 | **[Exadel](https://exadel.com/)** | **[Associate Data Scientist](https://job-boards.greenhouse.io/exadelinc/jobs/5620668004)** | Poland | On Site | Sep 10 |
 | **[Deloitte](https://www2.deloitte.com/)** | **[Data Scientist - R&D and Innovation Center](https://careers.deloitte.co.il/position/fa-c56-en/)** | Tel Aviv, Tel Aviv District, IL | On Site | Sep 10 |
