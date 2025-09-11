@@ -1,13 +1,16 @@
-# Daily Data scientist Jobs 2025
+# Data scientist Jobs 2025
 
-Daily updated Data scientist opportunities. Curated by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs) - the AI platform that finds and applies to jobs for you.
+This repository collects curated **Data scientist opportunities in 2025**.  
+Updated daily by [Jobr.pro](https://jobr.pro).
 
----
+Visit [Jobr.pro](https://jobr.pro) — **you choose the job, we handle the paperwork**.  
+Your Human + AI job search platform that helps you find, auto-apply, and track applications effortlessly.
 
 ## Current Openings
 
 | Company | Position | Location | Work Model | Date Posted |
 | ------- | -------- | -------- | ---------- | ----------- |
+
 | **[SQLI](https://www.sqli.com)** | **[Data Scientist IA Generative H/F](https://jobs.smartrecruiters.com/SQLI1/744000081246171-data-scientist-ia-generative-h-f)** | Levallois-Perret, IDF, France | On Site | Sep 11 |
 | **[Davies](https://davies-group.com/)** | **[Data Scientist](https://davies.pinpointhq.com/en/postings/cab5c1be-457e-4c1d-b250-f7926b3b8315)** | Madrid | On Site | Sep 11 |
 | **[Visa](https://visa.com)** | **[Data Scientist](https://jobs.smartrecruiters.com/Visa/744000081222866-data-scientist)** | Bangalore, INDIA, India | On Site | Sep 11 |
@@ -59,15 +62,12 @@ Daily updated Data scientist opportunities. Curated by [Jobr.pro](https://jobr.p
 | **[Kotak Mahindra Bank](https://www.kotak.com/)** | **[Data Scientist 2-Digital Banking Kotak 811-Regional Sales](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210380)** | Bangalore, Karnataka, India | On Site | Sep 10 |
 | **[Mediabrands](https://www.ipgmediabrands.com/)** | **[Senior Data Scientist](https://job-boards.greenhouse.io/mediabrands/jobs/4804519007)** | Poland | On Site | Sep 10 |
 
-*Updated daily with fresh opportunities*
-
----
-
 ## About This Repository
 
-This repository tracks current Data scientist positions from companies across different industries. Each listing is verified and updated automatically every 24 hours.
+This repository tracks current Data scientist positions from companies across different industries, updated daily.
 
 **What makes this useful:**
+
 - Fresh Data scientist positions aggregated from multiple job boards
 - Daily updates mean you see opportunities as soon as they're posted
 - Mix of remote, hybrid, and on-site positions from various company sizes
@@ -78,6 +78,7 @@ This repository tracks current Data scientist positions from companies across di
 **Maximize your applications:** Instead of manually applying to each job, consider using [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs) to automate your applications with personalized cover letters and tracking.
 
 **Stay updated:**
+
 - Star this repository to get updates in your GitHub feed
 - Check back daily for new positions
 - Set up GitHub notifications for this repo
@@ -86,8 +87,8 @@ This repository tracks current Data scientist positions from companies across di
 
 This repository gets consistent traffic from Data scientist professionals actively job searching. The audience is pre-qualified and specifically interested in Data scientist opportunities.
 
----
-
 This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs). If you find any issues or have suggestions, please contact us at hello@jobr.pro.
+
+---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)**
