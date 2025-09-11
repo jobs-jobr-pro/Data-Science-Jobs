@@ -1,3 +1,4 @@
+<!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
 This repository collects curated **Data scientist opportunities in 2025**.  
@@ -8,9 +9,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ## Current Openings
 
-| Company | Position | Location | Type | Posted |
+| Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-
 | **[Compare the Market](https://www.comparethemarket.com/)** | **[Senior Data Scientist](https://bglgroup.taleo.net/careersection/bgl_external/jobdetail.ftl?job=006380)** | United Kingdom | On Site | Sep 11 |
 | **[TikTok](https://www.tiktok.com/)** | **[Lead Data Scientist (Multiple Positions)](https://lifeattiktok.com/search/7546743567906244882)** | Seattle, Washington, United States | On Site | Sep 11 |
 | **[TikTok](https://www.tiktok.com/)** | **[Lead Data Scientist, Analytics (Multiple Positions)](https://lifeattiktok.com/search/7546742413248055560)** | San Jose, California, United States | On Site | Sep 11 |
@@ -100,3 +100,4 @@ This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_s
 ---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)**
+<!-- prettier-ignore-end -->
