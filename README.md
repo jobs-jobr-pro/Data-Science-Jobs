@@ -10,7 +10,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Work Model | Date Posted |
 | ------- | -------- | -------- | ---------- | ----------- |
-
 | **[SQLI](https://www.sqli.com)** | **[Data Scientist IA Generative H/F](https://jobs.smartrecruiters.com/SQLI1/744000081246171-data-scientist-ia-generative-h-f)** | Levallois-Perret, IDF, France | On Site | Sep 11 |
 | **[Davies](https://davies-group.com/)** | **[Data Scientist](https://davies.pinpointhq.com/en/postings/cab5c1be-457e-4c1d-b250-f7926b3b8315)** | Madrid | On Site | Sep 11 |
 | **[Visa](https://visa.com)** | **[Data Scientist](https://jobs.smartrecruiters.com/Visa/744000081222866-data-scientist)** | Bangalore, INDIA, India | On Site | Sep 11 |
