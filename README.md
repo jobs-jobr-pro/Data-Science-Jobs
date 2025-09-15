@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Sep 15, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 15, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Aga Khan University](https://www.aku.edu/)** | **[Post Doc Fellow (Data Scientist): Pathology and Laboratory Medicine](https://aku.taleo.net/careersection/ex/jobdetail.ftl?job=24000104)** | Pakistan-Karachi | On Site | Sep 15 |
+| **[Wise](https://wise.com)** | **[Senior Data Scientist - Risk](https://jobs.smartrecruiters.com/Wise/744000081986538-senior-data-scientist-risk)** | Tallinn, Estonia | On Site | Sep 15 |
+| **[Playtech](https://www.playtech.com/)** | **[Data Scientist](https://jobs.smartrecruiters.com/Playtech/744000081986245-data-scientist)** | Sofia, Bulgaria | On Site | Sep 15 |
+| **[NielsenIQ](https://nielseniq.com)** | **[Lead Data Scientist](https://jobs.smartrecruiters.com/NielsenIQ/744000081983610-lead-data-scientist)** | Mumbai, MH, India | On Site | Sep 15 |
+| **[Coface](https://www.coface.com)** | **[Data Scientist / ML Engineer](https://jobs.smartrecruiters.com/Coface/744000081981330-data-scientist-ml-engineer)** | Casablanca, Casablanca-Settat, Morocco | On Site | Sep 15 |
+| **[Wise](https://wise.com)** | **[Senior Data Scientist - Know Your Customer](https://jobs.smartrecruiters.com/Wise/744000081980846-senior-data-scientist-know-your-customer)** | Tallinn, Estonia | On Site | Sep 15 |
 | **[Google](https://www.google.com/)** | **[Data Scientist, Product, Customer Engagement](https://www.google.com/about/careers/applications/jobs/results/128135960712880838-data-scientist-product-customer-engagement)** | Irvine, CA, USA | On Site | Sep 15 |
 | **[Google](https://www.google.com/)** | **[Data Scientist III, Product, Google Cloud Business Platform](https://www.google.com/about/careers/applications/jobs/results/133335052984427206-data-scientist-iii-product-google-cloud-business-platform)** | Sunnyvale, CA, USA | On Site | Sep 15 |
 | **[Google](https://www.google.com/)** | **[Customer Engagement, Staff Data Scientist, Go-To-Market, Metrics](https://www.google.com/about/careers/applications/jobs/results/135630833263223494-customer-engagement-staff-data-scientist-gotomarket-metrics)** | Mountain View, CA, USA | On Site | Sep 15 |
@@ -21,16 +27,26 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zip Co Limited](https://zip.co/)** | **[Data Scientist (Credit Risk)](https://job-boards.greenhouse.io/zipcolimited/jobs/4589313006)** | Melbourne | On Site | Sep 15 |
 | **[Coupang](https://www.coupang.com/)** | **[Staff Data Scientist (CXDX)](https://boards.greenhouse.io/coupanginternal/jobs/7244650?gh_jid=7244650)** | Seoul, South Korea | On Site | Sep 15 |
 | **[Coupang](https://www.coupang.jobs/)** | **[Staff Data Scientist (LLM Specialist)](https://www.coupang.jobs/en/jobs/?gh_jid=7244649)** | Seoul, South Korea | On Site | Sep 15 |
+| **[BBVA](https://www.bbva.com/)** | **[Expert Data Scientist](https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/job/28050-MADRID-Madrid/Expert-Data-Scientist_JR00062695)** | MANOTERAS \[00018855 BCO.BILBAO VIZCAYA ARGENTARIA\], Spain | On Site | Sep 15 |
 | **[Sun Life](https://www.sunlife.com/)** | **[Senior Specialist - Data Scientist](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Gurgaon-Haryana/Senior-Specialist----Data-Scientist_JR00115363)** | Sun Life Global Solutions Private Limited, India | On Site | Sep 15 |
-| **[bp](https://www.bp.com/)** | **[Data Scientist](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpCareers/job/India---Pune/Data-Scientist_RQ100245)** | IN: Pune Yerwada Commerzone Campus, India | On Site | Sep 15 |
+| **[Barclays](https://home.barclays/)** | **[AI Incubator - Data Scientist](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/AI-Incubator---Data-Scientist_JR-0000061803)** | Gera Commerzone SEZ, Pune, India | On Site | Sep 15 |
 | **[Epicor](https://www.epicor.com/)** | **[Data Scientist, Sr - (Databricks , Azure, ML Engineering)](https://epicorsoftware.wd5.myworkdayjobs.com/en-US/epicorjobs/job/India-Bangalore/Data-Scientist--Sr_JR102046)** | India, Bangalore | On Site | Sep 15 |
+| **[bp](https://www.bp.com/)** | **[Data Scientist](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpCareers/job/India---Pune/Data-Scientist_RQ100245)** | IN: Pune Yerwada Commerzone Campus, India | On Site | Sep 15 |
+| **[Allstate](https://www.allstate.com/)** | **[Data Scientist - Insurance Modeling](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Data-Scientist---Insurance-Modeling_R21854)** | USA - OR (Remote), United States | Remote | Sep 15 |
+| **[BBVA](https://www.bbva.com/)** | **[Data Scientist GenAI (LLMs)](https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/job/28050-MADRID-Madrid/Data-Scientist-GenAI--LLMs-_JR00062696-2)** | MANOTERAS \[00018855 BCO.BILBAO VIZCAYA ARGENTARIA\], Spain | On Site | Sep 15 |
+| **[Barclays](https://home.barclays/)** | **[Lead Data Scientist](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Lead-Data-Scientist_JR-0000073726)** | Canary Wharf, 1 Churchill Place, United Kingdom | On Site | Sep 15 |
+| **[SWATX](https://swatxsolutions.com/)** | **[Data Scientist](https://apply.workable.com/j/A59A937FB7/apply)** | Gaborone, Gaborone, Botswana | On Site | Sep 14 |
+| **[The Data Appeal Company](https://www.datappeal.io)** | **[Data Scientist](https://careers.datappeal.io/jobs/5690824-data-scientist)** | Firenze, Italy | On Site | Sep 14 |
+| **[Axiom Software Solutions Limited](https://www.axiomsoftwaresolutions.com/)** | **[Data Scientist](https://apply.workable.com/j/C4D5F4C6EC/apply)** | Chennai, Tamil Nadu, India | On Site | Sep 14 |
+| **[Axiom Software Solutions Limited](https://www.axiomsoftwaresolutions.com/)** | **[Data Scientist - 2](https://apply.workable.com/j/D93628B55A/apply)** | San Jose, California, United States | On Site | Sep 14 |
 | **[TENICA Global Solutions](https://www.tenica-gs.com/)** | **[Data Scientist, Senior - TS/SCI CI poly](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1194066)** | Chantilly, VA, US | On Site | Sep 14 |
 | **[Egnyte](https://www.egnyte.com/)** | **[Principal Applied Data Scientist](https://jobs.jobvite.com/egnyte/job/oNfEvfwV)** | Mountain View, California, United States | On Site | Sep 14 |
 | **[Paradyme](https://www.paradymemanagement.com/)** | **[Data Scientist - Top Secret with CI or FS Poly](https://careers-paradymemanagement.icims.com/jobs/2430/application-engineer-ii/job?in_iframe=1)** | Tysons, VA, United States | On Site | Sep 14 |
 | **[Nakupuna Companies](https://nakupuna.com/)** | **[Program Data Scientist](https://careers-nakupuna.icims.com/jobs/5708/program-data-scientist/job?in_iframe=1)** | Fort Belvoir, VA, United States | On Site | Sep 14 |
 | **[Luma AI](https://lumalabs.ai/)** | **[Senior Data Scientist](https://jobs.lever.co/LumaAi/7df8340c-1407-4fe5-860a-d9e8b59e3995)** | Palo Alto, California | On Site | Sep 14 |
-| **[Caterpillar Inc.](https://www.caterpillar.com/)** | **[Data Scientist](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Irving-Texas/Data-Scientist_R0000312984)** | Irving, Texas, United States | On Site | Sep 14 |
 | **[PwC](https://www.pwc.com/)** | **[AML/Sanctions- Data Scientist- Manager](https://pwc.wd3.myworkdayjobs.com/en-US/US_Experienced_Careers/job/NY-New-York/AML-Sanctions--Data-Scientist--Manager_665590WD-1)** | New York - 300 Madison Avenue, United States | On Site | Sep 14 |
+| **[Dell Technologies](https://www.delltechnologies.com/)** | **[Senior Principal Data Scientist](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Bangalore-India/Consultant-Data-Scientist_R274674)** | Bangalore, India | On Site | Sep 14 |
+| **[Caterpillar Inc.](https://www.caterpillar.com/)** | **[Data Scientist](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Irving-Texas/Data-Scientist_R0000312984)** | Irving, Texas, United States | On Site | Sep 14 |
 | **[Confluent](https://www.confluent.io/)** | **[Data Scientist, Marketing](https://jobs.ashbyhq.com/confluent/b4ce6e56-3065-4c76-b5f7-e58e23326f4b)** | Remote, United States | Remote | Sep 13 |
 | **[University Hospitals](https://www.uhhospitals.org/)** | **[Data Scientist Quality Center Services](https://uhhospitals.taleo.net/careersection/2/jobdetail.ftl?job=250008I4)** | United States-Ohio-Cleveland | On Site | Sep 13 |
 | **[UT Southwestern Medical Center](https://www.utsouthwestern.edu/)** | **[Data Scientist I, Internal Medicine](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=892068)** | Texas-Dallas-5323 Harry Hines Blvd | On Site | Sep 13 |
@@ -39,7 +55,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Data Scientist Manager, Product](https://www.google.com/about/careers/applications/jobs/results/96279595572961990-senior-data-scientist-manager-product)** | Mountain View, CA, USA; Kirkland, WA, USA | On Site | Sep 13 |
 | **[Google](https://www.google.com/)** | **[Senior Data Scientist, Product, Google Cloud Business Platform](https://www.google.com/about/careers/applications/jobs/results/103755587447071430-senior-data-scientist-product-google-cloud-business-platform)** | Sunnyvale, CA, USA; Seattle, WA, USA | On Site | Sep 13 |
 | **[Google](https://www.google.com/)** | **[Data Scientist, Research, YouTube Gaming Discovery](https://www.google.com/about/careers/applications/jobs/results/133609458444968646-data-scientist-research-youtube-gaming-discovery)** | San Bruno, CA, USA | On Site | Sep 13 |
-| **[Coalition](https://www.coalitioninc.com/)** | **[Senior Data Scientist](https://www.coalitioninc.com/job-posting?gh_jid=4608460005)** | Any location, Canada | On Site | Sep 12 |
+| **[Coalition](https://www.coalitioninc.com/)** | **[Senior Data Scientist](https://www.coalitioninc.com/job-posting?gh_jid=4608424005)** | Any location, United States | On Site | Sep 12 |
 | **[Energy Solutions](https://energy-solution.com/)** | **[Data Scientist II (Hybrid - US)](https://job-boards.greenhouse.io/energysolutions/jobs/4775987007)** | Boston, Massachusetts, United States; Chicago, Illinois, United States; New York, New York, United States; Oakland, California, United States; Orange, California, United States; Pacific Northwest | On Site | Sep 12 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job - 24595\] Senior Data Scientist, Brazil](https://jobs.lever.co/ciandt/8d76456a-67c9-461b-8139-30c9db0c1f9d)** | Brazil | On Site | Sep 12 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job - 24595\] Senior Data Scientist, Colombia](https://jobs.lever.co/ciandt/63c28f39-3976-4896-94a5-a97b5bcc1679)** | Colombia | On Site | Sep 12 |
@@ -47,26 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[American Bureau of Shipping](https://ww2.eagle.org/)** | **[Data Scientist, Staff](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/3520)** | Houston, TX, United States | On Site | Sep 12 |
 | **[SpaceX](https://www.spacex.com/)** | **[Data Scientist (Starlink Sales)](https://boards.greenhouse.io/spacex/jobs/8168123002?gh_jid=8168123002)** | Redmond, WA | On Site | Sep 12 |
 | **[SoFi](https://www.sofi.com/)** | **[Sr Data Scientist- Reporting and Analytics](https://sofi.com/careers/job/6606154003?gh_jid=6606154003)** | CA - San Francisco; US - Remote | Remote | Sep 12 |
-| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Staff Data Scientist, Full Stack](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000081712163-staff-data-scientist-full-stack)** | Santa Clara, CA, United States | On Site | Sep 12 |
-| **[Ubisoft](https://www.ubisoft.com/)** | **[Senior Data Scientist](https://jobs.smartrecruiters.com/Ubisoft2/744000081714027-senior-data-scientist)** | Montreal, QC, Canada | On Site | Sep 12 |
-| **[Robinhood](https://robinhood.com/)** | **[Senior Data Scientist - Product](https://boards.greenhouse.io/robinhood/jobs/7248840?t=gh_src=&gh_jid=7248840)** | New York, NY | On Site | Sep 12 |
-| **[C3.ai](https://c3.ai/)** | **[Data Scientist/Senior Data Scientist - Optimization](https://c3.ai/job-description/8167877002?gh_jid=8167877002)** | Redwood City, CA | On Site | Sep 12 |
-| **[Airbnb](https://www.airbnb.com/)** | **[Data Scientist, Operations Research/Customer Support (Inference)](https://careers.airbnb.com/positions/6922472?gh_jid=6922472)** | United States | On Site | Sep 12 |
-| **[Tilt](https://www.tilt.app/)** | **[Senior Growth Data Scientist](https://jobs.ashbyhq.com/tilt/ed501776-2b51-4c16-a3eb-c30f088d557c)** | London | On Site | Sep 12 |
-| **[Waymo](https://waymo.com/)** | **[Data Scientist](https://careers.withwaymo.com/jobs?gh_jid=6608598)** | Mountain View, California, USA | On Site | Sep 12 |
-| **[ADT](https://www.adt.com/)** | **[Data Scientist - People Analytics](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/3016577)** | Topeka, KS, United States | On Site | Sep 12 |
-| **[Northbeam](https://www.northbeam.io/)** | **[Principal Data Scientist, Marketing Measurement](https://job-boards.greenhouse.io/northbeam/jobs/4601240006)** | Remote | Remote | Sep 12 |
-| **[Method](https://www.method.com/)** | **[Senior Data Scientist](https://job-boards.greenhouse.io/method/jobs/7241377003)** | Poland | On Site | Sep 12 |
-| **[Shift Technology](https://www.shift-technology.com/)** | **[Graduate Data Scientist](https://www.shift-technology.com/careers?gh_jid=5910904003)** | United Kingdom - London | On Site | Sep 12 |
-| **[Xplor](https://www.xplortechnologies.com)** | **[Senior Data Scientist](https://jobs.smartrecruiters.com/Xplor/744000081678825-senior-data-scientist)** | Atlanta, GA, United States | On Site | Sep 12 |
-| **[Stellantis](https://www.stellantis.com/)** | **[Data Scientist](https://jobs.groupe-psa.com/Pages/Offre/detailoffre.aspx?idOffre=17242&idOrigine=502&LCID=1036&offerReference=2025-17242)** | Europe, France | On Site | Sep 12 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Asset Management - Data Scientist Lead - Executive Director](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210647999)** | NY, United States | On Site | Sep 12 |
-| **[FORFIRM](https://forfirm.com/)** | **[Data Scientist](https://forfirmconsulting.freshteam.com/jobs/mqaHAf70zKM6/data-scientist)** | Ticino, Lugano, Switzerland | On Site | Sep 12 |
-| **[Stash](https://www.stash.com/)** | **[Senior Data Scientist](https://ats.comparably.com/api/v2/stash/post/7248169:?gh_jid=7248169)** | New York | On Site | Sep 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 41 companies | Avg salary: 217k  
+**Current Stats:** 50 jobs | 6% remote | 37 companies | Avg salary: 219k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
