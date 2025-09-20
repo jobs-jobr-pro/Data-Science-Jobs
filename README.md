@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Sep 20, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Sep 20, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,10 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Meta](https://www.meta.com/)** | **[Data Scientist, Product Analytics](https://www.metacareers.com/jobs/572429542041302/)** | Sunnyvale, CA \| Los Angeles, CA \| Bellevue, WA \| Redmond, WA \| Austin, TX \| Menlo Park, CA \| Seattle, WA \| Burlingame, CA \| Washington, DC \| New York, NY \| San Francisco, CA | On Site | Sep 20 |
+| **[Google](https://www.google.com/)** | **[Senior Data Scientist, Intelligent Automation and Recommendation](https://www.google.com/about/careers/applications/jobs/results/100738798123393734-senior-data-scientist-intelligent-automation-and-recommendation)** | Warsaw, Poland | On Site | Sep 20 |
 | **[Five9](https://www.five9.com/)** | **[Associate Data Scientist/AI Trainer](https://www.five9.com/about/careers/job-detail?gh_jid=5656002004)** | United States (Remote) | Remote | Sep 20 |
 | **[NEORIS](https://www.neoris.com)** | **[Data Scientist Senior - Sector Financiero](https://job-boards.eu.greenhouse.io/neoris/jobs/4675939101)** | Quito, Ecuador | On Site | Sep 20 |
 | **[Chan Zuckerberg Initiative](https://chanzuckerberg.com/)** | **[Senior Data Scientist, Genomics/Epigenetics, Science](https://boards.greenhouse.io/chanzuckerberginitiative/jobs/7187973?gh_jid=7187973)** | Redwood City, CA (Open to Flex) | On Site | Sep 20 |
 | **[Socure](https://www.socure.com/)** | **[Senior Data Scientist, Client Analysis](https://jobs.ashbyhq.com/socure/addf06d7-9761-48b9-b1f0-ed8bf8498211)** | Remote - USA | Remote | Sep 19 |
+| **[Microsoft](https://www.microsoft.com/)** | **[Data Scientist II](https://jobs.careers.microsoft.com/global/en/job/1879802/)** | Redmond, Washington, United States | On Site | Sep 19 |
 | **[Instacart](https://www.instacart.com/)** | **[Data Scientist II, Logistics](https://instacart.careers/job/?gh_jid=7264799)** | United States - Remote | Remote | Sep 19 |
 | **[Customer.io](https://customer.io/)** | **[Senior Data Scientist](https://job-boards.greenhouse.io/customerio/jobs/7264501)** | Americas Remote | Remote | Sep 19 |
 | **[ClinChoice](https://clinchoice.com)** | **[1237# Principal Data Scientist](https://job-boards.eu.greenhouse.io/clinchoice/jobs/4678356101)** | United States | On Site | Sep 19 |
@@ -33,6 +36,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Flagship Pioneering, Inc.](https://www.flagshippioneering.com)** | **[Senior Data Scientist, Life Sciences](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8175811002?gh_jid=8175811002)** | Cambridge, MA USA | On Site | Sep 19 |
 | **[Ironclad](https://ironcladapp.com/)** | **[AI Data Scientist, Evaluation & Insights](https://jobs.ashbyhq.com/ironcladhq/35e1e040-4c68-4fcb-8f00-06b5e97e0f0a)** | San Francisco | Remote | Sep 19 |
 | **[Labelium](https://www.labelium.com)** | **[Stage FE - Data Scientist / Analytics Engineer (H-F)](https://jobs.smartrecruiters.com/Labelium/744000082961845-stage-fe-data-scientist-analytics-engineer-h-f-)** | Paris, IDF, France | On Site | Sep 19 |
+| **[Ardent Principles, Inc](https://www.ardentprinciples.com)** | **[Data Scientist](https://ardentprinciples.pinpointhq.com/en/postings/00edf094-e34a-4d8c-958b-0db0c0906abe)** | Chantilly, VA | On Site | Sep 19 |
 | **[AbbVie](https://www.abbvie.com/)** | **[Senior Data Scientist, RBQM Analytics](https://jobs.smartrecruiters.com/AbbVie/3743990009548616-senior-data-scientist-rbqm-analytics)** | North Chicago, IL, United States | On Site | Sep 19 |
 | **[Full Visibility LLC](https://www.fullvisibility.com/)** | **[Data Scientist - SR](https://fullvisibility.zohorecruit.com/jobs/Careers/523706000007786032)** | Chantilly, United States | On Site | Sep 19 |
 | **[Ignitis Group](https://www.ignitisgrupe.lt)** | **[DATA SCIENTIST / AI EXPERT (F/M/D)](https://jobs.smartrecruiters.com/Ignitisgroup/744000082940575-data-scientist-ai-expert-f-m-d-)** | Riga, Latvia | On Site | Sep 19 |
@@ -40,6 +44,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Exadel](https://exadel.com/)** | **[Lead Data Scientist (AI)](https://job-boards.greenhouse.io/exadelinc/jobs/5653715004)** | Bulgaria, Hungary, Lithuania, Poland, Romania | On Site | Sep 19 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Lead Data Scientist TS/SCI with Poly Required](https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Data-Scientist-TS-SCI-with-Poly-Required/312591)** | Arlington/Rosslyn, Virginia, United States | On Site | Sep 19 |
 | **[Red Gate Group](https://www.redgategrp.com)** | **[Senior Data Scientist](https://jobs.smartrecruiters.com/RedGateGroup/744000082931625-senior-data-scientist)** | Reston, VA, United States | On Site | Sep 19 |
+| **[Kotak Mahindra Bank](https://www.kotak.com/)** | **[Data Scientist-KMPL Support Services-Analytics](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/212431)** | Mumbai, Maharashtra, India | On Site | Sep 19 |
 | **[dunnhumby](https://www.dunnhumby.com/)** | **[Senior Applied Data Scientist](https://job-boards.greenhouse.io/dunnhumby/jobs/6655580003)** | Bentonville | On Site | Sep 19 |
 | **[Truelogic](https://www.truelogic.io/)** | **[Data Scientist / Portfolio Analytics - Technology Services (AI & Software) - Remote (Panama)](https://jobs.ashbyhq.com/truelogic/6aa33a37-0ffa-445c-bbc1-c2463144d62b)** | Panama | Remote | Sep 19 |
 | **[Truelogic](https://www.truelogic.io/)** | **[Data Scientist / Portfolio Analytics - Technology Services (AI & Software) - Remote (Santo Domingo)](https://jobs.ashbyhq.com/truelogic/851e3fa8-4743-4409-8bef-9b7bc76e497d)** | Santo Domingo | Remote | Sep 19 |
@@ -49,24 +54,19 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Truelogic](https://www.truelogic.io/)** | **[Data Scientist / Portfolio Analytics - Technology Services (AI & Software) - Remote (Brazil)](https://jobs.ashbyhq.com/truelogic/0565deee-4df5-4326-a53d-72dc43c6a78f)** | Brazil | Remote | Sep 19 |
 | **[Truelogic](https://www.truelogic.io/)** | **[Data Scientist / Portfolio Analytics - Technology Services (AI & Software) - Remote (LATAM)](https://jobs.ashbyhq.com/truelogic/822202df-488c-44c0-a727-bf2ae2ee3122)** | LatAm | Remote | Sep 19 |
 | **[Preply](https://preply.com/)** | **[Data Scientist - Insights](https://preply.com/en/careers/apply?gh_jid=7408539003)** | Barcelona, Spain | On Site | Sep 19 |
+| **[Applied Physics](https://appliedphysics.org/)** | **[Data Scientist](https://apply.workable.com/j/44DA32656D/apply)** | New York, New York, United States | On Site | Sep 19 |
 | **[Google](https://www.google.com/)** | **[Data Scientist, Marketing](https://www.google.com/about/careers/applications/jobs/results/103159192583316166-data-scientist-marketing)** | Dublin, Ireland | On Site | Sep 19 |
 | **[Google](https://www.google.com/)** | **[Data Scientist Manager, Product, Cloud](https://www.google.com/about/careers/applications/jobs/results/133596972975039174-data-scientist-manager-product-cloud)** | Bengaluru, Karnataka, India | On Site | Sep 19 |
-| **[Google](https://www.google.com/)** | **[Data Scientist, Product, Core Developer (English)](https://www.google.com/about/careers/applications/jobs/results/122458911595733702-data-scientist-product-core-developer-english)** | Mexico City, CDMX, Mexico | On Site | Sep 19 |
 | **[Google](https://www.google.com/)** | **[Senior Data Scientist, Product, Googler Technology and Engineering](https://www.google.com/about/careers/applications/jobs/results/86430114576769734-senior-data-scientist-product-googler-technology-and-engineering)** | San Francisco, CA, USA; Austin, TX, USA | On Site | Sep 19 |
+| **[Google](https://www.google.com/)** | **[Data Scientist, Product, Core Developer (English)](https://www.google.com/about/careers/applications/jobs/results/122458911595733702-data-scientist-product-core-developer-english)** | Mexico City, CDMX, Mexico | On Site | Sep 19 |
 | **[JW Player](https://jwplayer.com/)** | **[Data Scientist](https://jwpconnatix.com/careers/job-posting?gh_jid=7257887)** | Romania | On Site | Sep 19 |
 | **[Blend360](https://blend360.com)** | **[Senior Data Scientist](https://jobs.smartrecruiters.com/Blend360/744000082887379-senior-data-scientist)** | Hyderabad, TS, India | On Site | Sep 19 |
 | **[Cognism](https://www.cognism.com/)** | **[Data Scientist (Information Retrieval)](https://www.cognism.com/jobs?gh_jid=4641247101)** | Croatia | On Site | Sep 19 |
 | **[Storio Group](https://www.storiogroup.com/)** | **[Senior Data Scientist](https://jobs.lever.co/storiogroup/d5e04758-3591-400d-b857-4f1f7a90683e)** | Amsterdam, NL | On Site | Sep 19 |
-| **[Cint](https://www.cint.com)** | **[Data Scientist](https://jobs.smartrecruiters.com/Cint/744000082874222-data-scientist)** | London, England, United Kingdom | Remote | Sep 19 |
-| **[Cint](https://www.cint.com)** | **[Senior Data Scientist](https://jobs.smartrecruiters.com/Cint/744000082874375-senior-data-scientist)** | London, England, United Kingdom | Remote | Sep 19 |
-| **[Telesign](https://www.telesign.com/)** | **[Data Scientist](https://www.telesign.com/careers/open-positions?gh_jid=7020270003)** | Belgrade | On Site | Sep 19 |
-| **[Hitachi Digital Services](https://hitachids.com)** | **[Data Scientist](https://hitachids.com/careers/job-details/?jid=8174382002&gh_jid=8174382002)** | Ha Noi | On Site | Sep 19 |
-| **[Next](https://www.next.co.uk/)** | **[Lead Data Scientist - Marketing Science](https://ekeq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/70654)** | Leicester, Leicestershire, United Kingdom | On Site | Sep 19 |
-| **[Hitachi Solutions](https://global.hitachi-solutions.com/)** | **[Data Scientist](https://jobs.smartrecruiters.com/HitachiSolutions/744000015977326-data-scientist)** | Pune, PUNE, India | On Site | Sep 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 40 companies | Avg salary: 205k  
+**Current Stats:** 50 jobs | 34% remote | 40 companies | Avg salary: 203k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
