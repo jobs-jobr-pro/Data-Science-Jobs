@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Sep 20, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 20, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ADP](https://www.adp.com/)** | **[Senior Data Scientist - Market Place](https://myjobs.adp.com/apply/cx/job-details?reqId=5001150438506)** | Porto Alegre, BRA-RS, Brazil | On Site | Sep 20 |
 | **[TikTok](https://www.tiktok.com/)** | **[Data Scientist - TikTok Integrity and Safety (San Jose)](https://lifeattiktok.com/search/7551286590381263111)** | San Jose, California, United States | On Site | Sep 20 |
 | **[Meta](https://www.meta.com/)** | **[Data Scientist, Product Analytics](https://www.metacareers.com/jobs/572429542041302/)** | Sunnyvale, CA \| Los Angeles, CA \| Bellevue, WA \| Redmond, WA \| Austin, TX \| Menlo Park, CA \| Seattle, WA \| Burlingame, CA \| Washington, DC \| New York, NY \| San Francisco, CA | On Site | Sep 20 |
 | **[Google](https://www.google.com/)** | **[Senior Data Scientist, Intelligent Automation and Recommendation](https://www.google.com/about/careers/applications/jobs/results/100738798123393734-senior-data-scientist-intelligent-automation-and-recommendation)** | Warsaw, Poland | On Site | Sep 20 |
@@ -30,6 +31,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pinterest](https://www.pinterest.com/)** | **[Sr. Data Scientist, Algorithms](https://job-boards.greenhouse.io/pinterestjobadvertisements/jobs/7264313)** | New York, NY, US; Remote, NY, US | Remote | Sep 19 |
 | **[Haystack News](https://haystack.tv/)** | **[Senior Data Scientist](https://jobs.ashbyhq.com/haystacknews/6f30759f-3228-4814-9eef-0f762209e1ae)** | Fort Lauderdale Office | Remote | Sep 19 |
 | **[Moloco](https://www.moloco.com/)** | **[Senior Data Scientist, Product Analytics](https://job-boards.greenhouse.io/moloco/jobs/6069016003)** | Redwood City, California, United States | On Site | Sep 19 |
+| **[2HB Incorporated](https://www.2hb.com)** | **[Data Scientist](https://2hb.catsone.com/careers/64727-General/jobs/16729040-Data-Scientist)** | Chantilly, VA | On Site | Sep 19 |
 | **[Lightcast](https://lightcast.io/)** | **[Data Scientist](https://jobs.lever.co/economicmodeling/777859df-4b0c-4564-bfa3-8f61e92d9101)** | Remote (Work From Home) US | Remote | Sep 19 |
 | **[Visa](https://visa.com)** | **[Data Scientist - Featurespace](https://jobs.smartrecruiters.com/Visa/744000082977337-data-scientist-featurespace)** | Atlanta, GA, United States | On Site | Sep 19 |
 | **[monday.com](https://monday.com/)** | **[Data Scientist (AI Search & Information Retrieval)](https://monday.com/careers/A7.D50)** | warsha, PL | On Site | Sep 19 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Applied Physics](https://appliedphysics.org/)** | **[Data Scientist](https://apply.workable.com/j/44DA32656D/apply)** | New York, New York, United States | On Site | Sep 19 |
 | **[Google](https://www.google.com/)** | **[Data Scientist, Marketing](https://www.google.com/about/careers/applications/jobs/results/103159192583316166-data-scientist-marketing)** | Dublin, Ireland | On Site | Sep 19 |
 | **[Google](https://www.google.com/)** | **[Data Scientist Manager, Product, Cloud](https://www.google.com/about/careers/applications/jobs/results/133596972975039174-data-scientist-manager-product-cloud)** | Bengaluru, Karnataka, India | On Site | Sep 19 |
-| **[Google](https://www.google.com/)** | **[Senior Data Scientist, Product, Googler Technology and Engineering](https://www.google.com/about/careers/applications/jobs/results/86430114576769734-senior-data-scientist-product-googler-technology-and-engineering)** | San Francisco, CA, USA; Austin, TX, USA | On Site | Sep 19 |
-| **[JW Player](https://jwplayer.com/)** | **[Data Scientist](https://jwpconnatix.com/careers/job-posting?gh_jid=7257887)** | Romania | On Site | Sep 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 41 companies | Avg salary: 203k  
+**Current Stats:** 50 jobs | 34% remote | 42 companies | Avg salary: 201k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
