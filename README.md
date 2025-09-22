@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Sep 22, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Sep 22, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[DZ PRIVATBANK](https://www.dz-privatbank.com)** | **[Data Scientist (m/w/d)](https://jobs.dz-privatbank.com/job/Frankfurt-Data-Scientist-%28mwd%29/1245203301/)** | Frankfurt, DE | On Site | Sep 22 |
+| **[Delivery Hero](https://www.deliveryhero.com)** | **[Senior Data Scientist - (Fintech, Antifraud)](https://jobs.smartrecruiters.com/DeliveryHero/744000083163310-senior-data-scientist-fintech-antifraud-)** | Berlin, Germany | On Site | Sep 22 |
+| **[Sia](https://www.sia-partners.com)** | **[Data Scientist](https://jobs.smartrecruiters.com/Sia/744000083155646-data-scientist)** | Mumbai, MH, India | On Site | Sep 22 |
+| **[Grab](https://www.grab.com)** | **[Senior Principal Data Scientist (Fulfilment)](https://jobs.smartrecruiters.com/Grab/744000083153821-senior-principal-data-scientist-fulfilment-)** | Singapore, Singapore | On Site | Sep 22 |
+| **[Grab](https://www.grab.com)** | **[Senior Data Scientist (Fulfilment)](https://jobs.smartrecruiters.com/Grab/744000083145145-senior-data-scientist-fulfilment-)** | Singapore, Singapore | On Site | Sep 22 |
+| **[Visa](https://visa.com)** | **[Data Scientist](https://jobs.smartrecruiters.com/Visa/744000083141165-data-scientist)** | Shanghai, CHINA, China | On Site | Sep 22 |
+| **[Until](https://www.untillabs.com)** | **[Data Scientist](https://jobs.lever.co/until/9c491ae4-e186-4dcf-86af-e1251d0ddfb9)** | Bay Area | On Site | Sep 22 |
+| **[Singtel](https://www.singtel.com/)** | **[Senior Data Scientist- #AIDA](https://groupcareers.singtel.com/job/Senior-Data-Scientist-AIDA-Sing/1327679966/)** | Singapore, Singapore | On Site | Sep 22 |
+| **[Soum](https://soum.sa/)** | **[Senior Data Scientist](https://jobs.lever.co/soum/4bb2135b-3745-4b49-858f-cdaa0497ac43)** | Remote | Remote | Sep 21 |
+| **[Altimate AI](https://www.altimate.ai/)** | **[Senior Data Scientist - AI/ML Engineer](https://jobs.ashbyhq.com/altimate/e9480396-8a88-43c7-88bc-11077ea25b0a)** | Sunnyvale Office | On Site | Sep 21 |
+| **[Luma AI](https://www.lumalabs.ai/)** | **[Data Scientist](https://jobs.ashbyhq.com/luma-ai/fba3c3f8-5aaa-40ea-a2e9-257947e5e0f3)** | Palo Alto, CA | Remote | Sep 21 |
 | **[ADP](https://www.adp.com/)** | **[Senior Data Scientist - Market Place](https://myjobs.adp.com/apply/cx/job-details?reqId=5001150438506)** | Porto Alegre, BRA-RS, Brazil | On Site | Sep 20 |
 | **[TikTok](https://www.tiktok.com/)** | **[Data Scientist - TikTok Integrity and Safety (San Jose)](https://lifeattiktok.com/search/7551286590381263111)** | San Jose, California, United States | On Site | Sep 20 |
 | **[Meta](https://www.meta.com/)** | **[Data Scientist, Product Analytics](https://www.metacareers.com/jobs/572429542041302/)** | Sunnyvale, CA \| Los Angeles, CA \| Bellevue, WA \| Redmond, WA \| Austin, TX \| Menlo Park, CA \| Seattle, WA \| Burlingame, CA \| Washington, DC \| New York, NY \| San Francisco, CA | On Site | Sep 20 |
@@ -52,21 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Red Gate Group](https://www.redgategrp.com)** | **[Senior Data Scientist](https://jobs.smartrecruiters.com/RedGateGroup/744000082931625-senior-data-scientist)** | Reston, VA, United States | On Site | Sep 19 |
 | **[Kotak Mahindra Bank](https://www.kotak.com/)** | **[Data Scientist-KMPL Support Services-Analytics](https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/212431)** | Mumbai, Maharashtra, India | On Site | Sep 19 |
 | **[dunnhumby](https://www.dunnhumby.com/)** | **[Senior Applied Data Scientist](https://job-boards.greenhouse.io/dunnhumby/jobs/6655580003)** | Bentonville | On Site | Sep 19 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Data Scientist Associate Sr](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210661700)** | Plano, TX, United States | On Site | Sep 19 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Data Scientist / Portfolio Analytics - Technology Services (AI & Software) - Remote (Panama)](https://jobs.ashbyhq.com/truelogic/6aa33a37-0ffa-445c-bbc1-c2463144d62b)** | Panama | Remote | Sep 19 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Data Scientist / Portfolio Analytics - Technology Services (AI & Software) - Remote (Santo Domingo)](https://jobs.ashbyhq.com/truelogic/851e3fa8-4743-4409-8bef-9b7bc76e497d)** | Santo Domingo | Remote | Sep 19 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Data Scientist / Portfolio Analytics - Technology Services (AI & Software) - Remote (Uruguay)](https://jobs.ashbyhq.com/truelogic/6c279107-9a15-4232-a450-20c93e091eeb)** | Uruguay | Remote | Sep 19 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Data Scientist / Portfolio Analytics - Technology Services (AI & Software) - Remote (Mexico)](https://jobs.ashbyhq.com/truelogic/6da15411-c78c-4948-95a6-9b77cb01b710)** | Mexico City | Remote | Sep 19 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Data Scientist / Portfolio Analytics - Technology Services (AI & Software) - Remote (Colombia)](https://jobs.ashbyhq.com/truelogic/a645afb2-f3b2-46f5-add4-d0ee2637f981)** | Bogota | Remote | Sep 19 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Data Scientist / Portfolio Analytics - Technology Services (AI & Software) - Remote (Brazil)](https://jobs.ashbyhq.com/truelogic/0565deee-4df5-4326-a53d-72dc43c6a78f)** | Brazil | Remote | Sep 19 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Data Scientist / Portfolio Analytics - Technology Services (AI & Software) - Remote (LATAM)](https://jobs.ashbyhq.com/truelogic/822202df-488c-44c0-a727-bf2ae2ee3122)** | LatAm | Remote | Sep 19 |
-| **[Preply](https://preply.com/)** | **[Data Scientist - Insights](https://preply.com/en/careers/apply?gh_jid=7408539003)** | Barcelona, Spain | On Site | Sep 19 |
-| **[Applied Physics](https://appliedphysics.org/)** | **[Data Scientist](https://apply.workable.com/j/44DA32656D/apply)** | New York, New York, United States | On Site | Sep 19 |
-| **[Google](https://www.google.com/)** | **[Data Scientist, Marketing](https://www.google.com/about/careers/applications/jobs/results/103159192583316166-data-scientist-marketing)** | Dublin, Ireland | On Site | Sep 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 43 companies | Avg salary: 201k  
+**Current Stats:** 50 jobs | 24% remote | 48 companies | Avg salary: 205k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
