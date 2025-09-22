@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Sep 22, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 22, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -27,9 +27,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Grab](https://www.grab.com)** | **[Senior Data Scientist (Fulfilment)](https://jobs.smartrecruiters.com/Grab/744000083145145-senior-data-scientist-fulfilment-)** | Singapore, Singapore | On Site | Sep 22 |
 | **[Visa](https://visa.com)** | **[Data Scientist](https://jobs.smartrecruiters.com/Visa/744000083141165-data-scientist)** | Shanghai, CHINA, China | On Site | Sep 22 |
 | **[Until](https://www.untillabs.com)** | **[Data Scientist](https://jobs.lever.co/until/9c491ae4-e186-4dcf-86af-e1251d0ddfb9)** | Bay Area | On Site | Sep 22 |
-| **[CF](https://www.carnallfarrar.com/)** | **[Lead Data Scientist](https://apply.workable.com/j/4FF529DBB5/apply)** | London, England, United Kingdom | Remote | Sep 22 |
+| **[Alliander](https://www.werkenbij.alliander.com/)** | **[Senior Data Scientist](https://alliander.wd3.myworkdayjobs.com/en-US/alliander/job/ARNHEM/Senior-Data-Scientist_JR16647)** | ARNHEM, Netherlands | On Site | Sep 22 |
 | **[UBS](https://www.ubs.com/)** | **[Data Scientist](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=319645)** | Singapore, Singapore | On Site | Sep 22 |
 | **[Weekday](https://www.weekday.works)** | **[Data Scientist](https://apply.workable.com/j/9A4A857451/apply)** | Chennai, Tamil Nadu, India | On Site | Sep 22 |
+| **[CF](https://www.carnallfarrar.com/)** | **[Lead Data Scientist](https://apply.workable.com/j/4FF529DBB5/apply)** | London, England, United Kingdom | Remote | Sep 22 |
+| **[Pfizer](https://www.pfizer.com/)** | **[Senior Statistical Data Scientist](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/India---Chennai/Senior-Statistical-Data-Scientist_4942858)** | IND - Chennai Office, India | On Site | Sep 22 |
 | **[Magna International](https://www.magna.com/)** | **[Data Scientist, Digital Platforms & Products](https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Bangalore-IN/Data-Scientist--Digital-Platforms---Products_R00211150)** | GF Unit G01 and G02, Block C4, Brigade Tech Gardens, ITPL Main Road, Brookefield, Kundalahalli, India | On Site | Sep 22 |
 | **[Singtel](https://www.singtel.com/)** | **[Senior Data Scientist- #AIDA](https://groupcareers.singtel.com/job/Senior-Data-Scientist-AIDA-Sing/1327679966/)** | Singapore, Singapore | On Site | Sep 22 |
 | **[Omegapoint](https://www.omegapoint.se)** | **[Data Engineer/Data Scientist](https://jobb.omegapoint.se/jobs/5720273-data-engineer-data-scientist)** | Västerås, Sweden | On Site | Sep 21 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Visa](https://visa.com)** | **[Data Scientist - Featurespace](https://jobs.smartrecruiters.com/Visa/744000082977337-data-scientist-featurespace)** | Atlanta, GA, United States | On Site | Sep 19 |
 | **[monday.com](https://monday.com/)** | **[Data Scientist (AI Search & Information Retrieval)](https://monday.com/careers/A7.D50)** | warsha, PL | On Site | Sep 19 |
 | **[Huawei Technologies Canada Co., Ltd.](https://www.huawei.com/ca/)** | **[Co-op Engineer - Data Scientist](https://huaweicanada.recruitee.com/o/co-op-engineer-data-scientist)** | Markham, Ontario, Canada | On Site | Sep 19 |
-| **[Bolt](https://bolt.eu/)** | **[Senior Data Scientist](https://bolt.eu/en/careers/positions/8166286002?gh_jid=8166286002)** | Tallinn, Estonia | On Site | Sep 19 |
-| **[Lila Sciences](https://www.lila.ai/)** | **[Senior Data Scientist, Life Sciences](https://job-boards.greenhouse.io/lila/jobs/8175812002)** | Cambridge, MA | On Site | Sep 19 |
 
 ---
 
