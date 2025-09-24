@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Sep 24, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 24, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,23 +13,36 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Marktine Technology Solutions Pvt Ltd](https://marktine.com/)** | **[Data Scientist](https://marktine.zohorecruit.com/jobs/Careers/634479000000393037)** | Remote | Remote | Sep 24 |
+| **[MigrationIT](https://www.migrationit.com/)** | **[Data Scientist](https://migrationit.zohorecruit.com/jobs/Careers/586058000013931457)** | Cairo, Egypt | On Site | Sep 24 |
+| **[Vattenfall](https://group.vattenfall.com)** | **[Lead Data Scientist](https://jobs.smartrecruiters.com/Vattenfall/744000083658020-lead-data-scientist)** | Amsterdam, NH, Netherlands | On Site | Sep 24 |
+| **[Western Digital](https://www.westerndigital.com)** | **[(NEW GRAD ONLY) Data Scientist](https://jobs.smartrecruiters.com/WesternDigital/744000083660505--new-grad-only-data-scientist)** | Amphoe Si Maha Phot, Prachin Buri, Thailand | On Site | Sep 24 |
 | **[Google](https://www.google.com/)** | **[Staff Data Scientist, Research, Applied AI](https://www.google.com/about/careers/applications/jobs/results/85682650680828614-staff-data-scientist-research-applied-ai)** | Sunnyvale, CA, USA | On Site | Sep 24 |
 | **[Google](https://www.google.com/)** | **[Data Scientist III, Product](https://www.google.com/about/careers/applications/jobs/results/85351663321129670-data-scientist-iii-product)** | Mountain View, CA, USA; New York, NY, USA | On Site | Sep 24 |
 | **[Google](https://www.google.com/)** | **[Staff Data Scientist, Product, Applied AI](https://www.google.com/about/careers/applications/jobs/results/92211550726562502-staff-data-scientist-product-applied-ai)** | Sunnyvale, CA, USA | On Site | Sep 24 |
 | **[Google](https://www.google.com/)** | **[Data Scientist III, Product, Pricing and Retention, Google Fi](https://www.google.com/about/careers/applications/jobs/results/118925680371999430-data-scientist-iii-product-pricing-and-retention-google-fi)** | Mountain View, CA, USA | On Site | Sep 24 |
+| **[Socotec](https://www.socotec.fr)** | **[Data Scientist (AI Engineer)](https://jobs.smartrecruiters.com/Socotec/744000083650280-data-scientist-ai-engineer-)** | Ba Đình, Hà Nội, Vietnam | On Site | Sep 24 |
+| **[Delivery Hero](https://www.deliveryhero.com)** | **[Staff Data Scientist - Economics](https://jobs.smartrecruiters.com/DeliveryHero/744000083648655-staff-data-scientist-economics)** | Berlin, Germany | On Site | Sep 24 |
+| **[Talan](https://talan.com)** | **[Stage - Consultant Data Scientist SCORING.AI - H/F](https://jobs.smartrecruiters.com/Talan/744000083633562-stage-consultant-data-scientist-scoring-ai-h-f)** | Paris, IDF, France | On Site | Sep 24 |
+| **[NBCUniversal](https://www.nbcunicareers.com)** | **[Lead Data Scientist](https://jobs.smartrecruiters.com/NBCUniversal3/744000083628675-lead-data-scientist)** | Brentford, United Kingdom | On Site | Sep 24 |
 | **[Colgate-Palmolive](https://www.colgatepalmolive.com/)** | **[Data Scientist](https://jobs.colgate.com/job/Topeka-Data-Scientist-KS-66601/1328788100/)** | Topeka, KS, US | On Site | Sep 24 |
+| **[Coface](https://www.coface.com)** | **[Data Scientist](https://jobs.smartrecruiters.com/Coface/744000083620627-data-scientist)** | Mumbai, Maharashtra , India | On Site | Sep 24 |
 | **[Truecaller](https://www.truecaller.com/)** | **[Senior Data Scientist](https://job-boards.greenhouse.io/truecaller/jobs/7267472)** | Bangalore | On Site | Sep 24 |
-| **[Coinbase](https://www.coinbase.com/)** | **[Data Scientist II - Product Analytics](https://www.coinbase.com/careers/positions/6746206?gh_jid=6746206)** | Berlin, Germany | Remote | Sep 24 |
+| **[Coinbase](https://www.coinbase.com/)** | **[Data Scientist II - Product Analytics](https://www.coinbase.com/careers/positions/6746202?gh_jid=6746202)** | Remote - UK | Remote | Sep 24 |
 | **[LinkedIn](https://www.linkedin.com/)** | **[Senior Staff Data Scientist](https://jobs.smartrecruiters.com/LinkedIn3/744000083594755-senior-staff-data-scientist)** | Bengaluru, KA, India | On Site | Sep 24 |
 | **[AI Sqaured](https://squared.ai/)** | **[Data Scientist](https://job-boards.greenhouse.io/aisquared/jobs/4604009006)** | Washington, DC | On Site | Sep 24 |
-| **[Complexio](https://complexio.com/)** | **[Data Scientist](https://apply.workable.com/j/EAF0D2C4F6/apply)** | Warsaw, Masovian Voivodeship, Poland | On Site | Sep 24 |
-| **[Mastercard](https://www.mastercard.com/)** | **[Senior Data Scientist](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Navi-Mumbai-India-Finicity/Senior-Data-Scientist_R-257885)** | Navi Mumbai, India (Finicity) | On Site | Sep 24 |
 | **[Kyndryl](https://www.kyndryl.com/)** | **[Data Scientist](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Mumbai-Maharashtra-India/Data-Scientist_R-48228)** | KIN51515 Mumbai (KIN51515) We Work, India | On Site | Sep 24 |
+| **[Complexio](https://complexio.com/)** | **[Data Scientist](https://apply.workable.com/j/EAF0D2C4F6/apply)** | Warsaw, Masovian Voivodeship, Poland | On Site | Sep 24 |
+| **[SciTec](https://scitec.com/)** | **[Sr. Staff / Senior Data Scientist](https://apply.workable.com/j/11BD7FDDD0/apply)** | Dayton, Ohio, United States | On Site | Sep 24 |
+| **[A1 Telekom Austria Group](https://www.a1.group/)** | **[Data Scientist (f/m/d) @ A1 Competence Delivery Center](https://a1group.wd3.myworkdayjobs.com/en-US/A1_Jobs/job/Sofia/Data-Scientist_REQ-5374)** | София, ул. Кукуш 1, сграда 7, етаж 3, Bulgaria | On Site | Sep 24 |
 | **[Schaeffler](https://www.schaeffler.com)** | **[Data Scientist](https://jobs.schaeffler.com/job/Brasov-Data-Scientist-507075/1250829101/)** | Brasov, RO, 507075 | On Site | Sep 24 |
-| **[Tiger Analytics](https://www.tigeranalytics.com/)** | **[Senior Data Scientist (Supply Chain)](https://apply.workable.com/j/FFE30C19C2/apply)** | Canada - Remote | Remote | Sep 24 |
-| **[RACV](https://www.racv.com.au/)** | **[Lead Data Scientist](https://careers.racv.com.au/job/485-Bourke-Street-Melbourne-Lead-Data-Scientist/1327794666/)** | 485 Bourke Street Melbourne | On Site | Sep 24 |
 | **[SAP](https://www.sap.com/)** | **[Data Scientist](https://jobs.sap.com/job/Gurgaon-Data-Scientist-122002/1250813201/)** | Gurgaon, IN, 122002 | On Site | Sep 24 |
 | **[BHP](https://www.bhp.com)** | **[Specialist Data Scientist \| Brisbane](https://careers.bhp.com/job/Specialist-Data-Scientist-Brisbane/1328851600/)** | Australia | On Site | Sep 24 |
+| **[IFF](https://www.iff.com)** | **[Data Scientist - Scent](https://iff.wd5.myworkdayjobs.com/en-US/IFF_Careers/job/Neuilly-Sur-Seine-Cedex-France/Data-Scientist---Scent_R11270)** | Neuilly-Sur-Seine Cedex, France | On Site | Sep 24 |
+| **[RACV](https://www.racv.com.au/)** | **[Lead Data Scientist](https://careers.racv.com.au/job/485-Bourke-Street-Melbourne-Lead-Data-Scientist/1327794666/)** | 485 Bourke Street Melbourne | On Site | Sep 24 |
+| **[Tiger Analytics](https://www.tigeranalytics.com/)** | **[Senior Data Scientist (Supply Chain)](https://apply.workable.com/j/FFE30C19C2/apply)** | Canada - Remote | Remote | Sep 24 |
+| **[Mastercard](https://www.mastercard.com/)** | **[Senior Data Scientist](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Navi-Mumbai-India-Finicity/Senior-Data-Scientist_R-257885)** | Navi Mumbai, India (Finicity) | On Site | Sep 24 |
+| **[Weekday](https://www.weekday.works)** | **[Data Scientist](https://apply.workable.com/j/64AAB3A248/apply)** | Bengaluru, Karnataka, India | On Site | Sep 24 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Scientist, Decisions - Rider Segments](https://app.careerpuck.com/job-board/lyft/job/8181996002?gh_jid=8181996002)** | San Francisco, CA | On Site | Sep 23 |
 | **[Wyetech](https://wyetechllc.com/)** | **[Data Scientist 2](https://jobs.lever.co/wyetechllc/53a671d2-03be-48f6-85d4-4d044cb6da0e)** | Annapolis Junction, Maryland | On Site | Sep 23 |
 | **[HubSpot](https://www.hubspot.com/)** | **[Senior Data Scientist – Trust & Safety](https://www.hubspot.com/careers/jobs/6779974?gh_jid=6779974)** | Remote - USA | Remote | Sep 23 |
@@ -50,23 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Monks](https://www.monks.com/)** | **[Data Scientist, Semi Senior](https://www.monks.com/careers/5590827004/job?gh_jid=5590827004)** | Buenos Aires | On Site | Sep 23 |
 | **[OMNI Consulting Solutions](https://omniconsultingsolutions.com/)** | **[Data Scientist](https://omniconsultcorp.recruitee.com/o/data-analyst-i)** | El Segundo, California, United States | On Site | Sep 23 |
 | **[LinkedIn](https://www.linkedin.com/)** | **[Staff Data Scientist](https://jobs.smartrecruiters.com/LinkedIn3/744000083475373-staff-data-scientist)** | Bengaluru, KA, India | On Site | Sep 23 |
-| **[LinkedIn](https://www.linkedin.com/)** | **[Senior Data Scientist](https://jobs.smartrecruiters.com/LinkedIn3/744000083475622-senior-data-scientist-)** | Bengaluru, KA, India | On Site | Sep 23 |
-| **[Strider Technologies](https://www.striderintel.com/)** | **[Data Scientist](https://job-boards.greenhouse.io/stridertechnologies/jobs/4374170006)** | Tysons Corner, VA or South Jordan, UT | On Site | Sep 23 |
-| **[Strider Technologies](https://www.striderintel.com/)** | **[Data Scientist, Applied AI](https://job-boards.greenhouse.io/stridertechnologies/jobs/4476173006)** | Tysons Corner, VA or South Jordan, UT | On Site | Sep 23 |
-| **[Anaplan](https://www.anaplan.com/)** | **[Sales Data Scientist](https://job-boards.greenhouse.io/anaplan/jobs/8163790002)** | Remote-Mumbai, India | Remote | Sep 23 |
-| **[ELITS](https://www.elits.com/)** | **[Senior AI Data Scientist](https://career.elits.com/jobs/6496462-senior-ai-data-scientist)** | Montreal, Canada | On Site | Sep 23 |
-| **[Imaginary Cloud](https://www.imaginarycloud.com)** | **[Senior Data Scientist](https://teamtailor.imaginarycloud.com/jobs/6496076-senior-data-scientist)** | Coimbra, Portugal | On Site | Sep 23 |
-| **[Character Biosciences](https://www.characterbio.com/)** | **[Principal Biostatistics Data Scientist](https://jobs.ashbyhq.com/characterbio/e9e88f8b-a673-45b8-85e3-69fc192d02cd)** | Jersey City Office | On Site | Sep 23 |
-| **[Wise](https://wise.com)** | **[Senior Data Scientist - Customer Onboarding Risk](https://jobs.smartrecruiters.com/Wise/744000083455815-senior-data-scientist-customer-onboarding-risk)** | Tallinn, Estonia | On Site | Sep 23 |
-| **[Wise](https://wise.com)** | **[Senior Data Scientist- Risk](https://jobs.smartrecruiters.com/Wise/744000083453646-senior-data-scientist-risk)** | Tallinn, Estonia | On Site | Sep 23 |
-| **[TikTok](https://www.tiktok.com/)** | **[Data Scientist - TikTok Integrity and Safety](https://lifeattiktok.com/search/7550670753504872722)** | Singapore, Singapore | On Site | Sep 23 |
-| **[S-PRO](https://s-pro.io/)** | **[Data Scientist](https://spro.recruitee.com/o/data-scientist-1)** | Remote job | Remote | Sep 23 |
-| **[Delivery Hero](https://www.deliveryhero.com)** | **[Senior Data Scientist, AI Content - (Consumer Insights & Marketing Tech)](https://jobs.smartrecruiters.com/DeliveryHero/744000083442530-senior-data-scientist-ai-content-consumer-insights-marketing-tech-)** | Berlin, Germany | On Site | Sep 23 |
-| **[Ypto](https://www.ypto.be/)** | **[Data Scientist](https://ypto.recruitee.com/o/data-scientist-3)** | Near Brussels Midi Station, Brussels Hoofdstedelijk Gewest, België | On Site | Sep 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 41 companies | Avg salary: 186k  
+**Current Stats:** 50 jobs | 10% remote | 44 companies | Avg salary: 185k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
