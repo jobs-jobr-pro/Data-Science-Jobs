@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Sep 25, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 25, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -32,23 +32,28 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pagaya](https://pagaya.com/)** | **[Senior Data Scientist](https://job-boards.greenhouse.io/pagayais/jobs/6624585003)** | Tel Aviv, Israel | On Site | Sep 25 |
 | **[Cybereason](https://www.cybereason.com/)** | **[Data Scientist](http://jobs.cybereason.com/details?gh_jid=7258127)** | Tel Aviv | On Site | Sep 25 |
 | **[Robinhood](https://robinhood.com/)** | **[Senior Data Scientist, Experimentation](https://boards.greenhouse.io/robinhood/jobs/7272710?t=gh_src=&gh_jid=7272710)** | Menlo Park, CA | On Site | Sep 25 |
-| **[Dell Technologies](https://www.delltechnologies.com/)** | **[Senior Principal Data Scientist](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Bangalore-India/Consultant-Data-Scientist_R274674)** | Bangalore, India | On Site | Sep 25 |
+| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Data Scientist I](https://firstrand.wd3.myworkdayjobs.com/en-US/FRB/job/Randburg/Data-Scientist-I_R40532)** | 1 Enterprise Road, Fairland, Randburg, 2170, South Africa | On Site | Sep 25 |
 | **[Johnson Controls](https://www.johnsoncontrols.com/)** | **[Data Scientist](https://jci.wd5.myworkdayjobs.com/en-US/JCI_Confidential/job/Pune-Maharashtra-India/Data-Scientist_WD30243101-2)** | Johnson Controls India COEE1 | On Site | Sep 25 |
-| **[Roche](https://www.roche.com/)** | **[Statistical Methodology Data Scientist](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Statistical-Methodology-Data-Scientist_202509-124470)** | Basel Headquarter, Switzerland | On Site | Sep 25 |
-| **[Genentech](https://www.gene.com/)** | **[Data Scientist](https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/Boston/Data-Scientist_202509-124499-1)** | Boston, United States | On Site | Sep 25 |
-| **[SAP](https://www.sap.com/)** | **[Data Scientist (SuccessFactors HCM) (perplexity, BLEU, ROUGE, accuracy, F1, calibration)](https://jobs.sap.com/job/Bangalore-Data-Scientist-%28SuccessFactors-HCM%29-%28perplexity%2C-BLEU%2C-ROUGE%2C-accuracy%2C-F1%2C-calibration%29-KA-562149/1251250201/)** | Bangalore, KA, IN, 562149 | On Site | Sep 25 |
+| **[PayPal](https://www.paypal.com/)** | **[Sr Data Scientist](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Data-Scientist_R0129836-1)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Sep 25 |
 | **[UBS](https://www.ubs.com/)** | **[Data Scientist](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=324594)** | Pune, India | On Site | Sep 25 |
-| **[Barclays](https://home.barclays/)** | **[Data Scientist](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Candor-TechSpace-Noida/Data-Scientist_JR-0000051085-1)** | Candor TechSpace, Noida, India | On Site | Sep 25 |
-| **[Plain Concepts](https://www.plainconcepts.com)** | **[Senior Data Scientist - Applied AI & MLOps](https://apply.workable.com/j/1A6D406ECA/apply)** | Spain - Remote | Remote | Sep 25 |
-| **[Activate Interactive Pte Ltd](https://www.activate.sg/)** | **[Data Scientist - A25153](https://apply.workable.com/j/7D5EC76B8F/apply)** | Singapore, Singapore, Singapore | On Site | Sep 25 |
-| **[Sanofi](https://www.sanofi.com/)** | **[Data Scientist](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Val-de-Reuil/Data-Scientist_R2823255)** | Val-de-Reuil, France | On Site | Sep 25 |
-| **[Genentech](https://www.gene.com/)** | **[Senior Principal DSX Data Scientist](https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/Boston/Senior-Principal-DSX-Data-Scientist_202509-124495)** | Boston, United States | On Site | Sep 25 |
 | **[SAP](https://www.sap.com/)** | **[Data Scientist (4 to 7 years)](https://jobs.sap.com/job/Bangalore-Data-Scientist-%284-to-7-years%29-560066/1251249901/)** | Bangalore, IN, 560066 | On Site | Sep 25 |
-| **[Withings](https://www.withings.com/)** | **[Stage détection d'insomnie - Data Scientist - Machine Learning (H/F)](https://apply.workable.com/j/E32F8A19F0/apply)** | Issy-les-Moulineaux, Île-de-France, France | On Site | Sep 25 |
-| **[Genentech](https://www.gene.com/)** | **[DSX Data Scientist](https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/South-San-Francisco/DSX-Data-Scientist_202509-124610-1)** | South San Francisco, United States | On Site | Sep 25 |
-| **[Withings](https://www.withings.com/)** | **[Stage - Data Scientist - ML (H/F)](https://apply.workable.com/j/61485F0E94/apply)** | Issy-les-Moulineaux, Île-de-France, France | On Site | Sep 25 |
-| **[Roche](https://www.roche.com/)** | **[DSX Data Scientist](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/DSX-Data-Scientist_202509-124454)** | Basel Headquarter, Switzerland | On Site | Sep 25 |
+| **[NN Group](https://www.nn-group.com/)** | **[Data Scientist Gen AI](https://nngroup.wd3.myworkdayjobs.com/en-US/WDExternal/job/The-Hague/Data-Scientist-Gen-AI_REQ2702162)** | The Hague - Haagse Poort - Low Rise, Netherlands | On Site | Sep 25 |
+| **[Dell Technologies](https://www.delltechnologies.com/)** | **[Senior Principal Data Scientist](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Bangalore-India/Consultant-Data-Scientist_R274674)** | Bangalore, India | On Site | Sep 25 |
 | **[Genentech](https://www.gene.com/)** | **[Statistical Methodology Data Scientist](https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/South-San-Francisco/Statistical-Methodology-Data-Scientist_202509-124644-2)** | South San Francisco, United States | On Site | Sep 25 |
+| **[Barclays](https://home.barclays/)** | **[Data Scientist](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Candor-TechSpace-Noida/Data-Scientist_JR-0000051085-1)** | Candor TechSpace, Noida, India | On Site | Sep 25 |
+| **[Roche](https://www.roche.com/)** | **[Statistical Methodology Data Scientist](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Statistical-Methodology-Data-Scientist_202509-124470)** | Basel Headquarter, Switzerland | On Site | Sep 25 |
+| **[Activate Interactive Pte Ltd](https://www.activate.sg/)** | **[Data Scientist - A25153](https://apply.workable.com/j/7D5EC76B8F/apply)** | Singapore, Singapore, Singapore | On Site | Sep 25 |
+| **[Genentech](https://www.gene.com/)** | **[DSX Data Scientist](https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/South-San-Francisco/DSX-Data-Scientist_202509-124610-1)** | South San Francisco, United States | On Site | Sep 25 |
+| **[Sanofi](https://www.sanofi.com/)** | **[Data Scientist](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Val-de-Reuil/Data-Scientist_R2823255)** | Val-de-Reuil, France | On Site | Sep 25 |
+| **[Genentech](https://www.gene.com/)** | **[Data Scientist](https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/Boston/Data-Scientist_202509-124499-1)** | Boston, United States | On Site | Sep 25 |
+| **[Genentech](https://www.gene.com/)** | **[Senior Principal DSX Data Scientist](https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/Boston/Senior-Principal-DSX-Data-Scientist_202509-124495)** | Boston, United States | On Site | Sep 25 |
+| **[SAP](https://www.sap.com/)** | **[Data Scientist (SuccessFactors HCM) (perplexity, BLEU, ROUGE, accuracy, F1, calibration)](https://jobs.sap.com/job/Bangalore-Data-Scientist-%28SuccessFactors-HCM%29-%28perplexity%2C-BLEU%2C-ROUGE%2C-accuracy%2C-F1%2C-calibration%29-KA-562149/1251250201/)** | Bangalore, KA, IN, 562149 | On Site | Sep 25 |
+| **[Withings](https://www.withings.com/)** | **[Stage détection d'insomnie - Data Scientist - Machine Learning (H/F)](https://apply.workable.com/j/E32F8A19F0/apply)** | Issy-les-Moulineaux, Île-de-France, France | On Site | Sep 25 |
+| **[Roche](https://www.roche.com/)** | **[DSX Data Scientist](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/DSX-Data-Scientist_202509-124454)** | Basel Headquarter, Switzerland | On Site | Sep 25 |
+| **[Adevinta](https://adevinta.com/)** | **[Senior Data Scientist (d/f/m)](https://marketplaces.wd3.myworkdayjobs.com/en-US/External_Careers/job/Berlin/Senior-Data-Scientist--d-f-m-_JR009731-1)** | Berlin, Germany | On Site | Sep 25 |
+| **[Scarborough Health Network](https://www.shn.ca/)** | **[Data Scientist](https://shn.wd10.myworkdayjobs.com/en-US/SHN_External_Career_Site/job/Centenary-Hospital/Data-Scientist_JR102487)** | Centenary Site, Canada | On Site | Sep 25 |
+| **[Withings](https://www.withings.com/)** | **[Stage - Data Scientist - ML (H/F)](https://apply.workable.com/j/61485F0E94/apply)** | Issy-les-Moulineaux, Île-de-France, France | On Site | Sep 25 |
+| **[Plain Concepts](https://www.plainconcepts.com)** | **[Senior Data Scientist - Applied AI & MLOps](https://apply.workable.com/j/1A6D406ECA/apply)** | Spain - Remote | Remote | Sep 25 |
 | **[New Mexico State University](https://nmsu.edu/)** | **[Assistant Professor/Meteorological Data Scientist](https://careers.pageuppeople.com/1134/cw/en-us/job/502789)** | Las Cruces | On Site | Sep 24 |
 | **[Experian](https://www.experian.com/)** | **[Lead Data Scientist](https://jobs.smartrecruiters.com/Experian/744000083776627-lead-data-scientist)** | Heredia, Heredia, Costa Rica | Remote | Sep 24 |
 | **[Geotab](https://www.geotab.com/)** | **[Senior Data Scientist, Generative AI](https://job-boards.greenhouse.io/geotab/jobs/4920755008)** | Atlanta, Georgia - USA | On Site | Sep 24 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Accenture Federal Services](https://www.accenture.com/)** | **[Data Scientist](https://boards.greenhouse.io/accenturefederalservices/jobs/4601263006?gh_jid=4601263006)** | Washington, DC | On Site | Sep 24 |
 | **[PayU](https://corporate.payu.com/)** | **[Fraud Risk Data Scientist](https://jobs.lever.co/payugpo/676fc4ba-d66a-41ed-b495-21d287206a9d)** | Buenos Aires, Argentina | On Site | Sep 24 |
 | **[84.51°](https://www.8451.com/)** | **[Senior Data Scientist (P3505)](https://job-boards.greenhouse.io/8451/jobs/8173989002)** | Cincinnati, OH; Chicago, IL | On Site | Sep 24 |
-| **[Northbeam](https://www.northbeam.io/)** | **[Data Scientist](https://job-boards.greenhouse.io/northbeam/jobs/4604112006)** | Remote | Remote | Sep 24 |
-| **[Blend360](https://blend360.com)** | **[Senior Data Scientist](https://jobs.smartrecruiters.com/Blend360/744000083754405-senior-data-scientist)** | Columbia, MD, United States | On Site | Sep 24 |
-| **[Enova](https://www.enova.com/)** | **[Senior Data Scientist (Hybrid)](https://job-boards.greenhouse.io/enova/jobs/7274620)** | Chicago, IL | On Site | Sep 24 |
-| **[BILL](https://www.bill.com/)** | **[Credit Risk Strategy Data Scientist](https://www.bill.com/job?5653273004&gh_jid=5653273004)** | United States | Remote | Sep 24 |
-| **[84.51°](https://www.8451.com/)** | **[Data Scientist, AI (P3109) /](https://job-boards.greenhouse.io/8451/jobs/8176112002)** | Cincinnati, OH; Chicago, IL | On Site | Sep 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 41 companies | Avg salary: 183k  
+**Current Stats:** 50 jobs | 6% remote | 42 companies | Avg salary: 197k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
