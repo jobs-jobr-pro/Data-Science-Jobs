@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Sep 26, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 27, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -37,36 +37,36 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com)** | **[AD, Principal / Sr. AD, Sr Principal Clinical Data Scientist](https://jobs.boehringer-ingelheim.com/job/Ridgefield%2C-CT-AD%2C-Principal-Sr_-AD%2C-Sr-Principal-Clinical-Data-Scientist-Unit/1225620901/)** | Ridgefield, CT, United States, Connecticut | On Site | Sep 26 |
 | **[Evolve](https://evolve.com/)** | **[Lead Data Scientist](https://job-boards.greenhouse.io/evolvevacationrental/jobs/7387446003)** | Remote - US | Remote | Sep 26 |
 | **[Rentable](https://www.rentable.co/)** | **[Data Scientist - Market Research](https://job-boards.greenhouse.io/abodo/jobs/7278237)** | Remote | Remote | Sep 26 |
-| **[Chevron](https://www.chevron.com/)** | **[Senior Data Scientist](https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Bengaluru-Karnataka-India/Senior-Data-Scientist_R000064249-4)** | RMZ Ecoworld 32, India | On Site | Sep 26 |
-| **[LSEG](https://www.lseg.com/)** | **[Data Scientist](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-Bangalore-TowerERMZ-Infin/Senior-Data-Scientist_R0098735-1)** | IND-Bangalore-TowerE,RMZ Infin, India | On Site | Sep 26 |
 | **[Elanco](https://www.elanco.com/)** | **[Data Scientist](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/UK---Hook/Data-Scientist_R0023434-1)** | UK - Hook, United Kingdom | On Site | Sep 26 |
-| **[Rabobank](https://www.rabobank.com/)** | **[Medior Data Scientist RATE TIX](https://rabobank.wd3.myworkdayjobs.com/en-US/jobs/job/Utrecht-Croeselaan-18/Medior-Data-Scientist-RATE-TIX_JR_00130339)** | Utrecht Croeselaan 18, Netherlands | On Site | Sep 26 |
 | **[Medtronic](https://www.medtronic.com/)** | **[Principal Data Scientist](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Data-Scientist_R40484-1)** | USA-MN, United States | On Site | Sep 26 |
+| **[Shell](https://www.shell.com/)** | **[Associate Data Scientist](https://shell.wd3.myworkdayjobs.com/en-US/ShellCareers/job/Bangalore-RMZ-ECO-WORLD/Associate-Data-Scientist_R186104-1)** | Bangalore RMZ-ECO WORLD, India | On Site | Sep 26 |
+| **[CrowdStrike](https://www.crowdstrike.com/)** | **[Applied Data Scientist (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Remote-MH/Applied-Data-Scientist--Remote-_R24798)** | IND Remote, India | Remote | Sep 26 |
+| **[Citi](https://www.citigroup.com/)** | **[Senior Data Scientist](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Warsaw--Poland/Senior-Data-Scientist_25912090)** | UL. TRAUGUTTA 7/9, Poland | On Site | Sep 26 |
+| **[LSEG](https://www.lseg.com/)** | **[Data Scientist](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-Bangalore-TowerERMZ-Infin/Senior-Data-Scientist_R0098735-1)** | IND-Bangalore-TowerE,RMZ Infin, India | On Site | Sep 26 |
+| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Data Scientist III](https://firstrand.wd3.myworkdayjobs.com/en-US/FRB/job/Johannesburg/Data-Scientist-III_R34420-1)** | 1 First Place, Cnr Simmonds & Pritchard Streets, Johannesburg, 2001, South Africa | On Site | Sep 26 |
+| **[Rabobank](https://www.rabobank.com/)** | **[Medior Data Scientist RATE TIX](https://rabobank.wd3.myworkdayjobs.com/en-US/jobs/job/Utrecht-Croeselaan-18/Medior-Data-Scientist-RATE-TIX_JR_00130339)** | Utrecht Croeselaan 18, Netherlands | On Site | Sep 26 |
+| **[OTP Bank](https://www.otpbank.hu/)** | **[Data Scientist](https://karrier.otpbank.hu/job/Budapest-Data-Scientist-1131/1251825501/)** | Budapest, HU, 1131 | On Site | Sep 26 |
+| **[PNC](https://www.pnc.com/)** | **[AI Data Scientist Sr](https://pnc.wd5.myworkdayjobs.com/en-US/External/job/PA---Pittsburgh-15222/Data-Scientist-Sr_R193236)** | Two PNC Plaza (PA374), United States | On Site | Sep 26 |
+| **[PayPal](https://www.paypal.com/)** | **[Senior Data Scientist](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Senior-Data-Scientist_R0130955-1)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Sep 26 |
 | **[CrowdStrike](https://www.crowdstrike.com/)** | **[Data Scientist III - CharlotteAI (Remote, ROU)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Romania---Remote/Data-Scientist-III---CharlotteAI--Remote--ROU-_R24888)** | ROU Remote, Romania | Remote | Sep 26 |
 | **[Dell Technologies](https://www.delltechnologies.com/)** | **[Data Scientist Senior Advisor](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Bangalore-India/Data-Scientist-Senior-Advisor_R274909-1)** | Bangalore, India | On Site | Sep 26 |
-| **[PayPal](https://www.paypal.com/)** | **[Senior Data Scientist](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Senior-Data-Scientist_R0130955-1)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Sep 26 |
 | **[Elsevier](https://www.elsevier.com/)** | **[Senior Data Scientist NLP](https://relx.wd3.myworkdayjobs.com/en-US/ElsevierJobs/job/Amsterdam/Senior-Data-Scientist-NLP_R101592)** | NLD Amsterdam (Radarweg), Netherlands | On Site | Sep 26 |
-| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Data Scientist III](https://firstrand.wd3.myworkdayjobs.com/en-US/FRB/job/Johannesburg/Data-Scientist-III_R34420-1)** | 1 First Place, Cnr Simmonds & Pritchard Streets, Johannesburg, 2001, South Africa | On Site | Sep 26 |
-| **[Walmart](https://www.walmart.com/)** | **[Staff, Data Scientist](https://walmart.wd5.myworkdayjobs.com/en-US/Non-WorkdayInternal/job/Bentonville-AR/Staff--Data-Scientist_R-2277772)** | (USA) Main Home Office Building AR BENTONVILLE Home Office, United States | On Site | Sep 26 |
 | **[Apex Group](https://www.apexgroup.com/)** | **[Lead Data Scientist](https://theapexgroup.wd3.myworkdayjobs.com/en-US/apexgroupcareers/job/Pune---Baner/Lead-Data-Scientist_JR-0016628)** | Pune - Baner, India | On Site | Sep 26 |
-| **[CrowdStrike](https://www.crowdstrike.com/)** | **[Sr. Applied Data Scientist (Remote, IND)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Remote-MH/Sr-Applied-Data-Scientist--Remote--IND-_R24799-1)** | IND Remote, India | Remote | Sep 26 |
-| **[RELX](https://www.relx.com/)** | **[Senior Data Scientist NLP](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Amsterdam/Senior-Data-Scientist-NLP_R101592-1)** | NLD Amsterdam (Radarweg), Netherlands | On Site | Sep 26 |
-| **[OTP Bank](https://www.otpbank.hu/)** | **[Data Scientist](https://karrier.otpbank.hu/job/Budapest-Data-Scientist-1131/1251825501/)** | Budapest, HU, 1131 | On Site | Sep 26 |
-| **[OTP Bank](https://www.otpbank.hu/)** | **[Senior Data Scientist](https://karrier.otpbank.hu/job/Budapest-Senior-Data-Scientist-1131/1251813201/)** | Budapest, HU, 1131 | On Site | Sep 26 |
-| **[CrowdStrike](https://www.crowdstrike.com/)** | **[Applied Data Scientist (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Remote-MH/Applied-Data-Scientist--Remote-_R24798)** | IND Remote, India | Remote | Sep 26 |
 | **[Securonix](https://www.securonix.com/)** | **[Staff Data Scientist](https://securonix.bamboohr.com/careers/1753)** | Bangalore, Karnataka, India (Hybrid) | On Site | Sep 26 |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Senior Data Scientist –Gen AI Chatbot](https://cba.wd3.myworkdayjobs.com/en-US/CommBank_Careers/job/Sydney-CBD-Area/Senior-Data-Scientist--Gen-AI-Chatbot_REQ240420)** | Melbourne, VIC - 357 Collins Street, Australia | On Site | Sep 26 |
+| **[RELX](https://www.relx.com/)** | **[Senior Data Scientist NLP](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Amsterdam/Senior-Data-Scientist-NLP_R101592-1)** | NLD Amsterdam (Radarweg), Netherlands | On Site | Sep 26 |
+| **[Chevron](https://www.chevron.com/)** | **[Senior Data Scientist](https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Bengaluru-Karnataka-India/Senior-Data-Scientist_R000064249-4)** | RMZ Ecoworld 32, India | On Site | Sep 26 |
+| **[CrowdStrike](https://www.crowdstrike.com/)** | **[Sr. Applied Data Scientist (Remote, IND)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Remote-MH/Sr-Applied-Data-Scientist--Remote--IND-_R24799-1)** | IND Remote, India | Remote | Sep 26 |
+| **[OTP Bank](https://www.otpbank.hu/)** | **[Senior Data Scientist](https://karrier.otpbank.hu/job/Budapest-Senior-Data-Scientist-1131/1251813201/)** | Budapest, HU, 1131 | On Site | Sep 26 |
+| **[Walmart](https://www.walmart.com/)** | **[Staff, Data Scientist](https://walmart.wd5.myworkdayjobs.com/en-US/Non-WorkdayInternal/job/Bentonville-AR/Staff--Data-Scientist_R-2277772)** | (USA) Main Home Office Building AR BENTONVILLE Home Office, United States | On Site | Sep 26 |
 | **[Roblox](https://www.roblox.com/)** | **[Data Scientist - Marketplace](https://careers.roblox.com/jobs/7263183?gh_jid=7263183)** | San Mateo, CA, United States | On Site | Sep 25 |
 | **[PartnerRe](https://www.partnerre.com)** | **[Data Scientist](https://jobs.smartrecruiters.com/PartnerRe/744000084004044-data-scientist)** | Singapore, Singapore | On Site | Sep 25 |
 | **[MGT Insurance](https://mgtinsurance.com/)** | **[Data Scientist](https://job-boards.greenhouse.io/mgtinsurance/jobs/4918781008)** | San Francisco California, Denver Colorado, or Madison Wisconsin | On Site | Sep 25 |
 | **[Gridware](https://www.gridware.com.au/)** | **[Data Scientist, Fleet Health](https://jobs.lever.co/gridware/5dbd6f4e-26f1-4cae-833a-32f1c6d70e7b)** | San Francisco, CA | On Site | Sep 25 |
-| **[The Voleon Group](https://voleon.com/)** | **[Data Scientist, Technical Lead (Remote-USA)](https://jobs.lever.co/voleon/16e548b1-9f1b-4e24-a2a7-027472834950)** | United States or Remote | Remote | Sep 25 |
-| **[Visa](https://visa.com)** | **[Associate Data Scientist](https://jobs.smartrecruiters.com/Visa/744000083986544-associate-data-scientist)** | Ashburn, VA, United States | On Site | Sep 25 |
-| **[Character Biosciences](https://www.characterbio.com/)** | **[Principal Biostatistics Data Scientist](https://jobs.ashbyhq.com/characterbio/76c18a84-b9f2-4f36-9fad-241aeaee8496)** | United States | Remote | Sep 25 |
-| **[MORSE Corp](https://www.morsecorp.com/)** | **[Lead Data Scientist (TS/SCI)](https://boards.greenhouse.io/morsecorp/jobs/7111976003?gh_jid=7111976003)** | Arlington, VA | On Site | Sep 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 45 companies | Avg salary: 192k  
+**Current Stats:** 50 jobs | 14% remote | 45 companies | Avg salary: 192k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
