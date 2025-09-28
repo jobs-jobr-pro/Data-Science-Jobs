@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Sep 27, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 28, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -20,6 +20,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Prosus](https://www.prosus.com/)** | **[Senior Data Scientist](https://jobs.eu.lever.co/prosus/e68ef34a-9151-4fc6-80e5-c352a004837b)** | Netherlands - Amsterdam | On Site | Sep 27 |
 | **[Zipline](https://www.flyzipline.com/)** | **[Data Scientist Intern (Spring 2026)](https://www.flyzipline.com/careers/open-roles?gh_jid=7480013003)** | South San Francisco, California, USA | On Site | Sep 27 |
 | **[Conviva](https://www.conviva.com/)** | **[Data Scientist](https://www.conviva.com/careers/job/7479008003?gh_jid=7479008003)** | Beijing, China | On Site | Sep 27 |
+| **[Avantor](https://avantorsciences.com/)** | **[Data Scientist](https://vwr.wd1.myworkdayjobs.com/en-US/avantorJobs/job/Pune-IND/Data-Scientist_R-166491)** | IND-Pune, India | On Site | Sep 27 |
 | **[John Snow Labs](https://www.johnsnowlabs.com/)** | **[John Snow Labs US-Based Healthcare Data Scientist](https://jobs.smartrecruiters.com/JohnSnowLabs/744000084303279-john-snow-labs-us-based-healthcare-data-scientist)** | Remote, REMOTE, United States | Remote | Sep 26 |
 | **[Tomorrow.io](https://www.tomorrow.io/)** | **[Meteorological Data Scientist](https://boards.greenhouse.io/tomorrow/jobs/7479836003?gh_jid=7479836003)** | Boston, Massachusetts, United States | On Site | Sep 26 |
 | **[Latitude](https://www.latitudeinc.net)** | **[Data Scientist](https://jobs.lever.co/latitudeinc/8b8dc639-7aa7-4662-8a2b-152dc0afabad)** | Sterling, VA | On Site | Sep 26 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Vestiaire Collective](https://www.vestiairecollective.com/)** | **[Staff Data Scientist (HCMC)](https://jobs.lever.co/vestiairecollective/80107f5e-8dda-4cac-b68d-9b1ddc6b2265)** | Ho Chi Minh City | On Site | Sep 26 |
 | **[Vestiaire Collective](https://www.vestiairecollective.com/)** | **[Staff Data Scientist](https://jobs.lever.co/vestiairecollective/b75f13fe-8eca-4321-bbc0-78ae573f0fe3)** | Paris | On Site | Sep 26 |
 | **[Prime Time Consulting](https://www.primetime-consulting.com/)** | **[Data Scientist 2 (Hawaii)](https://ats.rippling.com/primetime-consulting/jobs/2b1aae17-5cc5-40d5-849e-0406fc1e1641)** | Joint Base Pearl Harbor-Hickam, HI | On Site | Sep 26 |
-| **[Infomineo](https://infomineo.com/)** | **[Data Analytics - Senior Data Scientist - Casablanca](https://apply.workable.com/j/99AFC7DCB9/apply)** | Casablanca, Casablanca-Settat, Morocco | On Site | Sep 26 |
 
 ---
 
