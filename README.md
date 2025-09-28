@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Sep 28, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Sep 28, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,7 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[TikTok](https://www.tiktok.com/)** | **[Data Scientist - Analytics, Trust & Safety](https://lifeattiktok.com/search/7552984534443624711)** | San Francisco, California, United States | On Site | Sep 27 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Data Scientist, Decision Support](https://jobs.smartrecruiters.com/ServiceNow/744000084426375-data-scientist-decision-support-)** | Santa Clara, California, United States | On Site | Sep 27 |
+| **[TikTok](https://www.tiktok.com/)** | **[Data Scientist - Analytics, Trust & Safety](https://lifeattiktok.com/search/7552986416209660168)** | San Jose, California, United States | On Site | Sep 27 |
 | **[Meta](https://www.meta.com/)** | **[Data Scientist](https://www.metacareers.com/jobs/1089369086600334/)** | Menlo Park, CA | On Site | Sep 27 |
 | **[Google](https://www.google.com/)** | **[Data Scientist, Research, Ads Insights Platform, Measurement](https://www.google.com/about/careers/applications/jobs/results/96771496029889222-data-scientist-research-ads-insights-platform-measurement)** | Mountain View, CA, USA; New York, NY, USA | On Site | Sep 27 |
 | **[Delivery Hero](https://www.deliveryhero.com)** | **[Senior Data Scientist](https://jobs.smartrecruiters.com/DeliveryHero/744000084420805-senior-data-scientist-)** | India, India | On Site | Sep 27 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Interclypse](https://www.interclypse.com/)** | **[Data Scientist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3160233)** | Annapolis Junction, MD, US | On Site | Sep 26 |
 | **[Vestiaire Collective](https://www.vestiairecollective.com/)** | **[Staff Data Scientist (HCMC)](https://jobs.lever.co/vestiairecollective/80107f5e-8dda-4cac-b68d-9b1ddc6b2265)** | Ho Chi Minh City | On Site | Sep 26 |
 | **[Vestiaire Collective](https://www.vestiairecollective.com/)** | **[Staff Data Scientist](https://jobs.lever.co/vestiairecollective/b75f13fe-8eca-4321-bbc0-78ae573f0fe3)** | Paris | On Site | Sep 26 |
-| **[Prime Time Consulting](https://www.primetime-consulting.com/)** | **[Data Scientist 2 (Hawaii)](https://ats.rippling.com/primetime-consulting/jobs/2b1aae17-5cc5-40d5-849e-0406fc1e1641)** | Joint Base Pearl Harbor-Hickam, HI | On Site | Sep 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 205k  
+**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 225k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
