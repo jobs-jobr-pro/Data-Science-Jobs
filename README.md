@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Sep 29, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Sep 29, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,9 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Amazon.com](https://www.amazon.com/)** | **[Data Scientist - AWS Professional Services](https://jobr.pro/job/28897529/data-scientist-aws-professional-services?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bengaluru, Karnataka, IND | On Site | Sep 29 |
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Principal Data Scientist - LLM/GenAI (Cortex)](https://jobr.pro/job/28897081/principal-data-scientist-llmgenai-cortex?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tel Aviv-Yafo, Israel | On Site | Sep 28 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Data Scientist, Decision Support](https://jobr.pro/job/28896768/data-scientist-decision-support?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Santa Clara, California, United States | On Site | Sep 27 |
-| **[TikTok](https://www.tiktok.com/)** | **[Data Scientist - Analytics, Trust & Safety](https://jobr.pro/job/28874016/data-scientist-analytics-trust-safety?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Jose, California, United States | On Site | Sep 27 |
+| **[TikTok](https://www.tiktok.com/)** | **[Data Scientist - Analytics, Trust & Safety](https://jobr.pro/job/28874018/data-scientist-analytics-trust-safety?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco, California, United States | On Site | Sep 27 |
 | **[Meta](https://www.meta.com/)** | **[Data Scientist](https://jobr.pro/job/28871130/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Menlo Park, CA | On Site | Sep 27 |
 | **[Google](https://www.google.com/)** | **[Data Scientist, Research, Ads Insights Platform, Measurement](https://jobr.pro/job/28870628/data-scientist-research-ads-insights-platform-measurement?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, CA, USA; New York, NY, USA | On Site | Sep 27 |
 | **[Delivery Hero](https://www.deliveryhero.com)** | **[Senior Data Scientist](https://jobr.pro/job/28875210/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India, India | On Site | Sep 27 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[First Abu Dhabi Bank (FAB)](https://www.bankfab.com)** | **[Specialist- Data Scientist](https://jobr.pro/job/28797671/specialist-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Abu Dhabi, Abu Dhabi, United Arab Emirates | On Site | Sep 26 |
 | **[Qualis Flow (Qflow)](https://www.qualisflow.com/)** | **[Senior Data Scientist](https://jobr.pro/job/28818507/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Borough, SouthEast SE1, United Kingdom | On Site | Sep 26 |
 | **[Interclypse](https://www.interclypse.com/)** | **[Data Scientist](https://jobr.pro/job/28864887/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Annapolis Junction, MD, US | On Site | Sep 26 |
-| **[Vestiaire Collective](https://www.vestiairecollective.com/)** | **[Staff Data Scientist (HCMC)](https://jobr.pro/job/28842039/staff-data-scientist-hcmc?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Ho Chi Minh City | On Site | Sep 26 |
 
 ---
 
