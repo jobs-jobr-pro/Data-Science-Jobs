@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Sep 30, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 01, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -54,19 +54,19 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Kering](https://www.kering.com/)** | **[KERING Data Scientist Performance Intern](https://jobr.pro/job/29075136/kering-data-scientist-performance-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Paris - Rue Du Cherche Midi, 37, France | On Site | Sep 30 |
 | **[LEGO Group](https://www.lego.com/)** | **[Data Scientist / Machine Learning Engineer – Parental Leave Cover](https://jobr.pro/job/29073169/data-scientist-machine-learning-engineer-parental-leave-cover?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London Hub, United Kingdom | On Site | Sep 30 |
 | **[ICF](https://www.icf.com/)** | **[2026 Summer Intern, Data Scientist / Engineer](https://jobr.pro/job/29075821/2026-summer-intern-data-scientist-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Nationwide Remote Office (US99), United States | Remote | Sep 30 |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Data Scientist (AI & General Model Validation)](https://jobr.pro/job/29080296/data-scientist-ai-general-model-validation?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sydney, NSW - CBP North, 1 Harbour Street, Australia | On Site | Sep 30 |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Senior Data Scientist (AI & General Model Validation)](https://jobr.pro/job/29080294/senior-data-scientist-ai-general-model-validation?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sydney, NSW - CBP North, 1 Harbour Street, Australia | On Site | Sep 30 |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Senior Associate Data Scientist](https://jobr.pro/job/29080248/senior-associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore - Manyata Tech Park Road, India | On Site | Sep 30 |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Senior Staff Data Scientist (AI & General Model Validation)](https://jobr.pro/job/29080292/senior-staff-data-scientist-ai-general-model-validation?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sydney, NSW - CBP North, 1 Harbour Street, Australia | On Site | Sep 30 |
+| **[Thomson Reuters](https://www.thomsonreuters.com/)** | **[Data Scientist](https://jobr.pro/job/29079479/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA-McLean-1410 Spring Hill Rd Suite 125, United States | On Site | Sep 30 |
+| **[Otis Elevator Co.](https://www.otis.com/)** | **[Data Scientist](https://jobr.pro/job/29078437/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | LOC3344: Building 5, No 518,North Fuquan Road，ChangNing District , Shanghai，China | On Site | Sep 30 |
+| **[Pfizer](https://www.pfizer.com/)** | **[2026 Graduate Data Scientist](https://jobr.pro/job/29077920/2026-graduate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IRL - Cork, Ringaskiddy, Ireland | On Site | Sep 30 |
+| **[Guidehouse](https://www.guidehouse.com/)** | **[Data Scientist](https://jobr.pro/job/29079915/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Client Office: Springfield, VA, United States | On Site | Sep 30 |
 | **[Instacart](https://www.instacart.com/)** | **[Senior Data Scientist](https://jobr.pro/job/29007283/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | United States - Remote | Remote | Sep 29 |
-| **[Lark Health](https://www.lark.com/)** | **[Staff Data Scientist](https://jobr.pro/job/29001654/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Lark HQ | On Site | Sep 29 |
-| **[Grammarly](https://www.grammarly.com/)** | **[Data Scientist, Growth](https://jobr.pro/job/29002724/data-scientist-growth?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York City; Hybrid | On Site | Sep 29 |
-| **[Riot Games, Inc.](https://www.riotgames.com/)** | **[Senior Data Scientist, Skill & Matchmaking - VALORANT Data Ops](https://jobr.pro/job/28997300/senior-data-scientist-skill-matchmaking-valorant-data-ops?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Redwood City, USA | On Site | Sep 29 |
-| **[Blend360](https://blend360.com)** | **[Senior Data Scientist](https://jobr.pro/job/28987296/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Columbia, MD, United States | On Site | Sep 29 |
-| **[EllisDon](https://www.ellisdon.com/)** | **[Senior Data Scientist](https://jobr.pro/job/29013295/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mississauga, Ontario, Canada; Toronto, Ontario, Canada | On Site | Sep 29 |
-| **[MORSE Corp](https://www.morsecorp.com/)** | **[Data Scientist- Bayesian Statistics](https://jobr.pro/job/28997152/data-scientist-bayesian-statistics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Cambridge, MA | On Site | Sep 29 |
-| **[Lyft](https://www.lyft.com/)** | **[Data Scientist, Decisions - Map Experience](https://jobr.pro/job/29000109/data-scientist-decisions-map-experience?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Toronto, Canada | On Site | Sep 29 |
-| **[Seneca Nation Group](https://www.senecanationgroup.com/)** | **[Data Scientist](https://jobr.pro/job/29008479/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Yorktown, VA | On Site | Sep 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 44 companies | Avg salary: 192k  
+**Current Stats:** 50 jobs | 10% remote | 41 companies | Avg salary: 194k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
