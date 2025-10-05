@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 05, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 05, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -26,6 +26,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[S&P Global](https://www.spglobal.com/)** | **[Sr. Data Scientist](https://jobr.pro/job/29351179/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IN - BANGALORE PRIMECO UNION CITY, India | On Site | Oct 04 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Senior Data Scientist](https://jobr.pro/job/29351178/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IN - BANGALORE PRIMECO UNION CITY, India | On Site | Oct 04 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Data Scientist](https://jobr.pro/job/29351177/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IN - BANGALORE PRIMECO UNION CITY, India | On Site | Oct 04 |
+| **[Walmart](https://careers.walmart.com/)** | **[Staff, Data Scientist](https://jobr.pro/job/29414403/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | (USA) ISD Office - DGTC AR BENTONVILLE Home Office, United States | On Site | Oct 04 |
 | **[Weee!](https://www.sayweee.com)** | **[Senior Data Scientist](https://jobr.pro/job/29361386/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Fremont, California, United States | On Site | Oct 03 |
 | **[Socure](https://www.socure.com/)** | **[Data Scientist, Watchlist](https://jobr.pro/job/29360321/data-scientist-watchlist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote - USA | Remote | Oct 03 |
 | **[NT Concepts](https://www.ntconcepts.com/)** | **[Senior Data Scientist](https://jobr.pro/job/29355380/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Vienna, VA | On Site | Oct 03 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Data Scientist, Product, Search AI Mode](https://jobr.pro/job/29307170/senior-data-scientist-product-search-ai-mode?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, CA, USA; New York, NY, USA | On Site | Oct 03 |
 | **[Google](https://www.google.com/)** | **[Data Scientist, Product, Connected TV](https://jobr.pro/job/29306931/data-scientist-product-connected-tv?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Bruno, CA, USA | On Site | Oct 03 |
 | **[Alter Solutions](https://www.alter-solutions.com/)** | **[Data Scientist Senior](https://jobr.pro/job/29313557/data-scientist-senior?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Grenoble, FRANCE, France | On Site | Oct 03 |
-| **[THG Ingenuity](https://www.thgingenuity.com/)** | **[Junior Data Scientist - Fraud](https://jobr.pro/job/29353361/junior-data-scientist-fraud?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | UK, Manchester | On Site | Oct 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 36 companies | Avg salary: 203k  
+**Current Stats:** 50 jobs | 10% remote | 36 companies | Avg salary: 207k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
