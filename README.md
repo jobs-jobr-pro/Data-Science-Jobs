@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 04, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 05, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Principal Data Scientist - Applied Science, ML, Gen AI, Agentic AI(Business Banking)](https://jobr.pro/job/29413499/principal-data-scientist-applied-science-ml-gen-ai-agentic-aibusiness-banking?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sydney, NSW - CBP South, 11 Harbour Street, Australia | On Site | Oct 05 |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Principal Data Scientist - Gen AI, Agentic AI(Retail Banking Services)](https://jobr.pro/job/29413498/principal-data-scientist-gen-ai-agentic-airetail-banking-services?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Eveleigh, NSW - 1 Locomotive Street, Australia | On Site | Oct 05 |
 | **[ManTech](https://www.mantech.com/)** | **[Data Scientist](https://jobr.pro/job/29395601/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA-MD-Fort Meade | On Site | Oct 04 |
 | **[TotalEnergies](https://totalenergies.com/)** | **[ALTERNANCE - Data Scientist - Analyse des Vidéo B2C - GRP - H/F](https://jobr.pro/job/29394244/alternance-data-scientist-analyse-des-video-b2c-grp-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | PLD-TOUR MICHELET(FRA), PARIS LA DEFENSE, France | On Site | Oct 04 |
 | **[Meta](https://www.meta.com/)** | **[Data Scientist, Product Analytics](https://jobr.pro/job/29389292/data-scientist-product-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Zurich, Switzerland | On Site | Oct 04 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Data Scientist, Product, Connected TV](https://jobr.pro/job/29306931/data-scientist-product-connected-tv?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Bruno, CA, USA | On Site | Oct 03 |
 | **[Alter Solutions](https://www.alter-solutions.com/)** | **[Data Scientist Senior](https://jobr.pro/job/29313557/data-scientist-senior?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Grenoble, FRANCE, France | On Site | Oct 03 |
 | **[THG Ingenuity](https://www.thgingenuity.com/)** | **[Junior Data Scientist - Fraud](https://jobr.pro/job/29353361/junior-data-scientist-fraud?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | UK, Manchester | On Site | Oct 03 |
-| **[Preply](https://preply.com/)** | **[Senior Data Scientist - Insights](https://jobr.pro/job/29358347/senior-data-scientist-insights?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London, United Kingdom | On Site | Oct 03 |
-| **[Preply](https://preply.com/)** | **[Data Scientist - Insights](https://jobr.pro/job/29358343/data-scientist-insights?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Kyiv, Ukraine | On Site | Oct 03 |
 
 ---
 
