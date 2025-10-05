@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 05, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 05, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Scalian](https://www.scalian.com)** | **[Consultant(e) Data Scientist expérimenté(e) H/F](https://jobr.pro/job/29415049/consultante-data-scientist-experimentee-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Neuilly-sur-Seine, IDF, France | On Site | Oct 05 |
 | **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Principal Data Scientist - Applied Science, ML, Gen AI, Agentic AI(Business Banking)](https://jobr.pro/job/29413499/principal-data-scientist-applied-science-ml-gen-ai-agentic-aibusiness-banking?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sydney, NSW - CBP South, 11 Harbour Street, Australia | On Site | Oct 05 |
 | **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Principal Data Scientist - Gen AI, Agentic AI(Retail Banking Services)](https://jobr.pro/job/29413498/principal-data-scientist-gen-ai-agentic-airetail-banking-services?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Eveleigh, NSW - 1 Locomotive Street, Australia | On Site | Oct 05 |
 | **[ManTech](https://www.mantech.com/)** | **[Data Scientist](https://jobr.pro/job/29395601/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA-MD-Fort Meade | On Site | Oct 04 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Data Scientist, Ads Planning](https://jobr.pro/job/29307161/senior-data-scientist-ads-planning?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Los Angeles, CA, USA | On Site | Oct 03 |
 | **[Google](https://www.google.com/)** | **[Senior Data Scientist, Product, Search AI Mode](https://jobr.pro/job/29307170/senior-data-scientist-product-search-ai-mode?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, CA, USA; New York, NY, USA | On Site | Oct 03 |
 | **[Google](https://www.google.com/)** | **[Data Scientist, Product, Connected TV](https://jobr.pro/job/29306931/data-scientist-product-connected-tv?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Bruno, CA, USA | On Site | Oct 03 |
-| **[Alter Solutions](https://www.alter-solutions.com/)** | **[Data Scientist Senior](https://jobr.pro/job/29313557/data-scientist-senior?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Grenoble, FRANCE, France | On Site | Oct 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 36 companies | Avg salary: 207k  
+**Current Stats:** 50 jobs | 10% remote | 35 companies | Avg salary: 201k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
