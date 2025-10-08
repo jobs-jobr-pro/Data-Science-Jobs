@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 08, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 08, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,9 +13,19 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Google](https://www.google.com/)** | **[Business Data Scientist, Google Customer Solutions Ads Finance](https://jobr.pro/job/29713990/business-data-scientist-google-customer-solutions-ads-finance?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, CA, USA | On Site | Oct 08 |
+| **[Google](https://www.google.com/)** | **[Senior Data Scientist, Research, App Safety Engineering](https://jobr.pro/job/29713564/senior-data-scientist-research-app-safety-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, CA, USA; New York, NY, USA | On Site | Oct 08 |
+| **[Microsoft](https://www.microsoft.com/)** | **[Data Scientist-II](https://jobr.pro/job/29723877/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Hyderabad, Telangana, India | On Site | Oct 08 |
+| **[Aqilea](https://aqilea.com/)** | **[Expert/Senior Data Scientist](https://jobr.pro/job/29611363/expertsenior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Stockholm, Stockholms län, Sweden | On Site | Oct 08 |
 | **[Bertelsmann](https://www.bertelsmann.com/)** | **[Junior Data Scientist/ML Engineer](https://jobr.pro/job/29586538/junior-data-scientistml-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Hilversum, NH, NL, 1212 AA | On Site | Oct 08 |
+| **[SBI Card](https://www.sbicard.com/)** | **[Deputy Vice President - Data Scientist](https://jobr.pro/job/29725057/deputy-vice-president-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Gurugram, India | On Site | Oct 08 |
 | **[Conviva](https://www.conviva.com/)** | **[Senior Data Scientist - ML & Algorithms Focus](https://jobr.pro/job/29574889/senior-data-scientist-ml-algorithms-focus?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Foster City, CA | On Site | Oct 08 |
 | **[LinkedIn](https://www.linkedin.com/)** | **[Staff Data Scientist](https://jobr.pro/job/29589173/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sunnyvale, CA, United States | On Site | Oct 08 |
+| **[Walmart](https://www.walmart.com/)** | **[(USA) Staff, Data Scientist](https://jobr.pro/job/29645172/usa-staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | (USA) ISD Office - DGTC AR BENTONVILLE Home Office, United States | On Site | Oct 08 |
+| **[Activate Interactive Pte Ltd](https://www.activate.sg/)** | **[Data Scientist - A25175](https://jobr.pro/job/29724913/data-scientist-a25175?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore, Singapore, Singapore | On Site | Oct 08 |
+| **[Activate Interactive Pte Ltd](https://www.activate.sg/)** | **[Senior Data Scientist - A25174](https://jobr.pro/job/29724914/senior-data-scientist-a25174?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore, Singapore, Singapore | On Site | Oct 08 |
+| **[Deutsche Börse](https://deutsche-boerse.com)** | **[Data Scientist - ETD Clearing Design Unit (f/m/d)](https://jobr.pro/job/29609683/data-scientist-etd-clearing-design-unit-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Frankfurt am Main, DE | On Site | Oct 08 |
+| **[NSW Government](https://www.nsw.gov.au/)** | **[Senior Data Scientist](https://jobr.pro/job/29692394/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Parramatta | On Site | Oct 07 |
 | **[British Columbia College of Nurses and Midwives](https://www.bccnm.ca/)** | **[Data Scientist - Inspire Global Assessments](https://jobr.pro/job/29583600/data-scientist-inspire-global-assessments?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Vancouver, British Columbia, Canada | On Site | Oct 07 |
 | **[Airtable](https://airtable.com/)** | **[Data Scientist, GTM Analytics](https://jobr.pro/job/29578497/data-scientist-gtm-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco, CA; New York City, NY; Austin, TX | On Site | Oct 07 |
 | **[BitGo](https://www.bitgo.com/)** | **[Associate Data Scientist](https://jobr.pro/job/29576340/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India | On Site | Oct 07 |
@@ -24,11 +34,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wizeline](https://www.wizeline.com/)** | **[Senior Data Scientist - Barcelona (Hybrid)](https://jobr.pro/job/29572456/senior-data-scientist-barcelona-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Barcelona - Hybrid | On Site | Oct 07 |
 | **[N26](https://n26.com/)** | **[Data Scientist (AFC)](https://jobr.pro/job/29572575/data-scientist-afc?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Berlin | On Site | Oct 07 |
 | **[Septeo](https://www.septeo.com)** | **[Data Scientist IA GEN / NLP H.F](https://jobr.pro/job/29565665/data-scientist-ia-gen-nlp-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Paris, IDF, France | On Site | Oct 07 |
+| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Data Scientist - Home Lending](https://jobr.pro/job/29723259/lead-data-scientist-home-lending?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Plano, TX, United States | On Site | Oct 07 |
 | **[dunnhumby](https://www.dunnhumby.com/)** | **[Research Data Scientist](https://jobr.pro/job/29572540/research-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London | On Site | Oct 07 |
 | **[Shift Technology](https://www.shift-technology.com/)** | **[January 2026 Data Scientist Internship - Spanish Team](https://jobr.pro/job/29576397/january-2026-data-scientist-internship-spanish-team?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | France - Paris; Spain - Madrid | On Site | Oct 07 |
 | **[Dandy](https://www.meetdandy.com/)** | **[Senior Data Scientist II, Product (USA & Canada)](https://jobr.pro/job/29579323/senior-data-scientist-ii-product-usa-canada?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA - Remote | Remote | Oct 07 |
 | **[Trustly](https://www.trustly.net/)** | **[Senior Data Scientist](https://jobr.pro/job/29576601/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Vitória, Espírito Santo | On Site | Oct 07 |
 | **[ASSYSTEM](https://www.assystem.com)** | **[Data Scientist - Bureau d'études H/F](https://jobr.pro/job/29565550/data-scientist-bureau-detudes-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Marseille, Provence-Alpes-Côte d'Azur, France | On Site | Oct 07 |
+| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Compliance - Technology Operational Risk Management - Data Scientist - Associate](https://jobr.pro/job/29722623/compliance-technology-operational-risk-management-data-scientist-associate?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Plano, TX, United States | On Site | Oct 07 |
 | **[Reddit](https://www.redditinc.com/)** | **[Staff Data Scientist, Ads](https://jobr.pro/job/29589062/staff-data-scientist-ads?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote - United States | Remote | Oct 07 |
 | **[Visa](https://visa.com)** | **[Principal Data Scientist](https://jobr.pro/job/29565684/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bellevue, WA, United States | On Site | Oct 07 |
 | **[Ultra Tendency](https://www.ultratendency.com/)** | **[Senior Data Scientist - Databricks (m/f/*)](https://jobr.pro/job/29576235/senior-data-scientist-databricks-mf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Lisbon, Lisbon, Portugal | Remote | Oct 07 |
@@ -51,22 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sedin Technologies](https://sedintechnologies.com/)** | **[Data Scientist](https://jobr.pro/job/29532701/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tamil Nadu, Chennai, India | On Site | Oct 07 |
 | **[dunnhumby](https://www.dunnhumby.com/)** | **[Applied Data Scientist](https://jobr.pro/job/29572538/applied-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London | On Site | Oct 07 |
 | **[Kanton St.Gallen](https://www.sg.ch/)** | **[Data Scientist Bevölkerungsstatistiken (m/w/d)](https://jobr.pro/job/29506035/data-scientist-bevolkerungsstatistiken-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | St.Gallen | On Site | Oct 07 |
-| **[Kanton St.Gallen](https://www.sg.ch/)** | **[Data Scientist Bildungsstatistiken (m/w/d)](https://jobr.pro/job/29506030/data-scientist-bildungsstatistiken-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | St.Gallen | On Site | Oct 07 |
-| **[Sanlam](https://www.sanlamcloud.co.za)** | **[Senior Data Scientist](https://jobr.pro/job/29501992/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bellville, Western Cape, ZA | On Site | Oct 07 |
-| **[Free](https://etre-free.fr)** | **[Senior Data Scientist - Paris - H/F](https://jobr.pro/job/29520436/senior-data-scientist-paris-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Paris, IDF, France | On Site | Oct 07 |
-| **[Hitachi Digital Services](https://hitachids.com)** | **[Data Scientist](https://jobr.pro/job/29584811/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Lisbon | On Site | Oct 07 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Data Scientist](https://jobr.pro/job/29515257/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, Karnataka, India | On Site | Oct 07 |
-| **[Merck Group](https://www.merckgroup.com/)** | **[Internship - Data Scientist (m/f/d)](https://jobr.pro/job/29481517/internship-data-scientist-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Aubonne, Vaud, CH, 1170 | On Site | Oct 07 |
-| **[Exadel](https://exadel.com/)** | **[Senior Data Scientist](https://jobr.pro/job/29483950/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Armenia, Bulgaria, Georgia, Hungary, Lithuania, Poland, Portugal, Romania, Uzbekistan | On Site | Oct 07 |
-| **[Esri](https://www.esri.com/)** | **[Sr. Data Scientist](https://jobr.pro/job/29474485/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New Delhi R&D Center | On Site | Oct 07 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Data Scientist Associate Senior - Affluent D&A](https://jobr.pro/job/29521921/data-scientist-associate-senior-affluent-da?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, NY, United States | On Site | Oct 07 |
-| **[Canva](https://www.canva.com)** | **[Senior Data Scientist - Product, Features & Growth - Open to Remote across ANZ](https://jobr.pro/job/29492136/senior-data-scientist-product-features-growth-open-to-remote-across-anz?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Auckland, Auckland, New Zealand | Remote | Oct 07 |
-| **[Rockwell Automation](https://www.rockwellautomation.com/)** | **[Data Scientist](https://jobr.pro/job/29506702/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India Bangalore | On Site | Oct 07 |
-| **[EVA Pharma](https://www.evapharma.com/)** | **[Data Scientist II](https://jobr.pro/job/29514635/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Cairo, Cairo Governorate, Egypt | On Site | Oct 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 39 companies | Avg salary: 234k  
+**Current Stats:** 50 jobs | 6% remote | 36 companies | Avg salary: 233k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
