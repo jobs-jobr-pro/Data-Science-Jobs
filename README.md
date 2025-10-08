@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 07, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 08, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -56,17 +56,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Forecasting Data Scientist](https://jobr.pro/job/29539462/forecasting-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote Worker - India | Remote | Oct 07 |
 | **[Franklin Templeton](https://www.franklintempleton.com/)** | **[Lead Data Scientist (AI & ML)](https://jobr.pro/job/29551108/lead-data-scientist-ai-ml?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA-SRM2700-San Ramon, United States | On Site | Oct 07 |
 | **[Fractal](https://fractal.ai/)** | **[Data Scientist - Sales & Marketing domain](https://jobr.pro/job/29556950/data-scientist-sales-marketing-domain?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Eindhoven, Netherlands | On Site | Oct 07 |
+| **[Alexion Pharmaceuticals](https://alexion.com/)** | **[Data Scientist](https://jobr.pro/job/29551747/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India - Bangalore | On Site | Oct 07 |
 | **[ICF](https://www.icf.com/)** | **[Data Scientist (Entry Level)](https://jobr.pro/job/29556207/data-scientist-entry-level?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Nationwide Remote Office (US99), United States | Remote | Oct 07 |
 | **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Intermediate Data Scientist](https://jobr.pro/job/29558126/intermediate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | FNB Building, 1 Enterprise Road, Fairland, Johannesburg, 2170, South Africa | On Site | Oct 07 |
 | **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Senior Data Scientist](https://jobr.pro/job/29558104/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 7 Merchant Place, 9 Fredman Drive, Sandton, Johannesburg, 2196, South Africa | On Site | Oct 07 |
 | **[NatWest Group](https://www.natwestgroup.com/)** | **[Model Risk Data Scientist](https://jobr.pro/job/29553083/model-risk-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Edinburgh, United Kingdom | On Site | Oct 07 |
 | **[LEGO Group](https://www.lego.com/)** | **[Data Scientist - Demand Forecasting](https://jobr.pro/job/29552631/data-scientist-demand-forecasting?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London Hub, United Kingdom | On Site | Oct 07 |
 | **[Advance Auto Parts](https://www.advanceautoparts.com/)** | **[Data Scientist](https://jobr.pro/job/29552309/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | GCC, India | On Site | Oct 07 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Data Scientist - Active TS/SCI Clearance Required](https://jobr.pro/job/29558695/data-scientist-active-tssci-clearance-required?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA DC Washington - 3801 Nebraska Ave (DCC057), United States | On Site | Oct 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 39 companies | Avg salary: 213k  
+**Current Stats:** 50 jobs | 8% remote | 39 companies | Avg salary: 224k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
