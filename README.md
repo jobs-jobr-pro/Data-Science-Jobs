@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 08, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 09, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -43,7 +43,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Activate Interactive Pte Ltd](https://www.activate.sg/)** | **[Data Scientist - A25175](https://jobr.pro/job/29724913/data-scientist-a25175?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore, Singapore, Singapore | On Site | Oct 08 |
 | **[Activate Interactive Pte Ltd](https://www.activate.sg/)** | **[Senior Data Scientist - A25174](https://jobr.pro/job/29724914/senior-data-scientist-a25174?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore, Singapore, Singapore | On Site | Oct 08 |
 | **[Deutsche Börse](https://deutsche-boerse.com)** | **[Data Scientist - ETD Clearing Design Unit (f/m/d)](https://jobr.pro/job/29609683/data-scientist-etd-clearing-design-unit-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Frankfurt am Main, DE | On Site | Oct 08 |
+| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Data Scientist II](https://jobr.pro/job/29790927/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | FNB Building, 1 Enterprise Road, Fairland, Johannesburg, 2170, South Africa | On Site | Oct 08 |
+| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Data Scientist III - Credit Risk Acquisitions](https://jobr.pro/job/29790818/data-scientist-iii-credit-risk-acquisitions?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | DirectAxis Campus, 108 De Waal Road, Diep River, Cape Town, 7800, South Africa | On Site | Oct 08 |
+| **[Vertex](https://www.vrtx.com/)** | **[Senior Data Scientist, Commercial](https://jobr.pro/job/29790719/senior-data-scientist-commercial?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 5000 - Vertex US - Boston, United States | On Site | Oct 08 |
 | **[LSEG](https://www.lseg.com/)** | **[Data Scientist](https://jobr.pro/job/29772706/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IND-Bangalore-A, RMZ Infinity, India | On Site | Oct 08 |
+| **[Zillow](https://www.zillow.com/)** | **[Principal Data Scientist - Rentals Marketplace Ads Team](https://jobr.pro/job/29802334/principal-data-scientist-rentals-marketplace-ads-team?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote-USA, United States | Remote | Oct 08 |
 | **[Techem Energy Services GmbH](https://www.techem.com/)** | **[Data Scientist & Software Engineer (m/w/d) in Vollzeit oder Teilzeit](https://jobr.pro/job/29767651/data-scientist-software-engineer-mwd-in-vollzeit-oder-teilzeit?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Rödelheim, Germany | On Site | Oct 08 |
 | **[Rappi](https://www.rappi.com.mx/)** | **[Senior Data scientist I](https://jobr.pro/job/29787362/senior-data-scientist-i?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India | On Site | Oct 08 |
 | **[NN Group](https://www.nn-group.com/)** | **[Data scientist Mortgages](https://jobr.pro/job/29787270/data-scientist-mortgages?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Rotterdam - Delftse Poort, Netherlands | On Site | Oct 08 |
@@ -51,9 +55,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PayPal](https://www.paypal.com/)** | **[Sr Data Scientist](https://jobr.pro/job/29789428/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IRL - County Dublin - Dublin - Corp - Ballycoolin Business Park, Ireland | On Site | Oct 08 |
 | **[PayPal](https://www.paypal.com/)** | **[Staff Data Scientist](https://jobr.pro/job/29789392/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA - New York - New York City - Corp - Barrow St, United States | On Site | Oct 08 |
 | **[Leidos](https://www.leidos.com/)** | **[Data Scientist](https://jobr.pro/job/29789085/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 1662 Intelligence Community Campus - Bethesda MD, United States | On Site | Oct 08 |
-| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Data Scientist II](https://jobr.pro/job/29790927/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | FNB Building, 1 Enterprise Road, Fairland, Johannesburg, 2170, South Africa | On Site | Oct 08 |
-| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Data Scientist III - Credit Risk Acquisitions](https://jobr.pro/job/29790818/data-scientist-iii-credit-risk-acquisitions?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | DirectAxis Campus, 108 De Waal Road, Diep River, Cape Town, 7800, South Africa | On Site | Oct 08 |
-| **[Vertex](https://www.vrtx.com/)** | **[Senior Data Scientist, Commercial](https://jobr.pro/job/29790719/senior-data-scientist-commercial?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 5000 - Vertex US - Boston, United States | On Site | Oct 08 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Data Scientist – Identity Focus](https://jobr.pro/job/29792506/data-scientist-identity-focus?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA VA Home Office (VAHOME), United States | On Site | Oct 08 |
 | **[NSW Government](https://www.nsw.gov.au/)** | **[Senior Data Scientist](https://jobr.pro/job/29692394/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Parramatta | On Site | Oct 07 |
 | **[EXL](https://www.exlservice.com/)** | **[Senior Data Scientist](https://jobr.pro/job/29754028/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | United States | On Site | Oct 07 |
 | **[Navy Federal Credit Union](https://www.navyfederal.org/)** | **[Data Scientist (Credit Risk & Decision Science)](https://jobr.pro/job/29760850/data-scientist-credit-risk-decision-science?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Vienna, VA, United States | On Site | Oct 07 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Airtable](https://airtable.com/)** | **[Data Scientist, GTM Analytics](https://jobr.pro/job/29578497/data-scientist-gtm-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco, CA; New York City, NY; Austin, TX | On Site | Oct 07 |
 | **[BitGo](https://www.bitgo.com/)** | **[Associate Data Scientist](https://jobr.pro/job/29576340/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India | On Site | Oct 07 |
 | **[Culture Biosciences](https://www.culturebiosciences.com/)** | **[Data Scientist](https://jobr.pro/job/29575375/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | South San Francisco | On Site | Oct 07 |
-| **[The Trade Desk](https://www.thetradedesk.com/)** | **[Sr Data Scientist, Open Path](https://jobr.pro/job/29577958/sr-data-scientist-open-path?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bellevue, Washington, United States | On Site | Oct 07 |
-| **[Wizeline](https://www.wizeline.com/)** | **[Senior Data Scientist - Barcelona (Hybrid)](https://jobr.pro/job/29572456/senior-data-scientist-barcelona-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Barcelona - Hybrid | On Site | Oct 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 45 companies | Avg salary: 194k  
+**Current Stats:** 50 jobs | 4% remote | 45 companies | Avg salary: 193k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
