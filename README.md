@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 11, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 11, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[OAG - Child Support \| Data Engineer (Data Scientist I) \| 26-0079](https://jobr.pro/job/30047620/oag-child-support-data-engineer-data-scientist-i-26-0079?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Texas-Austin | On Site | Oct 11 |
 | **[Meta](https://www.meta.com/)** | **[Data Scientist, Analytics](https://jobr.pro/job/30038036/data-scientist-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Menlo Park, CA | On Site | Oct 11 |
 | **[Meta](https://www.meta.com/)** | **[Data Scientist](https://jobr.pro/job/30038025/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Menlo Park, CA | On Site | Oct 11 |
 | **[Meta](https://www.meta.com/)** | **[Data Scientist, Product Analytics (PhD)](https://jobr.pro/job/30037779/data-scientist-product-analytics-phd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Menlo Park, CA | On Site | Oct 11 |
@@ -30,6 +31,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ford Motor Company](https://corporate.ford.com/)** | **[Staff Data Scientist](https://jobr.pro/job/30036349/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Dearborn, MI, United States | On Site | Oct 10 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Distributed Cloud \| Data Scientist](https://jobr.pro/job/29993502/distributed-cloud-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Lisboa, Lisboa, Portugal | On Site | Oct 10 |
 | **[Spotify](https://spotifyjobs.com/)** | **[Data Scientist, Finance Data & Insights (Premium Revenue, Royalties, & Legal)](https://jobr.pro/job/30009376/data-scientist-finance-data-insights-premium-revenue-royalties-legal?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, NY | On Site | Oct 10 |
+| **[EXL](https://www.exlservice.com/)** | **[Data Scientist - Football Operations & Media](https://jobr.pro/job/30041722/data-scientist-football-operations-media?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | United States | On Site | Oct 10 |
 | **[Smartsheet](https://www.smartsheet.com/)** | **[Sr. Data Scientist II - Product Analytics](https://jobr.pro/job/30002946/sr-data-scientist-ii-product-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bellevue, WA, USA | Remote | Oct 10 |
 | **[TrueCommerce](https://www.truecommerce.com/)** | **[Data Scientist / ML](https://jobr.pro/job/30025047/data-scientist-ml?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Columbus, Ohio, United States; Cranberry Twp, Pennsylvania, United States; Remote, United States | Remote | Oct 10 |
 | **[McNab](https://www.mcnab.net.au/)** | **[Data Scientist](https://jobr.pro/job/29971939/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Brisbane, QLD, AU | On Site | Oct 10 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tier One Technologies](https://tier1technologies.com/)** | **[Data Scientist Identity Focus (Remote)](https://jobr.pro/job/30021301/data-scientist-identity-focus-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Falls Church, VA, United States | On Site | Oct 10 |
 | **[AUTO1 Group](https://www.auto1-group.com)** | **[Senior Data Scientist (f/m/x)](https://jobr.pro/job/29925735/senior-data-scientist-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Madrid, MD, Spain | On Site | Oct 10 |
 | **[Canva](https://www.canva.com)** | **[Senior Data Scientist, LATAM](https://jobr.pro/job/29916835/senior-data-scientist-latam?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mexico City, CDMX, Mexico | Remote | Oct 10 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Senior Applied & Data scientist](https://jobr.pro/job/29945636/senior-applied-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Hyderabad, Telangana, India | On Site | Oct 10 |
-| **[84.51°](https://www.8451.com/)** | **[Senior Data Scientist (P3656)](https://jobr.pro/job/29908605/senior-data-scientist-p3656?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Cincinnati, OH; Chicago, IL | On Site | Oct 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 42 companies | Avg salary: 207k  
+**Current Stats:** 50 jobs | 12% remote | 43 companies | Avg salary: 204k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
