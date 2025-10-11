@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 11, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 11, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ADP](https://www.adp.com/)** | **[Lead Data Scientist](https://jobr.pro/job/30062573/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Miami, FL, United States | On Site | Oct 11 |
+| **[Inspira Financial](https://inspirafinancial.com/)** | **[Data Scientist (Remote)](https://jobr.pro/job/30061046/data-scientist-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Oak Brook, IL, United States | Remote | Oct 11 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[OAG - Child Support \| Data Engineer (Data Scientist I) \| 26-0079](https://jobr.pro/job/30047620/oag-child-support-data-engineer-data-scientist-i-26-0079?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Texas-Austin | On Site | Oct 11 |
 | **[Meta](https://www.meta.com/)** | **[Data Scientist, Analytics](https://jobr.pro/job/30038036/data-scientist-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Menlo Park, CA | On Site | Oct 11 |
 | **[Meta](https://www.meta.com/)** | **[Data Scientist](https://jobr.pro/job/30038025/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Menlo Park, CA | On Site | Oct 11 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Eliq](https://eliq.com/)** | **[Senior Data Scientist](https://jobr.pro/job/29959684/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Västra Götaland County, Gothenburg, Sweden | On Site | Oct 10 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Data Scientist (Statistical Modelling, Data Science Modelling, EDA, Performance Matrix, Python, Pyspark, Databricks, Azure, Airflow)](https://jobr.pro/job/29950766/data-scientist-statistical-modelling-data-science-modelling-eda-performance-matrix-python-pyspark-databricks-azure-airflow?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pune, MH, India | On Site | Oct 10 |
 | **[Tier One Technologies](https://tier1technologies.com/)** | **[Data Scientist Identity Focus (Remote)](https://jobr.pro/job/30021301/data-scientist-identity-focus-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Falls Church, VA, United States | On Site | Oct 10 |
-| **[AUTO1 Group](https://www.auto1-group.com)** | **[Senior Data Scientist (f/m/x)](https://jobr.pro/job/29925735/senior-data-scientist-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Madrid, MD, Spain | On Site | Oct 10 |
-| **[Canva](https://www.canva.com)** | **[Senior Data Scientist, LATAM](https://jobr.pro/job/29916835/senior-data-scientist-latam?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mexico City, CDMX, Mexico | Remote | Oct 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 43 companies | Avg salary: 204k  
+**Current Stats:** 50 jobs | 12% remote | 44 companies | Avg salary: 204k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
