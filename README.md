@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 13, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 14, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -41,6 +41,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LSEG](https://www.lseg.com/)** | **[Data Scientist - AI/ML](https://jobr.pro/job/30119623/data-scientist-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IND-Bangalore-TowerE,RMZ Infin, India | On Site | Oct 13 |
 | **[NN Group](https://www.nn-group.com/)** | **[Data Scientist](https://jobr.pro/job/30124261/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Rotterdam - Delftse Poort, Netherlands | On Site | Oct 13 |
 | **[Rappi](https://www.rappi.com.mx/)** | **[Senior Data scientist I](https://jobr.pro/job/30115154/senior-data-scientist-i?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India | On Site | Oct 13 |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Senior Staff Data Scientist](https://jobr.pro/job/30130569/senior-staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sydney, NSW - CBP South, 11 Harbour Street, Australia | On Site | Oct 13 |
+| **[Citi](https://www.citigroup.com/)** | **[Data Scientist](https://jobr.pro/job/30127997/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | AMRUTHAHALLI, NH 7,INTERNATION, India | On Site | Oct 13 |
+| **[Citi](https://www.citigroup.com/)** | **[Lead Data Scientist](https://jobr.pro/job/30127992/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | AMRUTHAHALLI, NH 7,INTERNATION, India | On Site | Oct 13 |
+| **[Boeing](https://www.boeing.com/)** | **[Mid-Level Data Scientist – MS&B](https://jobr.pro/job/30132604/mid-level-data-scientist-msb?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA - Tukwila, WA, United States | On Site | Oct 13 |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Senior Data Scientist - Gen AI, Business Banking](https://jobr.pro/job/30130590/senior-data-scientist-gen-ai-business-banking?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sydney, NSW - CBP South, 11 Harbour Street, Australia | On Site | Oct 13 |
+| **[Hitachi](https://www.hitachi.com/)** | **[Global Data Scientist](https://jobr.pro/job/30132912/global-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | (HE)Office Commerzone, India | On Site | Oct 13 |
+| **[Equifax](https://www.equifax.com/)** | **[Data Scientist - Specialist](https://jobr.pro/job/30132545/data-scientist-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA - Atlanta - One Atlantic Center, United States | On Site | Oct 13 |
 | **[LSEG](https://www.lseg.com/)** | **[Data Scientist](https://jobr.pro/job/30119617/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IND-Bangalore-A, RMZ Infinity, India | On Site | Oct 13 |
 | **[UP.Labs](https://up.partners/labs/)** | **[Senior Data Scientist (Remote)](https://jobr.pro/job/30115419/senior-data-scientist-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote, Guadalajara | Remote | Oct 12 |
 | **[257](https://257.co)** | **[Sr Data Scientist](https://jobr.pro/job/30105991/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Oct 12 |
@@ -56,17 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ADP](https://www.adp.com/)** | **[Lead Data Scientist](https://jobr.pro/job/30062573/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Miami, FL, United States | On Site | Oct 11 |
 | **[Inspira Financial](https://inspirafinancial.com/)** | **[Data Scientist (Remote)](https://jobr.pro/job/30061046/data-scientist-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Oak Brook, IL, United States | Remote | Oct 11 |
 | **[OCA Global](https://ocaglobal.com/)** | **[Estadístico/Data Scientist](https://jobr.pro/job/30093185/estadisticodata-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Lima, Peru | On Site | Oct 11 |
-| **[Syngenta Group](https://www.syngenta.com)** | **[Data Scientist - Temperate Hub Data Integrity](https://jobr.pro/job/30083063/data-scientist-temperate-hub-data-integrity?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Durham, North Carolina, United States | On Site | Oct 11 |
-| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[OAG - Child Support \| Data Engineer (Data Scientist I) \| 26-0079](https://jobr.pro/job/30047620/oag-child-support-data-engineer-data-scientist-i-26-0079?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Texas-Austin | On Site | Oct 11 |
-| **[Meta](https://www.meta.com/)** | **[Data Scientist, Analytics](https://jobr.pro/job/30038036/data-scientist-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Menlo Park, CA | On Site | Oct 11 |
-| **[Meta](https://www.meta.com/)** | **[Data Scientist](https://jobr.pro/job/30038025/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Menlo Park, CA | On Site | Oct 11 |
-| **[Meta](https://www.meta.com/)** | **[Data Scientist, Product Analytics (PhD)](https://jobr.pro/job/30037779/data-scientist-product-analytics-phd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Menlo Park, CA | On Site | Oct 11 |
-| **[ENGIE](https://www.engie.com)** | **[Senior Data Scientist](https://jobr.pro/job/30025659/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Brussel, BE, 1000 | On Site | Oct 11 |
-| **[Mastercard](https://www.mastercard.com/)** | **[Senior Data Scientist](https://jobr.pro/job/29999816/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Gurgaon, India | On Site | Oct 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 43 companies | Avg salary: 199k  
+**Current Stats:** 50 jobs | 8% remote | 44 companies | Avg salary: 240k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
