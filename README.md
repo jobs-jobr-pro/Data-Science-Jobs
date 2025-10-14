@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 14, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 14, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -36,6 +36,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Boeing](https://www.boeing.com/)** | **[Associate Data Scientist](https://jobr.pro/job/30178957/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IND - Bangalore, India | On Site | Oct 14 |
 | **[Makro PRO](https://www.siammakro.co.th/)** | **[Lead Data Scientist (Retail & Wholesale, AI Initiatives), Lotus's](https://jobr.pro/job/30174838/lead-data-scientist-retail-wholesale-ai-initiatives-lotuss?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Nuan Chan, Bangkok, Thailand | On Site | Oct 14 |
 | **[Rockwell Automation](https://www.rockwellautomation.com/)** | **[Sr. Data Scientist](https://jobr.pro/job/30168586/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India Bangalore (formerly Knowledge Lens) | On Site | Oct 14 |
+| **[Takeda](https://www.takeda.com/)** | **[Senior Data Scientist](https://jobr.pro/job/30204541/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IND - Bengaluru, India | On Site | Oct 14 |
+| **[Ardian](https://www.ardian.com/)** | **[Data Scientist \| Paris (H/F)](https://jobr.pro/job/30201570/data-scientist-paris-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | FRA - Paris - St Honoré 374, France | On Site | Oct 14 |
 | **[Airtable](https://airtable.com/)** | **[Data Scientist, Product Analytics](https://jobr.pro/job/30139198/data-scientist-product-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco, CA; New York City, NY; Austin, TX | On Site | Oct 13 |
 | **[Algolia](https://www.algolia.com/)** | **[Senior Data Scientist – Product Analytics & Machine Learning](https://jobr.pro/job/30139836/senior-data-scientist-product-analytics-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Seattle, Washington | Remote | Oct 13 |
 | **[Visa](https://visa.com)** | **[Data Scientist](https://jobr.pro/job/30156743/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Foster City, CA, United States | On Site | Oct 13 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Orbem GmbH](https://orbem.ai/)** | **[Data Scientist, Computer Vision (f/m/d)](https://jobr.pro/job/30139849/data-scientist-computer-vision-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | München, Bayern, Germany | On Site | Oct 13 |
 | **[Hotmart](https://www.hotmart.com/)** | **[Data Scientist Sênior - Artificial intelligence](https://jobr.pro/job/30138495/data-scientist-senior-artificial-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | BRASIL, SÃO PAULO | On Site | Oct 13 |
 | **[TikTok](https://www.tiktok.com/)** | **[TikTok Shop - Data Scientist - Creator & Affiliate](https://jobr.pro/job/30095093/tiktok-shop-data-scientist-creator-affiliate?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Seattle, Washington, United States | On Site | Oct 13 |
-| **[Delivery Hero](https://www.deliveryhero.com)** | **[Product Data Scientist II (Based in Dubai, UAE)](https://jobr.pro/job/30096085/product-data-scientist-ii-based-in-dubai-uae?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Oct 13 |
-| **[Stripe](https://stripe.com/en-ch)** | **[Data Scientist](https://jobr.pro/job/30148839/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Ireland | On Site | Oct 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 45 companies | Avg salary: 185k  
+**Current Stats:** 50 jobs | 6% remote | 45 companies | Avg salary: 187k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
