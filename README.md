@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 15, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 15, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Blend360](https://blend360.com)** | **[Data Scientist Director](https://jobr.pro/job/30211885/data-scientist-director?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bogotá, Bogota, Colombia | On Site | Oct 14 |
+| **[Dairy Queen](https://www.dairyqueen.com/)** | **[Data Scientist](https://jobr.pro/job/30211901/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bloomington, MN, United States | On Site | Oct 14 |
+| **[ASSYSTEM](https://www.assystem.com)** | **[Data Scientist / Python - Stage H/F](https://jobr.pro/job/30211921/data-scientist-python-stage-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Courbevoie, IDF, France | On Site | Oct 14 |
 | **[Meta](https://www.meta.com/)** | **[Data Scientist, Product Analytics](https://jobr.pro/job/30175658/data-scientist-product-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bellevue, WA \| Menlo Park, CA \| Seattle, WA \| New York, NY | On Site | Oct 14 |
 | **[Google](https://www.google.com/)** | **[Data Scientist - Product, Play Monetization, Fraud and Abuse](https://jobr.pro/job/30174612/data-scientist-product-play-monetization-fraud-and-abuse?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, CA, USA | On Site | Oct 14 |
 | **[Google](https://www.google.com/)** | **[Senior Business Data Scientist, YouTube Marketing](https://jobr.pro/job/30174603/senior-business-data-scientist-youtube-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Bruno, CA, USA; Chicago, IL, USA | On Site | Oct 14 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Faculty](https://faculty.ai)** | **[Senior Data Scientist - Fixed Term Contract](https://jobr.pro/job/30145933/senior-data-scientist-fixed-term-contract?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London - Hybrid | On Site | Oct 13 |
 | **[Spektrum](https://spektrum-group.com/)** | **[Data Scientist](https://jobr.pro/job/30151539/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | The Hague, Netherlands | On Site | Oct 13 |
 | **[Artefact](https://www.artefact.com/)** | **[Stage Data Scientist - Paris](https://jobr.pro/job/30142812/stage-data-scientist-paris?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 9th arrondissement of Paris, 75009, Paris, France | On Site | Oct 13 |
-| **[Orbem GmbH](https://orbem.ai/)** | **[Data Scientist, Computer Vision (f/m/d)](https://jobr.pro/job/30139849/data-scientist-computer-vision-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | München, Bayern, Germany | On Site | Oct 13 |
-| **[Hotmart](https://www.hotmart.com/)** | **[Data Scientist Sênior - Artificial intelligence](https://jobr.pro/job/30138495/data-scientist-senior-artificial-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | BRASIL, SÃO PAULO | On Site | Oct 13 |
-| **[TikTok](https://www.tiktok.com/)** | **[TikTok Shop - Data Scientist - Creator & Affiliate](https://jobr.pro/job/30095093/tiktok-shop-data-scientist-creator-affiliate?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Seattle, Washington, United States | On Site | Oct 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 45 companies | Avg salary: 187k  
+**Current Stats:** 50 jobs | 6% remote | 45 companies | Avg salary: 191k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
