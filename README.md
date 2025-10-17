@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 16, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 17, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -42,6 +42,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[State Street](https://www.statestreet.com/)** | **[Lead Data Scientist - Assistant Vice President](https://jobr.pro/job/30403569/lead-data-scientist-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, India | On Site | Oct 16 |
 | **[Onepoint](https://www.groupeonepoint.com/)** | **[AI Scientist Leader (Lead Data Scientist R&D) – F/H](https://jobr.pro/job/30405785/ai-scientist-leader-lead-data-scientist-rd-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Paris, France | On Site | Oct 16 |
 | **[Netflix](https://www.netflix.com/)** | **[Data Scientist (L5) , Performance Marketing](https://jobr.pro/job/30404965/data-scientist-l5-performance-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA - Remote, United States | Remote | Oct 16 |
+| **[AirAsia](https://www.airasia.com/)** | **[Data Scientist II](https://jobr.pro/job/30408880/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Kuala Lumpur - RedQ, Malaysia | On Site | Oct 16 |
+| **[FWD Insurance](https://www.fwd.com/)** | **[Senior Data Scientist](https://jobr.pro/job/30406822/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Thailand - Bangkok | On Site | Oct 16 |
 | **[Invisible Technologies](https://www.inv.tech/)** | **[Data Scientist Specialist (Marketing)](https://jobr.pro/job/30336012/data-scientist-specialist-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Uruguay | On Site | Oct 15 |
 | **[Braze](https://www.braze.com/)** | **[Field Data Scientist, AI Deployment](https://jobr.pro/job/30327053/field-data-scientist-ai-deployment?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco | On Site | Oct 15 |
 | **[Token Metrics](https://tokenmetrics.com/)** | **[Crypto Data Scientist / Machine Learning - LLM Engineer Intern](https://jobr.pro/job/30327417/crypto-data-scientist-machine-learning-llm-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Houston, TX | On Site | Oct 15 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Policy Expert](https://www.policyexpert.co.uk/)** | **[Data Scientist (Retail Pricing)](https://jobr.pro/job/30334292/data-scientist-retail-pricing?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London | On Site | Oct 15 |
 | **[AUTO1 Group](https://www.auto1-group.com)** | **[Senior Data Scientist (f/m/x)](https://jobr.pro/job/30310732/senior-data-scientist-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Carnaxide, Lisboa, Portugal | On Site | Oct 15 |
 | **[Datavant](https://www.datavant.com/)** | **[Data Scientist, Privacy](https://jobr.pro/job/30338284/data-scientist-privacy?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote - United States | Remote | Oct 15 |
-| **[BLACKLANE](https://www.blacklane.com/)** | **[Senior Data Scientist](https://jobr.pro/job/30321240/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Berlin | On Site | Oct 15 |
-| **[Oracle](https://www.oracle.com/)** | **[Consulting Data Scientist 4](https://jobr.pro/job/30266087/consulting-data-scientist-4?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | United States | On Site | Oct 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 45 companies | Avg salary: 206k  
+**Current Stats:** 50 jobs | 8% remote | 45 companies | Avg salary: 207k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
