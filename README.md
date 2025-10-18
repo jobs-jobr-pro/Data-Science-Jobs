@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 17, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 18, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Pfizer](https://www.pfizer.com/)** | **[Senior Associate, Principal Statistical Data Scientist](https://jobr.pro/job/30490484/senior-associate-principal-statistical-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IND - Chennai Office, India | On Site | Oct 18 |
 | **[Alfred Health](https://www.alfredhealth.org.au/)** | **[Data Scientist](https://jobr.pro/job/30477043/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Melbourne, VIC, AU | On Site | Oct 17 |
 | **[Alfred Health](https://www.alfredhealth.org.au/)** | **[Senior Data Scientist](https://jobr.pro/job/30477038/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Melbourne, VIC, AU | On Site | Oct 17 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Senior Data Scientist](https://jobr.pro/job/30456944/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Vadodara, GJ, India | On Site | Oct 17 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NielsenIQ](https://nielseniq.com)** | **[Data Scientist](https://jobr.pro/job/30410878/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Vadodara, GJ, India | On Site | Oct 16 |
 | **[Talkdesk](https://www.talkdesk.com/)** | **[Senior Data Scientist II](https://jobr.pro/job/30425490/senior-data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bengaluru | On Site | Oct 16 |
 | **[team.blue](https://team.blue/)** | **[Data Engineer/Data Scientist](https://jobr.pro/job/30453059/data-engineerdata-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Lisboa, Portugal | Remote | Oct 16 |
-| **[Trellis](https://trellisconnect.com/)** | **[Senior Data Scientist](https://jobr.pro/job/30415365/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | Oct 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 43 companies | Avg salary: 279k  
+**Current Stats:** 50 jobs | 8% remote | 43 companies | Avg salary: 283k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
