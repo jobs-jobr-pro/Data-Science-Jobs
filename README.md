@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 18, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 18, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -27,6 +27,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Truebill, Inc.](https://www.truebill.com/)** | **[Senior Data Scientist, Decisions](https://jobr.pro/job/30507955/senior-data-scientist-decisions?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco, CA, Washington, D.C., New York City, N.Y., Remote (USA) | Remote | Oct 17 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Senior Data Scientist](https://jobr.pro/job/30529902/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Redmond, Washington, United States | On Site | Oct 17 |
 | **[Ubisoft](https://www.ubisoft.com/)** | **[Player Protection and Game Security Data Scientist \[Rainbow Six Siege\]](https://jobr.pro/job/30495276/player-protection-and-game-security-data-scientist-rainbow-six-siege?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Montreal, QC, Canada | On Site | Oct 17 |
+| **[Félix](https://www.felixpago.com/)** | **[Senior Data Scientist (Credit)](https://jobr.pro/job/30545911/senior-data-scientist-credit?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | US-Remote | Remote | Oct 17 |
 | **[TRM Labs](https://www.trmlabs.com/)** | **[Senior Data Scientist, Product Analytics](https://jobr.pro/job/30500485/senior-data-scientist-product-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | United States | On Site | Oct 17 |
 | **[Oracle](https://www.oracle.com/)** | **[Data Scientist 2](https://jobr.pro/job/30528878/data-scientist-2?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Burlington, MA, United States | On Site | Oct 17 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Data Scientist-Vice President](https://jobr.pro/job/30537914/data-scientist-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, NY, United States | On Site | Oct 17 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Delivery Hero](https://www.deliveryhero.com)** | **[Data Scientist (Consumer, Global Search)](https://jobr.pro/job/30456980/data-scientist-consumer-global-search?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Berlin, Germany | On Site | Oct 17 |
 | **[Crédit Agricole CIB](https://www.ca-cib.fr/)** | **[Data Scientist H/F](https://jobr.pro/job/30486525/data-scientist-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Europe, France, Ile-de-France, 92 - Hauts-De-Seine | On Site | Oct 17 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior Data Scientist - IA Générative F/H](https://jobr.pro/job/30456991/senior-data-scientist-ia-generative-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Lyon, Auvergne-Rhône-Alpes, France | On Site | Oct 17 |
-| **[Chubb](https://www.chubb.com/)** | **[Lead Data Scientist](https://jobr.pro/job/30450637/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, Karnataka, India | On Site | Oct 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 37 companies | Avg salary: 209k  
+**Current Stats:** 50 jobs | 10% remote | 37 companies | Avg salary: 209k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
