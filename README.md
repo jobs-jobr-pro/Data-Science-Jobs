@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 20, 2025 at 16:31 UTC</small></sub>
+<sub><small>Last updated: Oct 20, 2025 at 20:56 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -27,8 +27,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[RELX](https://www.relx.com/)** | **[Principal Data Scientist I](https://jobr.pro/job/30569952/principal-data-scientist-i?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | China - Shanghai | On Site | Oct 20 |
 | **[LexisNexis](https://www.lexisnexis.com/)** | **[Principal Data Scientist I](https://jobr.pro/job/30569946/principal-data-scientist-i?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | China - Shanghai | On Site | Oct 20 |
 | **[ING Nederland](https://www.ing.com/)** | **[Senior Data Scientist / Financial Crime Detection](https://jobr.pro/job/30568445/senior-data-scientist-financial-crime-detection?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Oct 20 |
+| **[CrowdStrike](https://www.crowdstrike.com/)** | **[Data Scientist III - CharlotteAI (Remote, ROU)](https://jobr.pro/job/30596372/data-scientist-iii-charlotteai-remote-rou?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | ROU Remote, Romania | Remote | Oct 20 |
 | **[Johnson Electric](https://www.johnsonelectric.com/)** | **[Data Scientist](https://jobr.pro/job/30589089/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Italy Asti (General) | On Site | Oct 20 |
 | **[Analytica](https://www.analytica.net/)** | **[Data Scientist](https://jobr.pro/job/30583418/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | United States - Remote | Remote | Oct 20 |
+| **[T. Rowe Price](https://www.troweprice.com/)** | **[Senior AI Data Scientist (T. Rowe Labs - NYC or Baltimore, MD)](https://jobr.pro/job/30607389/senior-ai-data-scientist-t-rowe-labs-nyc-or-baltimore-md?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, NY, United States | On Site | Oct 20 |
 | **[IAMUS](https://iamusconsulting.com/)** | **[Data Scientist (Hybrid)](https://jobr.pro/job/30585412/data-scientist-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Antonio, TX, US | On Site | Oct 19 |
 | **[Blockaid](https://blockaid.io/)** | **[Data Scientist](https://jobr.pro/job/30586391/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 19 |
 | **[Helmes](https://www.helmes.ee)** | **[Data Engineer / Data Scientist](https://jobr.pro/job/30577524/data-engineer-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Kaunas, Kaunas City Municipality, Lithuania | On Site | Oct 19 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Descartes Underwriting](https://www.descartesunderwriting.com/)** | **[R&D Data Scientist - Intern](https://jobr.pro/job/30534144/rd-data-scientist-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Paris, France | On Site | Oct 17 |
 | **[Milliman](https://careers.milliman.com)** | **[Lead Data Scientist - IntelliScript (Remote)](https://jobr.pro/job/30513573/lead-data-scientist-intelliscript-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Brookfield, Wisconsin, United States | Remote | Oct 17 |
 | **[Ubisoft](https://www.ubisoft.com/)** | **[Data Scientist Assistant – Stage (6 mois) Janvier 2026 (F/H/NB)](https://jobr.pro/job/30495284/data-scientist-assistant-stage-6-mois-janvier-2026-fhnb?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Paris, IDF, France | On Site | Oct 17 |
-| **[Syngenta Group](https://www.syngenta.com)** | **[Data Scientist Pl](https://jobr.pro/job/30495286/data-scientist-pl?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Uberlandia, MINAS GERAIS, Brazil | On Site | Oct 17 |
-| **[ShyftLabs](https://shyftlabs.io)** | **[Data Scientist](https://jobr.pro/job/30499914/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Noida, Uttar Pradesh | On Site | Oct 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 41 companies | Avg salary: 208k  
+**Current Stats:** 50 jobs | 24% remote | 41 companies | Avg salary: 211k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
