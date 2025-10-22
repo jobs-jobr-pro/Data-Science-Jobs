@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -41,10 +41,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Caterpillar Inc.](https://www.caterpillar.com/)** | **[Vector DB Engineer – Data Scientist](https://jobr.pro/job/30622070/vector-db-engineer-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, Karnataka, India | On Site | Oct 21 |
 | **[Kantar](https://www.kantar.com/)** | **[Data Scientist](https://jobr.pro/job/30666556/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Copenhagen, Raadhuspladsen, Denmark | On Site | Oct 21 |
 | **[Verisure](https://www.verisure.com/)** | **[Data scientist](https://jobr.pro/job/30664446/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | SE - Malmö office, Sweden | On Site | Oct 21 |
-| **[Atlassian](https://www.atlassian.com/)** | **[Principal Data Scientist](https://jobr.pro/job/30656973/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sydney - Australia - Sydney, 2000 Australia; Melbourne - Australia - Melbourne, 3000 Australia; Brisbane - Australia - Brisbane, Australia; Remote - Remote | Remote | Oct 21 |
 | **[Accenture](https://www.accenture.com/)** | **[Data Scientist](https://jobr.pro/job/30681293/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Cluj-Napoca, Hexagon Office, Romania | On Site | Oct 21 |
 | **[Accenture](https://www.accenture.com/)** | **[Data Scientist Analyst/Consultant for Supply Chain](https://jobr.pro/job/30682513/data-scientist-analystconsultant-for-supply-chain?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Barcelona, La Rotonda, Spain | On Site | Oct 21 |
+| **[Atlassian](https://www.atlassian.com/)** | **[Principal Data Scientist](https://jobr.pro/job/30656973/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sydney - Australia - Sydney, 2000 Australia; Melbourne - Australia - Melbourne, 3000 Australia; Brisbane - Australia - Brisbane, Australia; Remote - Remote | Remote | Oct 21 |
 | **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Data Scientist III](https://jobr.pro/job/30702403/data-scientist-iii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 5 Merchant Place, 9 Fredman Drive, Sandton, Johannesburg, 2196, South Africa | On Site | Oct 21 |
+| **[Zillow](https://www.zillow.com/)** | **[Data Scientist II](https://jobr.pro/job/30705295/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mexico City | On Site | Oct 21 |
 | **[Headway](https://headway.co/)** | **[Senior Data Scientist](https://jobr.pro/job/30620586/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, New York, United States; San Francisco, California, United States; Seattle, Washington, United States | On Site | Oct 20 |
 | **[Headway](https://headway.co/)** | **[Staff Data Scientist, Ranking](https://jobr.pro/job/30620588/staff-data-scientist-ranking?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, New York, United States; San Francisco, California, United States; Seattle, Washington, United States | On Site | Oct 20 |
 | **[Headway](https://headway.co/)** | **[Senior Data Scientist, Matching](https://jobr.pro/job/30620587/senior-data-scientist-matching?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, New York, United States; San Francisco, California, United States; Seattle, Washington, United States | On Site | Oct 20 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Asset Management Investment Platform - Data Scientist Associate](https://jobr.pro/job/30656568/asset-management-investment-platform-data-scientist-associate?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, NY, United States | On Site | Oct 20 |
 | **[Wizeline](https://www.wizeline.com/)** | **[Data Scientist](https://jobr.pro/job/30618430/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Colombia based Remote | Remote | Oct 20 |
 | **[Pomelo Care](https://www.pomelocare.com/)** | **[Senior Data Scientist, Patient Experience](https://jobr.pro/job/30621884/senior-data-scientist-patient-experience?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | Oct 20 |
-| **[Pomelo Care](https://www.pomelocare.com/)** | **[Senior Data Scientist, Care Intelligence](https://jobr.pro/job/30621883/senior-data-scientist-care-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | Oct 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 34 companies | Avg salary: 203k  
+**Current Stats:** 50 jobs | 8% remote | 35 companies | Avg salary: 203k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
