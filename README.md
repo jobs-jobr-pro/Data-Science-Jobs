@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 22, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 23, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -46,27 +46,27 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Synectic Solutions](https://synecticsolutions.com/)** | **[Data Scientist, Journeyman (DoD Clearance Required)](https://jobr.pro/job/30758395/data-scientist-journeyman-dod-clearance-required?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Patuxent River, MD | On Site | Oct 22 |
 | **[Atlassian](https://www.atlassian.com/)** | **[Principle Data Scientist](https://jobr.pro/job/30753975/principle-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sydney - Australia - Sydney, 2000 Australia; Melbourne - Australia - Melbourne, 3000 Australia; Brisbane - Australia - Brisbane, Australia; Remote - Remote | Remote | Oct 22 |
 | **[Arkema](https://www.arkema.com/)** | **[Stage Data Scientist R&D chimie H/F](https://jobr.pro/job/30733845/stage-data-scientist-rd-chimie-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pierre-Bénite, Auvergne-Rhône-Alpes, France | On Site | Oct 22 |
+| **[Advance Auto Parts](https://www.advanceautoparts.com/)** | **[Data Scientist](https://jobr.pro/job/30790532/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | RALEIGH, United States | On Site | Oct 22 |
+| **[Advance Auto Parts](https://www.advanceautoparts.com/)** | **[Senior Data Scientist](https://jobr.pro/job/30790537/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | RALEIGH, United States | On Site | Oct 22 |
+| **[Capital One](https://www.capitalonecareers.com/)** | **[Data Scientist - Statistician](https://jobr.pro/job/30756909/data-scientist-statistician?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Nottingham, Eng, United Kingdom | On Site | Oct 22 |
+| **[LSEG](https://www.lseg.com/)** | **[Associate Data Scientist, FX Trade Surveillance](https://jobr.pro/job/30786376/associate-data-scientist-fx-trade-surveillance?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | PHL-Taguig City-CitiPlaza, Philippines | On Site | Oct 22 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Data Scientist II](https://jobr.pro/job/30797830/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA NC Fort Bragg - Fort Bragg (NCC004), United States | On Site | Oct 22 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Data Scientist I](https://jobr.pro/job/30797828/data-scientist-i?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA NC Fort Bragg - Fort Bragg (NCC004), United States | On Site | Oct 22 |
 | **[Arkema](https://www.arkema.com/)** | **[Ingénieur(e) Data Scientist IA/GenAI stagiaire](https://jobr.pro/job/30733864/ingenieure-data-scientist-iagenai-stagiaire?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pierre-Bénite, Auvergne-Rhône-Alpes, France | On Site | Oct 22 |
 | **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Data Scientist II - Pricing](https://jobr.pro/job/30797738/data-scientist-ii-pricing?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | DirectAxis Campus, 108 De Waal Road, Diep River, Cape Town, 7800, South Africa | On Site | Oct 22 |
-| **[Capital One](https://www.capitalonecareers.com/)** | **[Data Scientist - Statistician](https://jobr.pro/job/30756909/data-scientist-statistician?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Nottingham, Eng, United Kingdom | On Site | Oct 22 |
 | **[Virtua Health](https://www.virtua.org/)** | **[Data Scientist -Azure and EPIC experience preferred](https://jobr.pro/job/30795157/data-scientist-azure-and-epic-experience-preferred?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Marlton, NJ, United States | On Site | Oct 22 |
 | **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Data Scientist II](https://jobr.pro/job/30797729/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 6 Merchant Place, 9 Fredman Drive, Sandton, Johannesburg, 2196, South Africa | On Site | Oct 22 |
 | **[Razer](https://www.razer.com/)** | **[Associate Data Scientist](https://jobr.pro/job/30797668/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore | On Site | Oct 22 |
 | **[PayPal](https://www.paypal.com/)** | **[Senior Product Data Scientist](https://jobr.pro/job/30797209/senior-product-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA - California - San Jose - Corp - N First St, United States | On Site | Oct 22 |
 | **[PayPal](https://www.paypal.com/)** | **[Sr Data Scientist](https://jobr.pro/job/30797206/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA - California - San Jose - Corp - N First St, United States | On Site | Oct 22 |
-| **[Advance Auto Parts](https://www.advanceautoparts.com/)** | **[Data Scientist](https://jobr.pro/job/30790532/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | RALEIGH, United States | On Site | Oct 22 |
-| **[Advance Auto Parts](https://www.advanceautoparts.com/)** | **[Senior Data Scientist](https://jobr.pro/job/30790537/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | RALEIGH, United States | On Site | Oct 22 |
-| **[LSEG](https://www.lseg.com/)** | **[Associate Data Scientist, FX Trade Surveillance](https://jobr.pro/job/30786376/associate-data-scientist-fx-trade-surveillance?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | PHL-Taguig City-CitiPlaza, Philippines | On Site | Oct 22 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Data Scientist II](https://jobr.pro/job/30797830/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA NC Fort Bragg - Fort Bragg (NCC004), United States | On Site | Oct 22 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Data Scientist I](https://jobr.pro/job/30797828/data-scientist-i?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA NC Fort Bragg - Fort Bragg (NCC004), United States | On Site | Oct 22 |
+| **[Kyndryl](https://www.kyndryl.com/)** | **[Data Consultant-Data Scientist](https://jobr.pro/job/30799062/data-consultant-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | INMANBP Bangalore (INMANBP) Manyatha, India | On Site | Oct 22 |
 | **[LinkedIn](https://www.linkedin.com/)** | **[Staff Data Scientist](https://jobr.pro/job/30728256/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, CA, United States | On Site | Oct 21 |
 | **[LinkedIn](https://www.linkedin.com/)** | **[Senior Data Scientist](https://jobr.pro/job/30728261/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, CA, United States | On Site | Oct 21 |
 | **[OpenAI](https://openai.com/)** | **[Applied Data Scientist, Unit Economics Understanding](https://jobr.pro/job/30719245/applied-data-scientist-unit-economics-understanding?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco | On Site | Oct 21 |
-| **[Promise](https://www.promise-pay.com/)** | **[Data Scientist (AI)](https://jobr.pro/job/30718517/data-scientist-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco | Remote | Oct 21 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 37 companies | Avg salary: 196k  
+**Current Stats:** 50 jobs | 6% remote | 37 companies | Avg salary: 195k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
