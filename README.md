@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 24, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 25, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -61,12 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Thales](https://www.thalesgroup.com/)** | **[STAGE – Data scientist R&D – Sécurité des Vision Action Models – F/H](https://jobr.pro/job/30969003/stage-data-scientist-rd-securite-des-vision-action-models-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | LA CIOTAT - LA VIGIE, France | On Site | Oct 24 |
 | **[Thales](https://www.thalesgroup.com/)** | **[STAGE – Ingénieur Data Scientist IA – (H/F)](https://jobr.pro/job/30968838/stage-ingenieur-data-scientist-ia-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Toulouse Champollion, France | On Site | Oct 24 |
 | **[LSEG](https://www.lseg.com/)** | **[Principal Data Scientist](https://jobr.pro/job/30963035/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London, United Kingdom | On Site | Oct 24 |
-| **[Invisible Technologies](https://www.inv.tech/)** | **[Data Scientist Specialist](https://jobr.pro/job/30901303/data-scientist-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | World Wide - Remote | Remote | Oct 23 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Data Scientist](https://jobr.pro/job/30934207/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Redmond, Washington, United States | On Site | Oct 23 |
+| **[Zelis](https://www.zelis.com/)** | **[Data Scientist](https://jobr.pro/job/30975640/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India Hyderabad (Galaxy) | On Site | Oct 24 |
+| **[Fifth Third Bank](https://www.53.com/)** | **[Data Scientist - Analytics Engineer](https://jobr.pro/job/30978664/data-scientist-analytics-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Fifth Third Center Cincinnati, United States | On Site | Oct 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 44 companies | Avg salary: 218k  
+**Current Stats:** 50 jobs | 6% remote | 45 companies | Avg salary: 209k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
