@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Oct 26, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 26, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -23,8 +23,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Merck Group](https://www.merckgroup.com/)** | **[Lead Data Scientist - Commercial (Seaport MA)](https://jobr.pro/job/30993546/lead-data-scientist-commercial-seaport-ma?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Boston, Massachusetts, US, 02210 | On Site | Oct 25 |
 | **[Faire Wholesale, Inc.](https://www.faire.com/)** | **[Senior Data Scientist / Machine Learning Engineer - Listing Quality](https://jobr.pro/job/30987526/senior-data-scientist-machine-learning-engineer-listing-quality?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Toronto, ON | On Site | Oct 25 |
 | **[Salesforce](https://www.salesforce.com/)** | **[Lead Data Scientist \| LMTS](https://jobr.pro/job/30983925/lead-data-scientist-lmts?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India - Hyderabad | On Site | Oct 25 |
-| **[Red Hat](https://www.redhat.com/)** | **[Data Scientist](https://jobr.pro/job/31028319/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Raleigh, United States | Remote | Oct 25 |
 | **[Thales](https://www.thalesgroup.com/)** | **[Stage – Data Scientist IA générative – F / H](https://jobr.pro/job/31035669/stage-data-scientist-ia-generative-f-h?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Rungis, France | On Site | Oct 25 |
+| **[Red Hat](https://www.redhat.com/)** | **[Data Scientist](https://jobr.pro/job/31028319/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Raleigh, United States | Remote | Oct 25 |
 | **[Stripe](https://stripe.com/en-ch)** | **[Data Scientist](https://jobr.pro/job/30994262/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | N/A | On Site | Oct 24 |
 | **[Snorkel AI](https://snorkel.ai/)** | **[Data Scientist - Data-as-a-Service](https://jobr.pro/job/30990067/data-scientist-data-as-a-service?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | United States (Remote) | Remote | Oct 24 |
 | **[Epic Games](https://epicgames.com/)** | **[Data Scientist](https://jobr.pro/job/30995615/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Vancouver,British Columbia,Canada | On Site | Oct 24 |
