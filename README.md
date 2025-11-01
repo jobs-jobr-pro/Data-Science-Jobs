@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Nov 01, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 01, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -37,6 +37,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Liaison](https://www.liaisonedu.com/)** | **[Data Scientist](https://jobr.pro/job/31466227/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | Oct 31 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Data Scientist Senior Associate](https://jobr.pro/job/31498073/data-scientist-senior-associate?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | NY, United States | On Site | Oct 31 |
 | **[Block](https://block.xyz/)** | **[Senior Data Scientist, Square Financial Services, Credit Policy](https://jobr.pro/job/31473977/senior-data-scientist-square-financial-services-credit-policy?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bay Area, CA, United States of America | On Site | Oct 31 |
+| **[Félix](https://www.felixpago.com/)** | **[Data Scientist- Fraud](https://jobr.pro/job/31510148/data-scientist-fraud?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Argentina | On Site | Oct 31 |
 | **[Zscaler](https://www.zscaler.com/careers)** | **[Senior Data Scientist](https://jobr.pro/job/31469230/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote - USA | Remote | Oct 31 |
 | **[Ford Motor Company](https://corporate.ford.com/)** | **[Data Scientist ( Warranty & Quality)](https://jobr.pro/job/31492946/data-scientist-warranty-quality?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Allen Park, MI, United States | Remote | Oct 31 |
 | **[Wise](https://wise.com)** | **[Staff Data Scientist - Fraud Squad](https://jobr.pro/job/31476279/staff-data-scientist-fraud-squad?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London, United Kingdom | On Site | Oct 31 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Next](https://www.next.co.uk/)** | **[Lead Data Scientist - Marketing Science](https://jobr.pro/job/31419560/lead-data-scientist-marketing-science?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Leicester, Leicestershire, United Kingdom | On Site | Oct 31 |
 | **[Quess Corp](https://www.quesscorp.com/)** | **[Senior Data Scientist](https://jobr.pro/job/31418366/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, Karnataka, India | On Site | Oct 31 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Data Scientist Lead](https://jobr.pro/job/31411437/data-scientist-lead?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 31 |
-| **[Effy](https://www.effy.fr/)** | **[Data Scientist / Développeur IA (H/F)](https://jobr.pro/job/31417166/data-scientist-developpeur-ia-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Paris, IDF, France | On Site | Oct 31 |
 
 ---
 
