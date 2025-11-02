@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Nov 02, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 02, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[XPENG](https://www.xiaopeng.com/)** | **[Data Scientist](https://jobr.pro/job/31532743/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Shenzhen、Shanghai、Beijing、Hong Kong (China) | On Site | Nov 02 |
 | **[Middlesex University Dubai](https://www.mdx.ac.ae/)** | **[Data Scientist Intern](https://jobr.pro/job/31498138/data-scientist-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Dubai, United Arab Emirates | On Site | Nov 01 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Software Engineer / Data Scientist](https://jobr.pro/job/31495045/software-engineer-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Zaventem | On Site | Nov 01 |
 | **[Meta](https://www.meta.com/)** | **[Data Scientist](https://jobr.pro/job/31490127/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Washington, DC | On Site | Nov 01 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Data Scientist, Platforms and Devices Insights and Analytics](https://jobr.pro/job/31411130/data-scientist-platforms-and-devices-insights-and-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, CA, USA | On Site | Oct 31 |
 | **[Google](https://www.google.com/)** | **[Senior Data Scientist, Product, App Safety Engineering](https://jobr.pro/job/31411074/senior-data-scientist-product-app-safety-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, CA, USA | On Site | Oct 31 |
 | **[Next](https://www.next.co.uk/)** | **[Lead Data Scientist - Marketing Science](https://jobr.pro/job/31419560/lead-data-scientist-marketing-science?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Leicester, Leicestershire, United Kingdom | On Site | Oct 31 |
-| **[Quess Corp](https://www.quesscorp.com/)** | **[Senior Data Scientist](https://jobr.pro/job/31418366/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, Karnataka, India | On Site | Oct 31 |
 
 ---
 
