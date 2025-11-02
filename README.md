@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Nov 01, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 02, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -24,6 +24,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com)** | **[Sr. Data Scientist/Data Scientist IV, Manufacturing Science and Technology](https://jobr.pro/job/31463467/sr-data-scientistdata-scientist-iv-manufacturing-science-and-technology?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Saint Joseph, United States, Missouri | On Site | Nov 01 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Senior Data Scientist](https://jobr.pro/job/31490599/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Redmond, Washington, United States | On Site | Nov 01 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Principal Data Scientist](https://jobr.pro/job/31490601/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Redmond, Washington, United States | On Site | Nov 01 |
+| **[Philips](https://www.philips.com/)** | **[Data Scientist, Generative AI Engineer](https://jobr.pro/job/31523935/data-scientist-generative-ai-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Eindhoven - HTC 33, Netherlands | On Site | Nov 01 |
 | **[Veracyte](https://www.veracyte.com/)** | **[Sr. Data Scientist](https://jobr.pro/job/31470704/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Israel | On Site | Oct 31 |
 | **[Valo Health](https://www.valohealth.com/)** | **[Staff Data Scientist in Epidemiology and Patient Data Products](https://jobr.pro/job/31463590/staff-data-scientist-in-epidemiology-and-patient-data-products?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | Oct 31 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Sr Data Scientist](https://jobr.pro/job/31490870/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Redmond, Washington, United States | On Site | Oct 31 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Data Scientist, Product, App Safety Engineering](https://jobr.pro/job/31411074/senior-data-scientist-product-app-safety-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, CA, USA | On Site | Oct 31 |
 | **[Next](https://www.next.co.uk/)** | **[Lead Data Scientist - Marketing Science](https://jobr.pro/job/31419560/lead-data-scientist-marketing-science?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Leicester, Leicestershire, United Kingdom | On Site | Oct 31 |
 | **[Quess Corp](https://www.quesscorp.com/)** | **[Senior Data Scientist](https://jobr.pro/job/31418366/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, Karnataka, India | On Site | Oct 31 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Data Scientist Lead](https://jobr.pro/job/31411437/data-scientist-lead?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 31 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 226k  
+**Current Stats:** 50 jobs | 14% remote | 43 companies | Avg salary: 226k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
