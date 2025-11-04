@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Nov 03, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 04, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -29,6 +29,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Eli Lilly and Company](https://www.lilly.com/)** | **[Senior Data Scientist II - Forecasting](https://jobr.pro/job/31566144/senior-data-scientist-ii-forecasting?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IN: Lilly Bengaluru, India | On Site | Nov 03 |
 | **[Valsoft Corporation](https://www.valsoftcorp.com/)** | **[Data Scientist Intern - Canada](https://jobr.pro/job/31559067/data-scientist-intern-canada?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Canada - Remote | Remote | Nov 03 |
 | **[UBS](https://www.ubs.com/)** | **[Data Scientist](https://jobr.pro/job/31557242/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mumbai, India | On Site | Nov 03 |
+| **[Citi](https://www.citigroup.com/)** | **[Data Scientist, Capital Team - Assistant Vice President](https://jobr.pro/job/31585710/data-scientist-capital-team-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 60 SYDENHAM ROAD, TITANIC QUARTER BLOCKS A, B, C GATEWAY OFFICES BELFAST, United Kingdom | On Site | Nov 03 |
+| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Data Scientist II - Pricing](https://jobr.pro/job/31583744/data-scientist-ii-pricing?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 5 Merchant Place, 9 Fredman Drive, Sandton, Johannesburg, 2196, South Africa | On Site | Nov 03 |
+| **[Amgen](https://www.amgen.com/)** | **[Data Scientist (Commercial)](https://jobr.pro/job/31583882/data-scientist-commercial?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India - Hyderabad | On Site | Nov 03 |
 | **[PayPal](https://www.paypal.com/)** | **[Data Scientist - Sanctions Risk](https://jobr.pro/job/31583149/data-scientist-sanctions-risk?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IRL - County Dublin - Dublin - Corp - Ballycoolin Business Park, Ireland | On Site | Nov 03 |
 | **[PayPal](https://www.paypal.com/)** | **[Data Scientist - PEP Risk](https://jobr.pro/job/31583143/data-scientist-pep-risk?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IRL - County Dublin - Dublin - Corp - Ballycoolin Business Park, Ireland | On Site | Nov 03 |
 | **[PayPal](https://www.paypal.com/)** | **[Staff Data Scientist](https://jobr.pro/job/31583140/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA - California - San Jose - Corp - N First St, United States | On Site | Nov 03 |
@@ -36,9 +39,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PayPal](https://www.paypal.com/)** | **[Data Scientist](https://jobr.pro/job/31583129/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA - Illinois - Chicago - Corp - W Merchandise Mart Plaza, United States | On Site | Nov 03 |
 | **[LSEG](https://www.lseg.com/)** | **[Junior Data Scientist](https://jobr.pro/job/31570126/junior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | EGY- Cairo-Oilibya Building, Plot 187- 90th North St, Egypt | On Site | Nov 03 |
 | **[LSEG](https://www.lseg.com/)** | **[Applied Data Scientist](https://jobr.pro/job/31570065/applied-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | ISR-Kiryat Arie-Oren Building, Israel | On Site | Nov 03 |
-| **[Citi](https://www.citigroup.com/)** | **[Data Scientist, Capital Team - Assistant Vice President](https://jobr.pro/job/31585710/data-scientist-capital-team-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 60 SYDENHAM ROAD, TITANIC QUARTER BLOCKS A, B, C GATEWAY OFFICES BELFAST, United Kingdom | On Site | Nov 03 |
-| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Data Scientist II - Pricing](https://jobr.pro/job/31583744/data-scientist-ii-pricing?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 5 Merchant Place, 9 Fredman Drive, Sandton, Johannesburg, 2196, South Africa | On Site | Nov 03 |
-| **[Amgen](https://www.amgen.com/)** | **[Data Scientist (Commercial)](https://jobr.pro/job/31583882/data-scientist-commercial?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India - Hyderabad | On Site | Nov 03 |
+| **[Sun Life](https://www.sunlife.com/)** | **[Data Scientist–Health and Risk Solutions](https://jobr.pro/job/31591533/data-scientisthealth-and-risk-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sun Life Wellesley, United States | On Site | Nov 03 |
 | **[Guidewire Software](https://www.guidewire.com/)** | **[Lead Data Scientist](https://jobr.pro/job/31576374/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote (USA), United States | Remote | Nov 03 |
 | **[Guidewire Software](https://www.guidewire.com/)** | **[Data Scientist](https://jobr.pro/job/31576335/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote (ON, Canada) | Remote | Nov 03 |
 | **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Data Scientist II](https://jobr.pro/job/31583777/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 5 Merchant Place, 9 Fredman Drive, Sandton, Johannesburg, 2196, South Africa | On Site | Nov 03 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NielsenIQ](https://nielseniq.com)** | **[Junior Data Scientist](https://jobr.pro/job/31474123/junior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Ciudad de México, DIF, Mexico | On Site | Nov 01 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com)** | **[Sr. Data Scientist/Data Scientist IV, Manufacturing Science and Technology](https://jobr.pro/job/31463467/sr-data-scientistdata-scientist-iv-manufacturing-science-and-technology?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Saint Joseph, United States, Missouri | On Site | Nov 01 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Senior Data Scientist](https://jobr.pro/job/31490599/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Redmond, Washington, United States | On Site | Nov 01 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Principal Data Scientist](https://jobr.pro/job/31490601/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Redmond, Washington, United States | On Site | Nov 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 41 companies | Avg salary: 228k  
+**Current Stats:** 50 jobs | 22% remote | 42 companies | Avg salary: 206k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
