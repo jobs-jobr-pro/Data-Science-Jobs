@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Nov 04, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 05, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -42,6 +42,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NN Group](https://www.nn-group.com/)** | **[Data Scientist Gen AI](https://jobr.pro/job/31684722/data-scientist-gen-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | The Hague - Haagse Poort - Low Rise, Netherlands | On Site | Nov 04 |
 | **[Pierre Fabre Group](https://www.pierre-fabre.com/)** | **[Data scientist - Stage - H/F](https://jobr.pro/job/31687826/data-scientist-stage-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | France - Toulouse - Langlade | On Site | Nov 04 |
 | **[PayPal](https://www.paypal.com/)** | **[Data Scientist](https://jobr.pro/job/31686613/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Nov 04 |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[AI Chapter Lead (Lead Data Scientist) - Gen AI](https://jobr.pro/job/31691342/ai-chapter-lead-lead-data-scientist-gen-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Eveleigh, NSW - 1 Locomotive Street, Australia | On Site | Nov 04 |
+| **[Amgen](https://www.amgen.com/)** | **[Principal Data Scientist](https://jobr.pro/job/31687697/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India - Hyderabad | On Site | Nov 04 |
+| **[Amgen](https://www.amgen.com/)** | **[Senior Data Scientist - Value & Access](https://jobr.pro/job/31687660/senior-data-scientist-value-access?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India - Hyderabad | On Site | Nov 04 |
+| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Senior Data/ Data Scientist (Contract)](https://jobr.pro/job/31687263/senior-data-data-scientist-contract?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | MAS: MAS Building, Singapore | On Site | Nov 04 |
 | **[DeepMind](https://www.deepmind.com/)** | **[Data Scientist, GeminiApp, Model Quality Team](https://jobr.pro/job/31601123/data-scientist-geminiapp-model-quality-team?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, California, US; New York City, New York, US | On Site | Nov 03 |
 | **[Oscar](https://www.hioscar.com/)** | **[Senior Data Scientist, Advanced Risk Modeling](https://jobr.pro/job/31618568/senior-data-scientist-advanced-risk-modeling?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tempe, Arizona, United States | On Site | Nov 03 |
 | **[Epic Games](https://epicgames.com/)** | **[Data Scientist, Real Time Observability](https://jobr.pro/job/31614086/data-scientist-real-time-observability?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Vancouver,British Columbia,Canada | On Site | Nov 03 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wave](https://www.wave.com/)** | **[Data Scientist](https://jobr.pro/job/31599837/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Ghana; Kenya; Spain; United Kingdom | Remote | Nov 03 |
 | **[Block](https://block.xyz/)** | **[Senior Data Scientist - Model Strategy Management](https://jobr.pro/job/31599554/senior-data-scientist-model-strategy-management?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bay Area, CA, United States of America | On Site | Nov 03 |
 | **[UCAS](https://www.ucas.com/)** | **[Data Scientist](https://jobr.pro/job/31582892/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | South West, Gloucestershire, Rosehill - Hybrid | Remote | Nov 03 |
-| **[Veepee](https://veepee.com)** | **[Data Scientist](https://jobr.pro/job/31606195/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Barcelona | On Site | Nov 03 |
-| **[ServiceNow](https://www.servicenow.com)** | **[Staff Data Scientist](https://jobr.pro/job/31594384/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Petah Tikva, Israel | On Site | Nov 03 |
-| **[Genpact](https://www.genpact.com/)** | **[Manager, Data Scientist](https://jobr.pro/job/31557774/manager-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India-Mumbai | On Site | Nov 03 |
-| **[trivago](https://www.trivago.com/)** | **[Data Scientist - Price](https://jobr.pro/job/31618905/data-scientist-price?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Düsseldorf | On Site | Nov 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 47 companies | Avg salary: 226k  
+**Current Stats:** 50 jobs | 22% remote | 46 companies | Avg salary: 226k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
