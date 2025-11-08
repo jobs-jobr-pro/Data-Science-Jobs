@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Nov 08, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 08, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -61,8 +61,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Data Scientist Associate Senior - AI/ML](https://jobr.pro/job/31923487/data-scientist-associate-senior-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Hyderabad, Telangana, India | On Site | Nov 07 |
 | **[Western Digital](https://www.westerndigital.com)** | **[Data Scientist](https://jobr.pro/job/31896495/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Petaling Jaya, Selangor, Malaysia | On Site | Nov 07 |
 | **[Ironclad](https://ironcladapp.com/)** | **[AI Data Scientist, Evaluation & Insights](https://jobr.pro/job/31889479/ai-data-scientist-evaluation-insights?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco | Remote | Nov 07 |
+| **[Globe Group](https://www.globe.com.ph/)** | **[Network Data Scientist](https://jobr.pro/job/31975558/network-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 15F W City Center, Philippines | On Site | Nov 07 |
 | **[AirAsia](https://www.airasia.com/)** | **[Data Scientist II (Operations Research)](https://jobr.pro/job/31876744/data-scientist-ii-operations-research?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Kuala Lumpur - RedQ, Malaysia | On Site | Nov 07 |
-| **[E.ON Next](https://www.eonnext.com/)** | **[Principal Data Scientist](https://jobr.pro/job/31957336/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Citigen, United Kingdom | On Site | Nov 07 |
 
 ---
 
