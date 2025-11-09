@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Nov 09, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 09, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Continental](https://www.continental.com)** | **[Data Scientist - R&D Tires](https://jobr.pro/job/32045188/data-scientist-rd-tires?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Lousado, Braga, Portugal | On Site | Nov 08 |
 | **[TotalEnergies](https://totalenergies.com/)** | **[Weather Data Scientist – Energy Trading (1-year contract)](https://jobr.pro/job/32013363/weather-data-scientist-energy-trading-1-year-contract?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | GENEVE-WTC1(CHE), GENEVE, Switzerland | On Site | Nov 08 |
 | **[Google](https://www.google.com/)** | **[Staff Data Scientist, Product, Applied AI](https://jobr.pro/job/32008242/staff-data-scientist-product-applied-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sunnyvale, CA, USA | On Site | Nov 08 |
 | **[Zoox](https://zoox.com/)** | **[Data Scientist Intern](https://jobr.pro/job/31980800/data-scientist-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Foster City, CA | On Site | Nov 08 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Western Digital](https://www.westerndigital.com)** | **[Data Scientist](https://jobr.pro/job/31896495/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Petaling Jaya, Selangor, Malaysia | On Site | Nov 07 |
 | **[Ironclad](https://ironcladapp.com/)** | **[AI Data Scientist, Evaluation & Insights](https://jobr.pro/job/31889479/ai-data-scientist-evaluation-insights?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco | Remote | Nov 07 |
 | **[Globe Group](https://www.globe.com.ph/)** | **[Network Data Scientist](https://jobr.pro/job/31975558/network-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 15F W City Center, Philippines | On Site | Nov 07 |
-| **[AirAsia](https://www.airasia.com/)** | **[Data Scientist II (Operations Research)](https://jobr.pro/job/31876744/data-scientist-ii-operations-research?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Kuala Lumpur - RedQ, Malaysia | On Site | Nov 07 |
 
 ---
 
