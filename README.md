@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Nov 09, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 09, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Visa](https://visa.com)** | **[Principal Data Scientist](https://jobr.pro/job/32049024/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Foster City, CA, United States | On Site | Nov 09 |
 | **[Continental](https://www.continental.com)** | **[Data Scientist - R&D Tires](https://jobr.pro/job/32045188/data-scientist-rd-tires?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Lousado, Braga, Portugal | On Site | Nov 08 |
 | **[TotalEnergies](https://totalenergies.com/)** | **[Weather Data Scientist – Energy Trading (1-year contract)](https://jobr.pro/job/32013363/weather-data-scientist-energy-trading-1-year-contract?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | GENEVE-WTC1(CHE), GENEVE, Switzerland | On Site | Nov 08 |
 | **[Google](https://www.google.com/)** | **[Staff Data Scientist, Product, Applied AI](https://jobr.pro/job/32008242/staff-data-scientist-product-applied-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sunnyvale, CA, USA | On Site | Nov 08 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Data Scientist Associate Senior - AI/ML](https://jobr.pro/job/31923487/data-scientist-associate-senior-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Hyderabad, Telangana, India | On Site | Nov 07 |
 | **[Western Digital](https://www.westerndigital.com)** | **[Data Scientist](https://jobr.pro/job/31896495/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Petaling Jaya, Selangor, Malaysia | On Site | Nov 07 |
 | **[Ironclad](https://ironcladapp.com/)** | **[AI Data Scientist, Evaluation & Insights](https://jobr.pro/job/31889479/ai-data-scientist-evaluation-insights?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco | Remote | Nov 07 |
-| **[Globe Group](https://www.globe.com.ph/)** | **[Network Data Scientist](https://jobr.pro/job/31975558/network-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 15F W City Center, Philippines | On Site | Nov 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 45 companies | Avg salary: 230k  
+**Current Stats:** 50 jobs | 26% remote | 45 companies | Avg salary: 237k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
