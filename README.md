@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Nov 11, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 11, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Visa](https://visa.com)** | **[Data Scientist, Anomaly Detections Platforms (ADP)](https://jobr.pro/job/32125466/data-scientist-anomaly-detections-platforms-adp?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Foster City, CA, United States | On Site | Nov 10 |
+| **[QRC Group](https://www.qrcgroup.com)** | **[Sr Data Scientist](https://jobr.pro/job/32125469/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Juncos, Juncos, Puerto Rico | On Site | Nov 10 |
 | **[Data Axle Inc.](https://www.data-axle.com/)** | **[Data Scientist](https://jobr.pro/job/32086657/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pune, India | On Site | Nov 10 |
+| **[Sopra Steria](https://www.soprasteria.com)** | **[Ingénieur(e) Data Scientist confirmé(e) - Industrie - Le Plessis Robinson](https://jobr.pro/job/32125489/ingenieure-data-scientist-confirmee-industrie-le-plessis-robinson?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Le Plessis-Robinson, IDF, France | On Site | Nov 10 |
 | **[TikTok](https://www.tiktok.com/)** | **[Senior Data Scientist, Trust & Safety - USDS](https://jobr.pro/job/32068943/senior-data-scientist-trust-safety-usds?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Jose, California, United States | On Site | Nov 10 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Senior Data Scientist](https://jobr.pro/job/32069914/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Vadodara, GJ, India | On Site | Nov 10 |
 | **[Google](https://www.google.com/)** | **[Staff Business Data Scientist, Google Customer Solutions](https://jobr.pro/job/32064156/staff-business-data-scientist-google-customer-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, NY, USA; Mountain View, CA, USA | On Site | Nov 10 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zoox](https://zoox.com/)** | **[Data Scientist Intern](https://jobr.pro/job/31980800/data-scientist-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Foster City, CA | On Site | Nov 08 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Principal Data Scientist](https://jobr.pro/job/32009205/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, California, United States | On Site | Nov 08 |
 | **[Quizlet](https://quizlet.com/)** | **[Sr. Staff Marketing Data Scientist](https://jobr.pro/job/31983034/sr-staff-marketing-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco, CA | On Site | Nov 08 |
-| **[Adswerve, Inc.](https://adswerve.com/)** | **[Data Scientist 1](https://jobr.pro/job/31978318/data-scientist-1?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | United States - Remote | Remote | Nov 07 |
-| **[IMO Health](https://www.imohealth.com/)** | **[Staff Data Scientist, Life Sciences AI (RWE & Meta-Analysis)](https://jobr.pro/job/31983053/staff-data-scientist-life-sciences-ai-rwe-meta-analysis?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | United States | On Site | Nov 07 |
-| **[Artefact](https://www.artefact.com/)** | **[Data Scientist - Fluent English](https://jobr.pro/job/31986341/data-scientist-fluent-english?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Avenida das Nações Unidas, 12901,11° andar São Paulo | Remote | Nov 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 43 companies | Avg salary: 228k  
+**Current Stats:** 50 jobs | 12% remote | 42 companies | Avg salary: 234k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
