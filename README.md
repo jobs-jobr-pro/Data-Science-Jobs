@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Nov 12, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 13, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -37,11 +37,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[State Street](https://www.statestreet.com/)** | **[Lead Data Scientist - Assistant Vice President](https://jobr.pro/job/32316528/lead-data-scientist-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, India | On Site | Nov 12 |
 | **[PwC](https://www.pwc.com/)** | **[Junior Data Scientist - IA Factory \| CDI \| H/F](https://jobr.pro/job/32301878/junior-data-scientist-ia-factory-cdi-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Paris - Crystal Park, France | On Site | Nov 12 |
 | **[Elanco](https://www.elanco.com/)** | **[Distinguished Data Scientist](https://jobr.pro/job/32301166/distinguished-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IN - Bangalore, India | On Site | Nov 12 |
-| **[Netflix](https://www.netflix.com/)** | **[Data Scientist 5 - Title and Launch Management](https://jobr.pro/job/32317522/data-scientist-5-title-and-launch-management?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA - Remote, United States | Remote | Nov 12 |
 | **[Netflix](https://www.netflix.com/)** | **[Data Scientist L6 - Games Portfolio](https://jobr.pro/job/32317519/data-scientist-l6-games-portfolio?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA - Remote, United States | Remote | Nov 12 |
 | **[Validata Group](https://www.validata-software.com)** | **[Senior Data Scientist / Python Developer](https://jobr.pro/job/32286917/senior-data-scientist-python-developer?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Glyfada, Attica, Greece | On Site | Nov 12 |
 | **[Barclays](https://home.barclays/)** | **[AI Incubator - Data Scientist](https://jobr.pro/job/32297443/ai-incubator-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Candor TechSpace, Noida, India | On Site | Nov 12 |
 | **[Barclays](https://home.barclays/)** | **[AI/ML Data Scientist](https://jobr.pro/job/32297403/aiml-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Candor TechSpace, Noida, India | On Site | Nov 12 |
+| **[General Motors](https://www.gm.com/)** | **[Staff Data Scientist – AI & Robotics](https://jobr.pro/job/32322496/staff-data-scientist-ai-robotics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | GM Global Technical Center - Smith Manufacturing C, United States | On Site | Nov 12 |
+| **[Netflix](https://www.netflix.com/)** | **[Data Scientist 5 - Title and Launch Management](https://jobr.pro/job/32317522/data-scientist-5-title-and-launch-management?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA - Remote, United States | Remote | Nov 12 |
 | **[DeepMind](https://www.deepmind.com/)** | **[Senior Data Scientist, GeminiApp, Ecosystems](https://jobr.pro/job/32247464/senior-data-scientist-geminiapp-ecosystems?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, California, US; New York City, New York, US | On Site | Nov 11 |
 | **[Procore Technologies](https://www.procore.com)** | **[People Data Scientist](https://jobr.pro/job/32235216/people-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Austin, TX, United States | On Site | Nov 11 |
 | **[Sonatype](https://www.sonatype.com/)** | **[Senior Data Scientist](https://jobr.pro/job/32241387/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Colombia - Remote | Remote | Nov 11 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deloitte](https://www.deloitte.com/)** | **[Categorie Protette – Junior – Data Scientist & Engineering](https://jobr.pro/job/32188512/categorie-protette-junior-data-scientist-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Milano | On Site | Nov 11 |
 | **[Astellas Pharma](https://www.astellas.com/)** | **[Japan Brand and Market Analytics Partner (Data Scientist)](https://jobr.pro/job/32187076/japan-brand-and-market-analytics-partner-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Nihonbashi,Tokyo | On Site | Nov 11 |
 | **[User Experience Researchers Pte Ltd](https://www.user.com.sg/)** | **[Data Scientist (Data Practice)](https://jobr.pro/job/32275096/data-scientist-data-practice?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore, Singapore, Singapore | On Site | Nov 11 |
-| **[User Experience Researchers Pte Ltd](https://www.user.com.sg/)** | **[Data Scientist](https://jobr.pro/job/32275095/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore, Singapore, Singapore | On Site | Nov 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 42 companies | Avg salary: 404k  
+**Current Stats:** 50 jobs | 16% remote | 43 companies | Avg salary: 462k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
