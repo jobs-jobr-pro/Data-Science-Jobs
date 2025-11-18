@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Nov 18, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 18, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Talan](https://talan.com)** | **[Data Scientist / Engineer - Confirmé (H/F)](https://jobr.pro/job/32649170/data-scientist-engineer-confirme-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bordeaux, Nouvelle-Aquitaine, France | On Site | Nov 17 |
+| **[Visa](https://visa.com)** | **[Senior Data Scientist, Payments Foundation Models](https://jobr.pro/job/32649174/senior-data-scientist-payments-foundation-models?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Cambridge, UNITED KINGDOM, United Kingdom | On Site | Nov 17 |
 | **[Bouygues Telecom](https://www.bouyguestelecom.fr/)** | **[Data Scientist F/H](https://jobr.pro/job/32642344/data-scientist-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | France, Ile-de-France, Hauts-de-Seine (92) | On Site | Nov 17 |
 | **[Bouygues Telecom](https://www.bouyguestelecom.fr/)** | **[Data Scientist au pôle Big Data F/H](https://jobr.pro/job/32642347/data-scientist-au-pole-big-data-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | France, Ile-de-France, Hauts-de-Seine (92) | On Site | Nov 17 |
 | **[WTW](https://www.wtwco.com/)** | **[2026 Data Scientist Graduate Programme - Insurance Consulting - London/Reigate](https://jobr.pro/job/32616805/2026-data-scientist-graduate-programme-insurance-consulting-londonreigate?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London, London, United Kingdom | On Site | Nov 17 |
@@ -56,17 +58,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NN Group](https://www.nn-group.com/)** | **[Data scientist Mortgages](https://jobr.pro/job/32642357/data-scientist-mortgages?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Rotterdam - Delftse Poort, Netherlands | On Site | Nov 17 |
 | **[ICON plc](https://www.iconplc.com/)** | **[Sr Clinical Data Scientist Lead](https://jobr.pro/job/32645115/sr-clinical-data-scientist-lead?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | US, Blue Bell (PRA), United States | On Site | Nov 17 |
 | **[PayPal](https://www.paypal.com/)** | **[Sr Data Scientist](https://jobr.pro/job/32642367/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Nov 17 |
-| **[Marsh McLennan](https://www.marshmclennan.com/)** | **[Oliver Wyman - Senior Data Scientist - Data and Analytics (DNA) - Gurugram, India](https://jobr.pro/job/32645265/oliver-wyman-senior-data-scientist-data-and-analytics-dna-gurugram-india?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Gurugram - Two Horizon, India | On Site | Nov 17 |
 | **[Equifax](https://www.equifax.com/)** | **[Data Scientist - Specialist](https://jobr.pro/job/32648146/data-scientist-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA - Atlanta - One Atlantic Center, United States | On Site | Nov 17 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Data Scientist-Vice President](https://jobr.pro/job/32620534/data-scientist-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, NY, United States | On Site | Nov 16 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Asset Management - Data Scientist Lead - Executive Director](https://jobr.pro/job/32620533/asset-management-data-scientist-lead-executive-director?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | NY, United States | On Site | Nov 16 |
-| **[Creative Chaos](https://creativechaos.co/)** | **[Senior Data Scientist](https://jobr.pro/job/32619722/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Lahore, Punjab, Pakistan | On Site | Nov 16 |
-| **[Banque Misr Transformation office](https://www.banquemisr.com)** | **[Senior Data Scientist](https://jobr.pro/job/32614486/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New Cairo City, Cairo Governorate, Egypt | On Site | Nov 16 |
-| **[Banque Misr Transformation office](https://www.banquemisr.com)** | **[MLOps Lead Data Scientist](https://jobr.pro/job/32614485/mlops-lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New Cairo City, Cairo Governorate, Egypt | On Site | Nov 16 |
+| **[CACI International Inc](https://www.caci.com/)** | **[Data Scientist](https://jobr.pro/job/32648771/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | BRB SPRINGFIELD VA, United States | On Site | Nov 17 |
+| **[CVS Health](https://cvshealth.com/)** | **[Lead Data Scientist – Customer Experience Improvement](https://jobr.pro/job/32651719/lead-data-scientist-customer-experience-improvement?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York-161 Ave of the Americas, United States | On Site | Nov 17 |
+| **[MSD](https://www.msd.com/)** | **[Senior Data Scientist, Pharmacology / Quantitative Biosciences Data Science](https://jobr.pro/job/32649566/senior-data-scientist-pharmacology-quantitative-biosciences-data-science?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA - Pennsylvania - West Point, United States | Remote | Nov 17 |
+| **[Renault Group](https://www.renaultgroup.com/)** | **[CS26 - BAC +5 - Stage data scientist IA appliquée à la maintenance prédictive (H/F)](https://jobr.pro/job/32652290/cs26-bac-5-stage-data-scientist-ia-appliquee-a-la-maintenance-predictive-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | FR REN RSAS - Guyancourt, France | On Site | Nov 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 41 companies | Avg salary: 183k  
+**Current Stats:** 50 jobs | 6% remote | 43 companies | Avg salary: 200k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
