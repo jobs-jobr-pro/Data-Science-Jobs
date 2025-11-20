@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Nov 19, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -40,10 +40,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[Staff Computational Data Scientist](https://jobr.pro/job/32801732/staff-computational-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | VAFA01, United States | On Site | Nov 19 |
 | **[Franklin Templeton](https://www.franklintempletonglobal.com/)** | **[Senior Data Scientist (Artificial Intelligence, Machine Learning, Python, SQL)](https://jobr.pro/job/32732393/senior-data-scientist-artificial-intelligence-machine-learning-python-sql?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IND-HYEB/1-Hyderabad, India | On Site | Nov 19 |
 | **[Cerved](https://www.cerved.com/)** | **[Junior Data Scientist](https://jobr.pro/job/32825743/junior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | ATHENS, Greece | On Site | Nov 19 |
-| **[NN Group](https://www.nn-group.com/)** | **[Data Scientist Movir](https://jobr.pro/job/32825585/data-scientist-movir?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Nieuwegein - Utrechtse Poort, Netherlands | On Site | Nov 19 |
-| **[NN Group](https://www.nn-group.com/)** | **[Data Scientist Fraude Risico Model, Anti-Fraude](https://jobr.pro/job/32825583/data-scientist-fraude-risico-model-anti-fraude?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | The Hague - Haagse Poort - Low Rise, Netherlands | On Site | Nov 19 |
 | **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Lead/Senior Data Scientist](https://jobr.pro/job/32827184/leadsenior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | CAA-Changi Airport Terminal 2, Singapore | On Site | Nov 19 |
 | **[GE HealthCare](https://www.gehealthcare.com/)** | **[Staff Data Scientist](https://jobr.pro/job/32817765/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IL03-01-Chicago-500 W Monroe St, United States | On Site | Nov 19 |
+| **[NN Group](https://www.nn-group.com/)** | **[Data Scientist Movir](https://jobr.pro/job/32825585/data-scientist-movir?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Nieuwegein - Utrechtse Poort, Netherlands | On Site | Nov 19 |
+| **[NN Group](https://www.nn-group.com/)** | **[Data Scientist Fraude Risico Model, Anti-Fraude](https://jobr.pro/job/32825583/data-scientist-fraude-risico-model-anti-fraude?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | The Hague - Haagse Poort - Low Rise, Netherlands | On Site | Nov 19 |
+| **[Citi](https://www.citigroup.com/)** | **[Data Scientist Intern (Temporal)](https://jobr.pro/job/32829551/data-scientist-intern-temporal?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | ACTUARIO ROBERTO MEDELLIN NO. 800 SANTA FE CIUDAD DE MEXICO, Mexico | On Site | Nov 19 |
 | **[Sierra](https://sierra.ai/)** | **[Data Scientist](https://jobr.pro/job/32744980/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco, CA | On Site | Nov 18 |
 | **[Braintrust](https://www.braintrust.dev/)** | **[Founding GTM Data Scientist](https://jobr.pro/job/32745933/founding-gtm-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco | On Site | Nov 18 |
 | **[Launchpad Technologies](https://www.golaunchpad.io/)** | **[Data Scientist](https://jobr.pro/job/32738465/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Latam | Remote | Nov 18 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[California State University](https://www.calstate.edu/)** | **[Educator Preparation Data Scientist](https://jobr.pro/job/32773268/educator-preparation-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Southern California, Chancellor's Office - Sacramento | On Site | Nov 18 |
 | **[Conviva](https://www.conviva.com/)** | **[Senior Data Scientist - ML & Algorithms Focus](https://jobr.pro/job/32750806/senior-data-scientist-ml-algorithms-focus?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Foster City, CA | On Site | Nov 18 |
 | **[bunq](https://www.bunq.com/)** | **[Data Scientist - Marketing](https://jobr.pro/job/32739467/data-scientist-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Amsterdam, Noord-Holland, Netherlands | On Site | Nov 18 |
-| **[Plaid Inc.](https://plaid.com/)** | **[Data Scientist - Fraud](https://jobr.pro/job/32745231/data-scientist-fraud?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco | On Site | Nov 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 42 companies | Avg salary: 256k  
+**Current Stats:** 50 jobs | 6% remote | 42 companies | Avg salary: 217k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
