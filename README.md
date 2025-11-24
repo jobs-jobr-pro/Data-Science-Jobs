@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Nov 24, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 24, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Staff Data Scientist](https://jobr.pro/job/33061001/sr-staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Santa Clara, CA, United States | On Site | Nov 23 |
+| **[TechVedika](https://techvedika.com/)** | **[Senior Data Scientist](https://jobr.pro/job/33066247/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Hyderabad, Telangana, India | On Site | Nov 24 |
+| **[Visa](https://visa.com)** | **[Data Scientist - Sr. Consultant level](https://jobr.pro/job/33067868/data-scientist-sr-consultant-level?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, INDIA, India | On Site | Nov 24 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Staff Data Scientist](https://jobr.pro/job/33067179/sr-staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Santa Clara, CA, United States | On Site | Nov 24 |
+| **[John Snow Labs](https://www.johnsnowlabs.com/)** | **[John Snow Labs US-Based Healthcare Data Scientist](https://jobr.pro/job/33064405/john-snow-labs-us-based-healthcare-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Delaware City, DE, United States | On Site | Nov 23 |
+| **[Nift](https://www.gonift.com/)** | **[Senior Data Scientist (USA / Israel)](https://jobr.pro/job/33061325/senior-data-scientist-usa-israel?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA / Israel | On Site | Nov 23 |
 | **[Google](https://www.google.com/)** | **[Senior Data Scientist, Product, Google Play, Ads](https://jobr.pro/job/33035250/senior-data-scientist-product-google-play-ads?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, CA, USA | On Site | Nov 22 |
 | **[Amazon.com](https://www.amazon.com/)** | **[Senior Data Scientist, Special Projects](https://jobr.pro/job/33006999/senior-data-scientist-special-projects?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Seattle, Washington, USA | On Site | Nov 22 |
 | **[EXL](https://www.exlservice.com/)** | **[Data Scientist](https://jobr.pro/job/33040141/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | United States | On Site | Nov 21 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[EXL](https://www.exlservice.com/)** | **[Manager-Data Science-Data Scientist](https://jobr.pro/job/32962062/manager-data-science-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Gurugram, Haryana, India | On Site | Nov 21 |
 | **[EXL](https://www.exlservice.com/)** | **[Area Manager-Business Analytics-Data Scientist](https://jobr.pro/job/32962067/area-manager-business-analytics-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India | On Site | Nov 21 |
 | **[EXL](https://www.exlservice.com/)** | **[Data Scientist-Data Science-Data Scientist](https://jobr.pro/job/32962076/data-scientist-data-science-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India | On Site | Nov 21 |
-| **[New Relic](https://newrelic.com/)** | **[Lead Data Scientist](https://jobr.pro/job/32927497/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Atlanta, Georgia, USA; Chicago, Illinois, USA; Houston, Texas, USA; Portland, Oregon, USA | Remote | Nov 21 |
-| **[DoorDash](https://www.doordash.com/)** | **[Lead Data Scientist - Drive](https://jobr.pro/job/32927159/lead-data-scientist-drive?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco, CA; Seattle, WA; New York, NY | On Site | Nov 21 |
-| **[BILL](https://www.bill.com/)** | **[Fraud Strategy Data Scientist](https://jobr.pro/job/32935110/fraud-strategy-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Jose, California, United States | Remote | Nov 21 |
-| **[Roblox](https://www.roblox.com/)** | **[Principal Data Scientist - Safety](https://jobr.pro/job/32928246/principal-data-scientist-safety?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Mateo, CA, United States | On Site | Nov 21 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 43 companies | Avg salary: 200k  
+**Current Stats:** 50 jobs | 12% remote | 43 companies | Avg salary: 186k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
