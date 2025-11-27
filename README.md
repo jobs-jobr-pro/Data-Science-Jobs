@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Nov 27, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 27, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -14,7 +14,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[ING](https://www.ing.com/)** | **[Data Scientist](https://jobr.pro/job/33286293/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | ACT (Amsterdam - Acanthus), Netherlands | On Site | Nov 27 |
+| **[Bosch Group](https://www.bosch.com)** | **[Adatszakértő \| Data Scientist](https://jobr.pro/job/33287033/adatszakerto-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Hatvan, Hungary | On Site | Nov 26 |
+| **[NielsenIQ](https://nielseniq.com)** | **[Data Scientist](https://jobr.pro/job/33287039/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bogotá, Bogota, Colombia | On Site | Nov 26 |
 | **[XPENG](https://www.xiaopeng.com/)** | **[Data Scientist](https://jobr.pro/job/33281061/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 深圳、上海、北京、中国香港 | On Site | Nov 26 |
+| **[Miratech](https://miratechgroup.com/)** | **[Junior AI Engineer / Data Scientist](https://jobr.pro/job/33286911/junior-ai-engineer-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | All cities, India | On Site | Nov 26 |
+| **[Miratech](https://miratechgroup.com/)** | **[Middle AI Engineer / Data Scientist](https://jobr.pro/job/33286913/middle-ai-engineer-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | All cities, India | On Site | Nov 26 |
 | **[World Wide Technology](https://www.wwt.com/)** | **[Lead Data Scientist](https://jobr.pro/job/33272119/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote - Nationwide, United States | Remote | Nov 26 |
 | **[FAO](https://www.fao.org/)** | **[Data Scientist](https://jobr.pro/job/33252881/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sudan-Port Sudan | On Site | Nov 26 |
 | **[Genpact](https://www.genpact.com/)** | **[Assistant Manager, Data Scientist](https://jobr.pro/job/33252706/assistant-manager-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India-Gurugram | On Site | Nov 26 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Santander](https://www.santander.com/)** | **[senior data scientist](https://jobr.pro/job/33285786/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Wrocław, Poland | On Site | Nov 26 |
 | **[Absa Group](https://www.absa.africa/)** | **[Specialist Data Scientist](https://jobr.pro/job/33282261/specialist-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Absa Towers West, South Africa | On Site | Nov 26 |
 | **[Pfizer](https://www.pfizer.com/)** | **[Senior Associate, Senior Statistical Data Scientist](https://jobr.pro/job/33281600/senior-associate-senior-statistical-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IND - Mumbai, India | On Site | Nov 26 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Data Scientist – ML Ops Engineer - Senior Engineer, AVP](https://jobr.pro/job/33284447/data-scientist-ml-ops-engineer-senior-engineer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pune - Margarpatta, India | On Site | Nov 26 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Data Scientist – ML Ops Engineer - Senior Engineer, AS](https://jobr.pro/job/33284445/data-scientist-ml-ops-engineer-senior-engineer-as?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pune - Margarpatta, India | On Site | Nov 26 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Lead Data Scientist-Lead Engineer, VP](https://jobr.pro/job/33284468/lead-data-scientist-lead-engineer-vp?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pune - Margarpatta, India | On Site | Nov 26 |
-| **[Deutsche Bank](https://www.db.com/)** | **[Lead Data Scientist - Lead Engineer, VP](https://jobr.pro/job/33284451/lead-data-scientist-lead-engineer-vp?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pune - Margarpatta, India | On Site | Nov 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 43 companies | Avg salary: 197k  
+**Current Stats:** 50 jobs | 4% remote | 44 companies | Avg salary: 197k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
