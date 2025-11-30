@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Nov 29, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 30, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -21,6 +21,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Atos](https://atos.net)** | **[Senior Data Scientist](https://jobr.pro/job/33412623/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Monterrey, MX | On Site | Nov 29 |
 | **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Data Scientist](https://jobr.pro/job/33430443/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | JPN, Okinawa (Camp Foster 1st Marine Aircraft Wing), Japan | On Site | Nov 29 |
 | **[LSEG](https://www.lseg.com/)** | **[Senior Data Scientist](https://jobr.pro/job/33433515/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IND-BLR-Divyasree Technopolis, India | On Site | Nov 29 |
+| **[College Board](https://www.collegeboard.org/)** | **[Data Scientist, Data Science Team](https://jobr.pro/job/33441634/data-scientist-data-science-team?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote - Virginia, United States | Remote | Nov 29 |
 | **[Visa](https://visa.com)** | **[Data Scientist - Cybersecurity (IAM)](https://jobr.pro/job/33414034/data-scientist-cybersecurity-iam?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Warsaw, POLAND, Poland | On Site | Nov 28 |
 | **[Visa](https://visa.com)** | **[Senior Data Scientist - Cybersecurity](https://jobr.pro/job/33406389/senior-data-scientist-cybersecurity?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Warsaw, POLAND, Poland | On Site | Nov 28 |
 | **[eTelligent Group](https://etelligent-group.com/)** | **[Data Analytics Lead (Senior Data Scientist/Analyst)](https://jobr.pro/job/33415114/data-analytics-lead-senior-data-scientistanalyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Washington, District of Columbia, United States | On Site | Nov 28 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Gartner](https://www.gartner.com/)** | **[Data Scientist - ML/NLP](https://jobr.pro/job/33360715/data-scientist-mlnlp?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Gurgaon - Cyber Park, India | On Site | Nov 28 |
 | **[Amgen](https://www.amgen.com/)** | **[V&A Transformation--Sr Associate Data Scientist](https://jobr.pro/job/33400004/va-transformation-sr-associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India - Hyderabad | On Site | Nov 28 |
 | **[ExxonMobil](https://corporate.exxonmobil.com/)** | **[Advanced Data Scientist](https://jobr.pro/job/33373803/advanced-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bengaluru, KA, IN | On Site | Nov 28 |
-| **[GE Aerospace](https://www.geaerospace.com/)** | **[Data Scientist Intern](https://jobr.pro/job/33377730/data-scientist-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Shanghai, China | On Site | Nov 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 41 companies | Avg salary: 153k  
+**Current Stats:** 50 jobs | 12% remote | 41 companies | Avg salary: 155k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
