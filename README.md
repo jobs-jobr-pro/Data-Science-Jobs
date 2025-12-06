@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 06, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 06, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[World Wide Technology](https://www.wwt.com/)** | **[Lead Data Scientist](https://jobr.pro/job/33892919/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote - Nationwide, United States | Remote | Dec 06 |
+| **[ECS](https://ecstech.com/)** | **[Mid-Level Data Scientist](https://jobr.pro/job/33889220/mid-level-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Springfield, VA, United States | On Site | Dec 06 |
 | **[ManTech](https://www.mantech.com/)** | **[Data Scientist Subject Matter Expert](https://jobr.pro/job/33872394/data-scientist-subject-matter-expert?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA-FL-Doral | On Site | Dec 06 |
 | **[TikTok](https://www.tiktok.com/)** | **[Data Scientist, Analytics (Multiple Positions)](https://jobr.pro/job/33870670/data-scientist-analytics-multiple-positions?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Jose, California, United States | On Site | Dec 06 |
 | **[TikTok](https://www.tiktok.com/)** | **[Senior Data Scientist (Multiple Positions)](https://jobr.pro/job/33870667/senior-data-scientist-multiple-positions?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Jose, California, United States | On Site | Dec 06 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Kotak Mahindra Bank](https://www.kotak.com/)** | **[Data Scientist 2-Digital Banking Kotak 811-Regional Sales](https://jobr.pro/job/33787097/data-scientist-2-digital-banking-kotak-811-regional-sales?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, Karnataka, India | On Site | Dec 05 |
 | **[Worldline](https://www.worldline.com)** | **[Internship - Junior Data Scientist (F/M)](https://jobr.pro/job/33751247/internship-junior-data-scientist-fm?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Puteaux, J, FR | On Site | Dec 05 |
 | **[Rijksoverheid](https://www.werkenvoornederland.nl)** | **[Data scientist (582052)](https://jobr.pro/job/33740453/data-scientist-582052?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Den Haag, NL, 2511 CB | On Site | Dec 05 |
-| **[Acuity, Inc.](https://www.myacuity.com)** | **[Data Scientist](https://jobr.pro/job/33840907/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | VA, United States | On Site | Dec 05 |
-| **[Zensar](https://www.zensar.com/)** | **[Snowflake Data Scientist - offshore](https://jobr.pro/job/33788402/snowflake-data-scientist-offshore?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India | On Site | Dec 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 46 companies | Avg salary: 171k  
+**Current Stats:** 50 jobs | 22% remote | 46 companies | Avg salary: 172k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
