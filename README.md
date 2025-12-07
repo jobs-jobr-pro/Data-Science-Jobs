@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 07, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 07, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Brainwonders](https://brainwonders.in)** | **[Data Scientist](https://jobr.pro/job/33901802/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mumbai, MH, India | On Site | Dec 07 |
 | **[World Wide Technology](https://www.wwt.com/)** | **[Lead Data Scientist](https://jobr.pro/job/33892919/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote - Nationwide, United States | Remote | Dec 06 |
 | **[ECS](https://ecstech.com/)** | **[Mid-Level Data Scientist](https://jobr.pro/job/33889220/mid-level-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Springfield, VA, United States | On Site | Dec 06 |
 | **[ManTech](https://www.mantech.com/)** | **[Data Scientist Subject Matter Expert](https://jobr.pro/job/33872394/data-scientist-subject-matter-expert?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA-FL-Doral | On Site | Dec 06 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Visa](https://visa.com)** | **[Associate, Data Scientist](https://jobr.pro/job/33796415/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore, Singapore, Singapore | On Site | Dec 05 |
 | **[Kotak Mahindra Bank](https://www.kotak.com/)** | **[Data Scientist 2-Digital Banking Kotak 811-Regional Sales](https://jobr.pro/job/33787097/data-scientist-2-digital-banking-kotak-811-regional-sales?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, Karnataka, India | On Site | Dec 05 |
 | **[Worldline](https://www.worldline.com)** | **[Internship - Junior Data Scientist (F/M)](https://jobr.pro/job/33751247/internship-junior-data-scientist-fm?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Puteaux, J, FR | On Site | Dec 05 |
-| **[Rijksoverheid](https://www.werkenvoornederland.nl)** | **[Data scientist (582052)](https://jobr.pro/job/33740453/data-scientist-582052?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Den Haag, NL, 2511 CB | On Site | Dec 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 46 companies | Avg salary: 172k  
+**Current Stats:** 50 jobs | 22% remote | 46 companies | Avg salary: 181k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
