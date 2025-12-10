@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 09, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 10, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -43,6 +43,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cerved](https://www.cerved.com/)** | **[Junior Data Scientist - Internship](https://jobr.pro/job/34031545/junior-data-scientist-internship?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | TORINO, Italy | On Site | Dec 09 |
 | **[PayPal](https://www.paypal.com/)** | **[Sr Data Scientist](https://jobr.pro/job/34032721/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Dec 09 |
 | **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Associate, Data Scientist (Contract)](https://jobr.pro/job/34034896/associate-data-scientist-contract?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | MAS: MAS Building, Singapore | On Site | Dec 09 |
+| **[Deutsche Bank](https://www.db.com/)** | **[AFC Modelling - Data Scientist - Associate - Assistant Vice President](https://jobr.pro/job/34038295/afc-modelling-data-scientist-associate-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, 1 Columbus Circle, United States | On Site | Dec 09 |
+| **[Yahoo](https://www.yahooinc.com/)** | **[Senior Data Scientist, Yahoo Games](https://jobr.pro/job/34039227/senior-data-scientist-yahoo-games?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | US - United States of America | On Site | Dec 09 |
+| **[Gap Inc.](https://www.gapinc.com/)** | **[Data Scientist 1](https://jobr.pro/job/34039187/data-scientist-1?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 4440 Rosewood Drive, United States | On Site | Dec 09 |
+| **[Fifth Third Bank](https://www.53.com/)** | **[Data Scientist - Analytics Engineer](https://jobr.pro/job/34039546/data-scientist-analytics-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Fifth Third Center Cincinnati, United States | On Site | Dec 09 |
 | **[Grab](https://www.grab.com)** | **[Senior Data Scientist, Market Insights](https://jobr.pro/job/33969976/senior-data-scientist-market-insights?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Jakarta, Indonesia | On Site | Dec 08 |
 | **[Talkdesk](https://www.talkdesk.com/)** | **[Senior Data Scientist II](https://jobr.pro/job/33961391/senior-data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bengaluru | On Site | Dec 08 |
 | **[Dataiku](https://www.dataiku.com/)** | **[Data Scientist](https://jobr.pro/job/33968961/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | United States, Remote | Remote | Dec 08 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Compliance - Data Scientist - Vice President](https://jobr.pro/job/33991008/compliance-data-scientist-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Jersey City, NJ, United States | On Site | Dec 08 |
 | **[MOIA](https://www.moia.io/)** | **[(Senior) Data Scientist (m/f/d) GeoSpatial Analytics](https://jobr.pro/job/33961086/senior-data-scientist-mfd-geospatial-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Berlin, Germany | Remote | Dec 08 |
 | **[University of Alabama](https://www.ua.edu/)** | **[Data Scientist III - 528128](https://jobr.pro/job/33989859/data-scientist-iii-528128?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Alabama, Tuscaloosa | On Site | Dec 08 |
-| **[Core One](https://coreone.com/)** | **[Data Scientist - Senior](https://jobr.pro/job/33972720/data-scientist-senior?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tampa, FL | On Site | Dec 08 |
-| **[Forge Biologics](https://www.forgebiologics.com/)** | **[Senior Associate Data Scientist, Process Development](https://jobr.pro/job/33959317/senior-associate-data-scientist-process-development?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Columbus, OH | On Site | Dec 08 |
-| **[SIXT](https://www.sixt.com)** | **[Personalization Data Scientist (m/f/d)](https://jobr.pro/job/33951903/personalization-data-scientist-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Munich, BY, Germany | On Site | Dec 08 |
-| **[Sutherland](https://www.sutherlandglobal.com)** | **[Data Scientist](https://jobr.pro/job/33963101/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Hyderabad, //TS, India | On Site | Dec 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 155k  
+**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 166k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
