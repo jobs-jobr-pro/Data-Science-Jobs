@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 10, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 10, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,14 +13,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Google](https://www.google.com/)** | **[Business Data Scientist, gData](https://jobr.pro/job/34084479/business-data-scientist-gdata?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Dublin, Ireland | On Site | Dec 10 |
 | **[Sandisk](https://www.sandisk.com/)** | **[Data Scientist](https://jobr.pro/job/34057260/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Milpitas, CA, United States | On Site | Dec 10 |
 | **[Visa](https://visa.com)** | **[Principal Data Scientist](https://jobr.pro/job/34055172/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Foster City, CA, United States | On Site | Dec 10 |
 | **[AIB](https://www.aib.ie)** | **[Data Scientist, Dublin.](https://jobr.pro/job/34064761/data-scientist-dublin?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Dublin, IE, IE | On Site | Dec 10 |
 | **[The Trade Desk](https://www.thetradedesk.com/)** | **[Data Scientist II](https://jobr.pro/job/34061522/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York | On Site | Dec 10 |
+| **[Halfords](https://www.halfords.com/)** | **[Data Scientist](https://jobr.pro/job/34080929/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | West Midlands, Worcestershire | On Site | Dec 10 |
 | **[Machinify](https://www.machinify.com/)** | **[Data Scientist \| Analytics](https://jobr.pro/job/34053390/data-scientist-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote/Palo Alto, CA | Remote | Dec 10 |
 | **[MYOB](https://www.myob.com/)** | **[Senior Data Scientist](https://jobr.pro/job/34049159/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Melbourne, Australia | On Site | Dec 10 |
 | **[Gusto](https://gusto.com/)** | **[Staff Data Scientist - Gusto Retirement](https://jobr.pro/job/34052384/staff-data-scientist-gusto-retirement?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Denver, CO; San Francisco, CA | On Site | Dec 10 |
 | **[Gartner](https://www.gartner.com/)** | **[Sr Data Scientist](https://jobr.pro/job/34045083/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Gurgaon - Cyber Park, India | On Site | Dec 10 |
+| **[Shell](https://www.shell.com/)** | **[Associate Data Scientist](https://jobr.pro/job/34069265/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore RMZ-ECO WORLD, India | On Site | Dec 10 |
 | **[SEEK](https://www.seek.com.au)** | **[Principal Data Scientist](https://jobr.pro/job/34055451/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Cremorne, Victoria, Australia | On Site | Dec 09 |
 | **[LinkedIn](https://www.linkedin.com/)** | **[Staff Data Scientist](https://jobr.pro/job/34057293/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, CA, United States | On Site | Dec 09 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Scientist, Algorithms - Lyft Ads](https://jobr.pro/job/34048716/data-scientist-algorithms-lyft-ads?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Toronto, Canada | On Site | Dec 09 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Riot Games, Inc.](https://www.riotgames.com/)** | **[Staff Data Scientist – VALORANT, Deep Learning](https://jobr.pro/job/33966099/staff-data-scientist-valorant-deep-learning?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Los Angeles, USA | On Site | Dec 09 |
 | **[PwC](https://www.pwc.com/)** | **[IN- Manager_ Data Scientist (AI/ML) _Data & Analytics _ Advisory _Bangalore](https://jobr.pro/job/33993769/in-manager-data-scientist-aiml-data-analytics-advisory-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bengaluru Millenia, India | On Site | Dec 09 |
 | **[Innovaccer](https://innovaccer.com/)** | **[3446 Lead Data Scientist](https://jobr.pro/job/33983628/3446-lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Noida, Uttar Pradesh, India | On Site | Dec 09 |
-| **[Rabobank](https://www.rabobank.com/)** | **[Data Scientist – GenAI for FEC](https://jobr.pro/job/33975121/data-scientist-genai-for-fec?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Utrecht Croeselaan 18, Netherlands | On Site | Dec 09 |
-| **[Jabil](https://www.jabil.com/)** | **[Data Scientist I](https://jobr.pro/job/34015525/data-scientist-i?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | CHN - Shanghai - Design Center, China | On Site | Dec 09 |
-| **[Mondelēz International](https://www.mondelezinternational.com/)** | **[GenAI Data Scientist - Commercial & Supply Chain Analytics](https://jobr.pro/job/34012222/genai-data-scientist-commercial-supply-chain-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Business Office (Joy House 2) - Mumbai, India | On Site | Dec 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 43 companies | Avg salary: 186k  
+**Current Stats:** 50 jobs | 18% remote | 43 companies | Avg salary: 198k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
