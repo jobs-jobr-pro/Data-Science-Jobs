@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 12, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -32,15 +32,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PwC](https://www.pwc.com/)** | **[IN_Senior Associate_ Data Scientist (AI/ML) __ Data & Analytics _ Advisory _Bangalore](https://jobr.pro/job/34176836/insenior-associate-data-scientist-aiml-data-analytics-advisory-bangalore?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bengaluru Millenia, India | On Site | Dec 11 |
 | **[University of Kansas Medical Center](https://www.kumc.edu/)** | **[Data Scientist - Research Administration](https://jobr.pro/job/34210358/data-scientist-research-administration?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Support Services Bldg, United States | On Site | Dec 11 |
 | **[Globaldev Group](https://globaldev.tech/)** | **[Senior Data Scientist](https://jobr.pro/job/34178734/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Poland - Remote | Remote | Dec 11 |
+| **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Lead Data Scientist](https://jobr.pro/job/34210112/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | NYP/Weill Cornell Medical Center, United States | On Site | Dec 11 |
+| **[Amgen](https://www.amgen.com/)** | **[Principal Data Scientist](https://jobr.pro/job/34209709/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India - Hyderabad | On Site | Dec 11 |
+| **[Viridien](https://www.viridiengroup.com/)** | **[Data Scientist](https://jobr.pro/job/34207207/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | GBR-Llandudno TYC, United Kingdom | On Site | Dec 11 |
+| **[Rabobank](https://www.rabobank.com/)** | **[Medior Data Scientist Customer Due Dilligence (CDD) - Machine Learning](https://jobr.pro/job/34210626/medior-data-scientist-customer-due-dilligence-cdd-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Utrecht Croeselaan 18, Netherlands | On Site | Dec 11 |
+| **[SHI International Corp.](https://www.shi.com/)** | **[Data Scientist](https://jobr.pro/job/34203828/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | UK - London - HQ, United Kingdom | On Site | Dec 11 |
 | **[Shell](https://www.shell.com/)** | **[Data Scientist](https://jobr.pro/job/34191881/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore RMZ-ECO WORLD, India | On Site | Dec 11 |
 | **[Shell](https://www.shell.com/)** | **[Senior Data Scientist](https://jobr.pro/job/34191876/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore RMZ-ECO WORLD, India | On Site | Dec 11 |
 | **[Unilever](https://www.unilever.com/)** | **[Data Scientist](https://jobr.pro/job/34192716/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mumbai HO, India | On Site | Dec 11 |
 | **[ING](https://www.ing.com/)** | **[Data Scientist](https://jobr.pro/job/34188489/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Istanbul (VADI ISTANBUL PARK), Türkiye | On Site | Dec 11 |
-| **[SHI International Corp.](https://www.shi.com/)** | **[Data Scientist](https://jobr.pro/job/34203828/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | UK - London - HQ, United Kingdom | On Site | Dec 11 |
-| **[Rabobank](https://www.rabobank.com/)** | **[Medior Data Scientist Customer Due Dilligence (CDD) - Machine Learning](https://jobr.pro/job/34210626/medior-data-scientist-customer-due-dilligence-cdd-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Utrecht Croeselaan 18, Netherlands | On Site | Dec 11 |
-| **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Lead Data Scientist](https://jobr.pro/job/34210112/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | NYP/Weill Cornell Medical Center, United States | On Site | Dec 11 |
-| **[Amgen](https://www.amgen.com/)** | **[Principal Data Scientist](https://jobr.pro/job/34209709/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India - Hyderabad | On Site | Dec 11 |
-| **[Viridien](https://www.viridiengroup.com/)** | **[Data Scientist](https://jobr.pro/job/34207207/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | GBR-Llandudno TYC, United Kingdom | On Site | Dec 11 |
 | **[UpGuard](https://www.upguard.com/)** | **[Senior Data Scientist](https://jobr.pro/job/34140281/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sydney | Remote | Dec 10 |
 | **[Squarespace](https://www.squarespace.com/)** | **[Founding Senior Data Scientist, Domains Search & Recommendations](https://jobr.pro/job/34145377/founding-senior-data-scientist-domains-search-recommendations?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York City | On Site | Dec 10 |
 | **[PlayStation Global](https://www.playstation.com/)** | **[Senior Data Scientist - Data Journalism](https://jobr.pro/job/34149695/senior-data-scientist-data-journalism?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | United States, San Mateo, CA | Remote | Dec 10 |
