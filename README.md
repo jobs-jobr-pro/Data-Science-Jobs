@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 19, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 20, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -53,6 +53,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Netsmart](https://www.ntst.com/)** | **[Senior Data Scientist](https://jobr.pro/job/34725782/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bengaluru, India | On Site | Dec 19 |
 | **[Flex](https://flex.com/)** | **[Junior Supply Chain Data Scientist (Fixed term-1 year)](https://jobr.pro/job/34723822/junior-supply-chain-data-scientist-fixed-term-1-year?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tczew,Poland | On Site | Dec 19 |
 | **[Havas](https://www.havas.com/)** | **[CONSULTANT DATA SCIENTIST - H/F](https://jobr.pro/job/34722462/consultant-data-scientist-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Puteaux - Tour Havas, France | On Site | Dec 19 |
+| **[eBay](https://www.ebay.com/)** | **[Senior Data Scientist](https://jobr.pro/job/34729437/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London, United Kingdom | On Site | Dec 19 |
+| **[Mastercard](https://www.mastercard.com/)** | **[Data Scientist II](https://jobr.pro/job/34729764/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Lisbon, Portugal | On Site | Dec 19 |
 | **[Summation](https://www.summation.com/)** | **[Forward Deployed Data Scientist](https://jobr.pro/job/34662665/forward-deployed-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bellevue, WA | Remote | Dec 18 |
 | **[NBCUniversal](https://www.nbcunicareers.com)** | **[Data Scientist, Advertising Products & Solutions](https://jobr.pro/job/34650412/data-scientist-advertising-products-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, NEW YORK, United States | Remote | Dec 18 |
 | **[Vidoori, Inc.](https://www.vidoori.com/)** | **[Data Scientist (Jr.)](https://jobr.pro/job/34692253/data-scientist-jr?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Hyattsville, United States | On Site | Dec 18 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[WSP Australia](https://www.wsp.com/)** | **[Senior Data Scientist](https://jobr.pro/job/34629698/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Perth, WA, AU | On Site | Dec 18 |
 | **[Juul Labs](https://www.juul.com)** | **[Data Scientist](https://jobr.pro/job/34674005/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | Dec 18 |
 | **[oOh!media](https://oohmedia.com.au/)** | **[Data Scientist - Practitioner](https://jobr.pro/job/34627839/data-scientist-practitioner?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | North Sydney, NSW, AU | On Site | Dec 18 |
-| **[MetOx International, Inc.](https://www.metoxtech.com/)** | **[Senior Data Scientist](https://jobr.pro/job/34673980/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Houston, TX | On Site | Dec 18 |
-| **[Hello Heart](https://www.helloheart.com/)** | **[Data Scientist](https://jobr.pro/job/34671826/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tel Aviv, Israel | On Site | Dec 18 |
 
 ---
 
