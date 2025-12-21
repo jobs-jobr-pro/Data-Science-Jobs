@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 20, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 21, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -25,6 +25,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SpaceX](https://www.spacex.com/)** | **[Sr. Full-Stack Data Scientist (Starlink Product)](https://jobr.pro/job/34735668/sr-full-stack-data-scientist-starlink-product?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bastrop, TX | On Site | Dec 20 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Principal Data Scientist (CMS)](https://jobr.pro/job/34761201/principal-data-scientist-cms?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA VA Home Office (VAHOME), United States | On Site | Dec 20 |
 | **[Boeing](https://www.boeing.com/)** | **[Data Scientist (Data Science)](https://jobr.pro/job/34780015/data-scientist-data-science?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | KOR - Seoul, South Korea, Korea, Republic of | On Site | Dec 20 |
+| **[State Street](https://www.statestreet.com/)** | **[Data Scientist – Graph RAG & LLM Fine-Tuning](https://jobr.pro/job/34796835/data-scientist-graph-rag-llm-fine-tuning?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, India | On Site | Dec 20 |
 | **[Epic Games](https://epicgames.com/)** | **[Senior Data Scientist, Fortnite Ecosystem](https://jobr.pro/job/34741699/senior-data-scientist-fortnite-ecosystem?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Montreal,Quebec,Canada | On Site | Dec 19 |
 | **[Wiliot](https://www.wiliot.com/)** | **[Data Scientist](https://jobr.pro/job/34777377/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Mateo, CA, US | On Site | Dec 19 |
 | **[Waymo](https://waymo.com/)** | **[Staff Data Scientist, Safety Metrics](https://jobr.pro/job/34734724/staff-data-scientist-safety-metrics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, California, USA; San Francisco, California, USA; New York City, New York, USA | On Site | Dec 19 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Business Data Scientist, Subscriptions and Consumer Infrastructure, Marketing (English, Spanish)](https://jobr.pro/job/34689876/business-data-scientist-subscriptions-and-consumer-infrastructure-marketing-english-spanish?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mexico City, CDMX, Mexico | On Site | Dec 19 |
 | **[Google](https://www.google.com/)** | **[Data Scientist, Product, Identity Personalization](https://jobr.pro/job/34689872/data-scientist-product-identity-personalization?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tel Aviv, Israel | On Site | Dec 19 |
 | **[Google](https://www.google.com/)** | **[Research Data Scientist, Ads Metrics](https://jobr.pro/job/34689759/research-data-scientist-ads-metrics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, CA, USA | On Site | Dec 19 |
-| **[Google](https://www.google.com/)** | **[Research Data Scientist, Search Ads](https://jobr.pro/job/34689749/research-data-scientist-search-ads?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, NY, USA | On Site | Dec 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 40 companies | Avg salary: 193k  
+**Current Stats:** 50 jobs | 10% remote | 41 companies | Avg salary: 192k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
