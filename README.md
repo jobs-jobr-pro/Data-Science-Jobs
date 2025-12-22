@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 22, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 22, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[aioneers](https://www.aioneers.com/)** | **[Senior Data Scientist - Supply Chain Management (m/f/d)](https://jobr.pro/job/34807039/senior-data-scientist-supply-chain-management-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore | On Site | Dec 22 |
+| **[Ford Motor Company](https://corporate.ford.com/)** | **[Data Scientist](https://jobr.pro/job/34814155/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Chennai, Tamil Nadu, India | On Site | Dec 22 |
 | **[Rest](https://rest.com.au/)** | **[Data Scientist](https://jobr.pro/job/34805548/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sydney, NSW, Australia | On Site | Dec 22 |
+| **[NN Group](https://www.nn-group.com/)** | **[Senior Data Scientist](https://jobr.pro/job/34812799/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Rotterdam - Delftse Poort, Netherlands | On Site | Dec 22 |
+| **[Anglian Water](https://www.anglianwater.co.uk/)** | **[Associate Data Scientist](https://jobr.pro/job/34810724/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Lancaster House, United Kingdom | On Site | Dec 22 |
 | **[Steampunk](https://steampunk.com)** | **[Senior Data Scientist](https://jobr.pro/job/34803790/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | McLean, VA, United States | On Site | Dec 21 |
 | **[Hitachi Solutions](https://global.hitachi-solutions.com/)** | **[Senior AI Data Scientist](https://jobr.pro/job/34803297/senior-ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Chennai, CHENNAI, India | On Site | Dec 21 |
 | **[ManTech](https://www.mantech.com/)** | **[Data Scientist](https://jobr.pro/job/34769622/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA-Remote Work | Remote | Dec 20 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tesco](https://www.tesco.com/)** | **[Senior AI Data Scientist](https://jobr.pro/job/34696651/senior-ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Welwyn Garden City, United Kingdom of Great Britain and Northern Ireland | On Site | Dec 19 |
 | **[Coface](https://www.coface.com)** | **[Data Scientist / ML Engineer](https://jobr.pro/job/34731167/data-scientist-ml-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Casablanca, Casablanca-Settat, Morocco | On Site | Dec 19 |
 | **[Celfocus](https://www.celfocus.com)** | **[Data Scientist](https://jobr.pro/job/34767785/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Porto, Portugal | On Site | Dec 19 |
-| **[Vertiv](https://www.vertiv.com/)** | **[Data Scientist Specialist](https://jobr.pro/job/34702584/data-scientist-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pune, India | On Site | Dec 19 |
-| **[StepStone Group](https://www.thestepstonegroup.com/)** | **[Data Scientist](https://jobr.pro/job/34746124/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Düsseldorf, NRW, Germany | On Site | Dec 19 |
-| **[Google](https://www.google.com/)** | **[Research Data Scientist, GenAI Quality, YouTube](https://jobr.pro/job/34690053/research-data-scientist-genai-quality-youtube?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Bruno, CA, USA | On Site | Dec 19 |
-| **[Google](https://www.google.com/)** | **[Data Scientist, Research Chrome](https://jobr.pro/job/34689968/data-scientist-research-chrome?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Warsaw, Poland | On Site | Dec 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 45 companies | Avg salary: 191k  
+**Current Stats:** 50 jobs | 10% remote | 46 companies | Avg salary: 184k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
