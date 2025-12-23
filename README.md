@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 23, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 23, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Visa](https://visa.com)** | **[Principal Data Scientist](https://jobr.pro/job/34843229/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bellevue, WA, United States | On Site | Dec 23 |
+| **[Visa](https://visa.com)** | **[Senior Data Scientist](https://jobr.pro/job/34843231/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bellevue, WA, United States | On Site | Dec 22 |
+| **[Visa](https://visa.com)** | **[Staff Data Scientist](https://jobr.pro/job/34843232/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bellevue, WA, United States | On Site | Dec 22 |
+| **[Visa](https://visa.com)** | **[Lead Data Scientist](https://jobr.pro/job/34843233/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bellevue, WA, United States | On Site | Dec 22 |
+| **[H&M Group](https://hmgroup.com/)** | **[Senior Data Scientist – Supply Planning](https://jobr.pro/job/34843252/senior-data-scientist-supply-planning?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Stockholm, Stockholms län, Sweden | On Site | Dec 22 |
+| **[Experian](https://www.experian.com/)** | **[Senior Data Scientist](https://jobr.pro/job/34843256/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Düsseldorf, Germany | On Site | Dec 22 |
 | **[RedTown, LLC](https://www.redtown.net/)** | **[Stage Data Analyst/Data Scientist H/F](https://jobr.pro/job/34837526/stage-data-analystdata-scientist-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | France 06 - Le Bar sur Loup (siège social) | On Site | Dec 22 |
 | **[Blend360](https://blend360.com)** | **[Data Scientist - Gen AI](https://jobr.pro/job/34816793/data-scientist-gen-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Hyderabad, TS, India | On Site | Dec 22 |
 | **[aioneers](https://www.aioneers.com/)** | **[Senior Data Scientist - Supply Chain Management (m/f/d)](https://jobr.pro/job/34807039/senior-data-scientist-supply-chain-management-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore | On Site | Dec 22 |
@@ -55,18 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Epic Games](https://epicgames.com/)** | **[Senior Data Scientist, Fortnite Ecosystem](https://jobr.pro/job/34741699/senior-data-scientist-fortnite-ecosystem?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Montreal,Quebec,Canada | On Site | Dec 19 |
 | **[Wiliot](https://www.wiliot.com/)** | **[Data Scientist](https://jobr.pro/job/34777377/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Mateo, CA, US | On Site | Dec 19 |
 | **[Waymo](https://waymo.com/)** | **[Staff Data Scientist, Safety Metrics](https://jobr.pro/job/34734724/staff-data-scientist-safety-metrics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, California, USA; San Francisco, California, USA; New York City, New York, USA | On Site | Dec 19 |
-| **[Visa](https://visa.com)** | **[Lead Data Scientist](https://jobr.pro/job/34731127/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bellevue, WA, United States | On Site | Dec 19 |
 | **[Recursion](https://www.recursion.com/)** | **[Staff Data Scientist](https://jobr.pro/job/34738324/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, New York; Salt Lake City, Utah | On Site | Dec 19 |
 | **[Achieve](https://www.achieve.com)** | **[Sr. Data Scientist (Credit Risk)](https://jobr.pro/job/34743895/sr-data-scientist-credit-risk?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Las Vegas, NV, United States | Remote | Dec 19 |
-| **[AppLovin](https://www.applovin.com/)** | **[Data Scientist - Analytics](https://jobr.pro/job/34738322/data-scientist-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Palo Alto, CA | On Site | Dec 19 |
-| **[Western Digital](https://www.westerndigital.com)** | **[Data Scientist](https://jobr.pro/job/34731132/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Jose, CA, United States | On Site | Dec 19 |
-| **[Zoox](https://zoox.com/)** | **[Data Scientist, Maps Data](https://jobr.pro/job/34739801/data-scientist-maps-data?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Foster City, CA | On Site | Dec 19 |
-| **[Celestar Holdings Corporation](https://www.celestarcorp.com/)** | **[Data Scientist- Senior (Pipeline)](https://jobr.pro/job/34761007/data-scientist-senior-pipeline?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Washington, US-DC, US | On Site | Dec 19 |
-| **[fairlife, LLC](https://fairlife.com/)** | **[Data Scientist](https://jobr.pro/job/34733809/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Chicago, Illinois, United States | On Site | Dec 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 47 companies | Avg salary: 174k  
+**Current Stats:** 50 jobs | 6% remote | 43 companies | Avg salary: 199k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
