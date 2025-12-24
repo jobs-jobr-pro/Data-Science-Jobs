@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 24, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 24, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Experian](https://www.experian.com/)** | **[Lead Data Scientist](https://jobr.pro/job/34921829/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Heredia, Heredia, Costa Rica | On Site | Dec 23 |
+| **[Nearmap](https://www.nearmap.com)** | **[Senior Data Scientist](https://jobr.pro/job/34921831/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Carlsbad, CA, United States | Remote | Dec 23 |
+| **[Visa](https://visa.com)** | **[Data Scientist](https://jobr.pro/job/34921833/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Toronto, CANADA, Canada | On Site | Dec 23 |
+| **[Sia](https://www.sia-partners.com)** | **[Consultant Senior Data Scientist R&D - Computer Vision](https://jobr.pro/job/34921843/consultant-senior-data-scientist-rd-computer-vision?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Paris, France | On Site | Dec 23 |
 | **[Madiff](https://madiff.eu/)** | **[Data Scientist GenAI](https://jobr.pro/job/34887310/data-scientist-genai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | Dec 23 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Junior - Data Scientist](https://jobr.pro/job/34886701/junior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bologna, Milano, Roma | On Site | Dec 23 |
 | **[UT Southwestern Medical Center](https://www.utsouthwestern.edu/)** | **[Data Scientist II, O'Donnell Brain Institute](https://jobr.pro/job/34885172/data-scientist-ii-odonnell-brain-institute?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Texas-Dallas-5323 Harry Hines Blvd | On Site | Dec 23 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Lynx Tech](https://lynxtech.com/)** | **[Software Engineer and Data Scientist Junior](https://jobr.pro/job/34852879/software-engineer-and-data-scientist-junior?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Spain - Full Remote | Remote | Dec 22 |
 | **[HelloFresh](https://www.hellofresh.com/)** | **[Staff Data Scientist, Growth Alliance (f/m/x)](https://jobr.pro/job/34860173/staff-data-scientist-growth-alliance-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Berlin, Berlin, Germany | On Site | Dec 22 |
 | **[Blend360](https://blend360.com)** | **[Data Scientist - Gen AI](https://jobr.pro/job/34816793/data-scientist-gen-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Hyderabad, TS, India | On Site | Dec 22 |
-| **[Coface](https://www.coface.com)** | **[Data Scientist / ML Engineer](https://jobr.pro/job/34860742/data-scientist-ml-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Casablanca, Casablanca-Settat, Morocco | On Site | Dec 22 |
-| **[Cell and Gene Therapy Catapult](https://ct.catapult.org.uk/)** | **[Data Scientist](https://jobr.pro/job/34866445/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London (Guy's hospital) | On Site | Dec 22 |
-| **[statworx](https://www.statworx.com/)** | **[Data Scientist & AI Educator (alle Geschlechter)](https://jobr.pro/job/34868719/data-scientist-ai-educator-alle-geschlechter?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Frankfurt am Main | On Site | Dec 22 |
-| **[aioneers](https://www.aioneers.com/)** | **[Senior Data Scientist - Supply Chain Management (m/f/d)](https://jobr.pro/job/34807039/senior-data-scientist-supply-chain-management-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore | On Site | Dec 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 41 companies | Avg salary: 202k  
+**Current Stats:** 50 jobs | 6% remote | 39 companies | Avg salary: 199k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
