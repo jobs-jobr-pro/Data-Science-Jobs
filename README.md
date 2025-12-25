@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 24, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 25, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -23,9 +23,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Next](https://www.next.co.uk/)** | **[Data Scientist - Product Operations](https://jobr.pro/job/34953913/data-scientist-product-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Leicester, Leicestershire, United Kingdom | On Site | Dec 24 |
 | **[EXL](https://www.exlservice.com/)** | **[Associate - Business Analyst-Data Science-Data Scientist](https://jobr.pro/job/34961988/associate-business-analyst-data-science-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Gurugram, Haryana, India | On Site | Dec 24 |
 | **[Bayer](https://www.bayer.com/)** | **[Sr Data Scientist](https://jobr.pro/job/34939531/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Barcelona, Cataluña, ES | On Site | Dec 24 |
-| **[Otis Elevator Co.](https://www.otis.com/)** | **[Data Scientist](https://jobr.pro/job/34968727/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Unit 2A & 2B (Octave Block), 6th floor, Parcel - 4, Salarpuria Sattva - Knowledge City, Madhapur, Hyderabad, Telangana, India, Zip/Postal Code: 500081 | On Site | Dec 24 |
 | **[Information Commissioner’s Office (ICO)](https://ico.org.uk/)** | **[Principal Data Scientist](https://jobr.pro/job/34965810/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Wycliffe House, United Kingdom | On Site | Dec 24 |
+| **[Otis Elevator Co.](https://www.otis.com/)** | **[Data Scientist](https://jobr.pro/job/34968727/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Unit 2A & 2B (Octave Block), 6th floor, Parcel - 4, Salarpuria Sattva - Knowledge City, Madhapur, Hyderabad, Telangana, India, Zip/Postal Code: 500081 | On Site | Dec 24 |
 | **[Eli Lilly and Company](https://www.lilly.com/)** | **[Digital Health R&D – Data Scientist – Data Analytics and Statistics](https://jobr.pro/job/34962186/digital-health-rd-data-scientist-data-analytics-and-statistics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | SG: Singapore LCCP | On Site | Dec 24 |
+| **[PwC](https://www.pwc.com/)** | **[IN_Senior Manager_ Data Scientist (AI/ML) _ Data & Analytics _ Advisory _Pune](https://jobr.pro/job/34983290/insenior-manager-data-scientist-aiml-data-analytics-advisory-pune?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pune, India | On Site | Dec 24 |
 | **[Clara](https://www.clara.com/)** | **[Data Scientist - Risk (Cientista de Dados - Risco) - São Paulo (Hybrid)](https://jobr.pro/job/34925269/data-scientist-risk-cientista-de-dados-risco-sao-paulo-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Latin America | On Site | Dec 23 |
 | **[Clara](https://www.clara.com/)** | **[Data Scientist - Risk (Científico de Datos - Riesgo) - Bogota (Hybrid)](https://jobr.pro/job/34925267/data-scientist-risk-cientifico-de-datos-riesgo-bogota-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Latin America | On Site | Dec 23 |
 | **[Clara](https://www.clara.com/)** | **[Data Scientist - Risk (Científico de Datos - Riesgo) - Mexico City (Hybrid)](https://jobr.pro/job/34925268/data-scientist-risk-cientifico-de-datos-riesgo-mexico-city-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Latin America | On Site | Dec 23 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Aztec Group](https://aztec.group/)** | **[Data Scientist - 6 month FTC](https://jobr.pro/job/34925406/data-scientist-6-month-ftc?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London | On Site | Dec 23 |
 | **[Bayer](https://www.bayer.com/)** | **[Senior Data Scientist](https://jobr.pro/job/34864077/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Warszawa, Mazowieckie, PL | On Site | Dec 23 |
 | **[Visa](https://visa.com)** | **[Principal Data Scientist](https://jobr.pro/job/34843229/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bellevue, WA, United States | On Site | Dec 23 |
-| **[Razer](https://www.razer.com/)** | **[Intern - Data Scientist](https://jobr.pro/job/34881942/intern-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Shanghai, China | On Site | Dec 23 |
 
 ---
 
