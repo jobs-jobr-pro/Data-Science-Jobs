@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 25, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 25, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -18,6 +18,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nuvei](https://nuvei.com/)** | **[Data Scientist Team lead](https://jobr.pro/job/34996280/data-scientist-team-lead?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Dec 25 |
 | **[Cedar](https://www.cedar.com/)** | **[Data Scientist III (Product Analytics)](https://jobr.pro/job/34991464/data-scientist-iii-product-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, NY, United States | On Site | Dec 24 |
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Staff/Sr. Staff Data Scientist](https://jobr.pro/job/34985146/staffsr-staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Santa Clara, CA, United States | On Site | Dec 24 |
+| **[Next](https://www.next.co.uk/)** | **[Lead Data Scientist](https://jobr.pro/job/35002361/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Leicester, Leicestershire, United Kingdom | On Site | Dec 24 |
 | **[Team8](https://team8.vc/)** | **[Briya - Senior Data Scientist](https://jobr.pro/job/34966498/briya-senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 24 |
 | **[monday.com](https://monday.com/)** | **[Full Stack Data Scientist (monday AI)](https://jobr.pro/job/34967661/full-stack-data-scientist-monday-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[TikTok Shop - Data Scientist - Search](https://jobr.pro/job/34956305/tiktok-shop-data-scientist-search?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore, Singapore | On Site | Dec 24 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sia](https://www.sia-partners.com)** | **[Consultant Senior Data Scientist R&D - Computer Vision](https://jobr.pro/job/34921843/consultant-senior-data-scientist-rd-computer-vision?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Paris, France | On Site | Dec 23 |
 | **[AbbVie](https://www.abbvie.com/)** | **[Data Scientist for Published Clinical Evidence & Competitive Intelligence Insights (all genders)](https://jobr.pro/job/34939598/data-scientist-for-published-clinical-evidence-competitive-intelligence-insights-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Ludwigshafen, RP, Germany | On Site | Dec 23 |
 | **[CookUnity](https://www.cookunity.com/)** | **[Senior Data Scientist, Growth & Retention](https://jobr.pro/job/34923801/senior-data-scientist-growth-retention?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, New York, United States | On Site | Dec 23 |
-| **[Wakam](https://www.wakam.com/)** | **[Actuarial Data Scientist - Remote (EU)](https://jobr.pro/job/34924379/actuarial-data-scientist-remote-eu?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Paris | Remote | Dec 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 42 companies | Avg salary: 195k  
+**Current Stats:** 50 jobs | 16% remote | 41 companies | Avg salary: 195k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
