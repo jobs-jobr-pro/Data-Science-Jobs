@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 25, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 25, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ADP](https://www.adp.com/)** | **[Senior Data Scientist](https://jobr.pro/job/35011500/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Roseland, NJ, United States | On Site | Dec 25 |
 | **[Google](https://www.google.com/)** | **[Research Data Scientist, Network and Machines Optimization, Cloud](https://jobr.pro/job/34999618/research-data-scientist-network-and-machines-optimization-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sunnyvale, CA, USA | On Site | Dec 25 |
 | **[Autofleet](https://www.autofleet.io/)** | **[Senior Data Scientist](https://jobr.pro/job/35000502/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Dec 25 |
 | **[Nuvei](https://nuvei.com/)** | **[Data Scientist Team lead](https://jobr.pro/job/34996280/data-scientist-team-lead?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Dec 25 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[OLX](https://www.olxgroup.com/)** | **[Data Scientist](https://jobr.pro/job/34936341/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote Poland, Poland | Remote | Dec 23 |
 | **[Sia](https://www.sia-partners.com)** | **[Consultant Senior Data Scientist R&D - Computer Vision](https://jobr.pro/job/34921843/consultant-senior-data-scientist-rd-computer-vision?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Paris, France | On Site | Dec 23 |
 | **[AbbVie](https://www.abbvie.com/)** | **[Data Scientist for Published Clinical Evidence & Competitive Intelligence Insights (all genders)](https://jobr.pro/job/34939598/data-scientist-for-published-clinical-evidence-competitive-intelligence-insights-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Ludwigshafen, RP, Germany | On Site | Dec 23 |
-| **[CookUnity](https://www.cookunity.com/)** | **[Senior Data Scientist, Growth & Retention](https://jobr.pro/job/34923801/senior-data-scientist-growth-retention?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, New York, United States | On Site | Dec 23 |
 
 ---
 
