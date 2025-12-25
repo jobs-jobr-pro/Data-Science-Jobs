@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 25, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 25, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Staff/Sr. Staff Data Scientist](https://jobr.pro/job/34985146/staffsr-staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Santa Clara, CA, United States | On Site | Dec 24 |
 | **[Team8](https://team8.vc/)** | **[Briya - Senior Data Scientist](https://jobr.pro/job/34966498/briya-senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 24 |
 | **[monday.com](https://monday.com/)** | **[Full Stack Data Scientist (monday AI)](https://jobr.pro/job/34967661/full-stack-data-scientist-monday-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[TikTok Shop - Data Scientist - Search](https://jobr.pro/job/34956305/tiktok-shop-data-scientist-search?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore, Singapore | On Site | Dec 24 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Awin](https://www.awin.com/)** | **[Senior Data Scientist & ML Engineer (f/m/d)](https://jobr.pro/job/34929622/senior-data-scientist-ml-engineer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Berlin, Berlin, Germany; Iași, Iași, Romania; London, England, United Kingdom; Madrid, Madrid, Spain; Milano, Milan, Italy; München, Bavaria, Germany; Warsaw, Masovian Voivodeship, Poland | On Site | Dec 23 |
 | **[Aztec Group](https://aztec.group/)** | **[Data Scientist - 6 month FTC](https://jobr.pro/job/34925406/data-scientist-6-month-ftc?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London | On Site | Dec 23 |
 | **[Bayer](https://www.bayer.com/)** | **[Senior Data Scientist](https://jobr.pro/job/34864077/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Warszawa, Mazowieckie, PL | On Site | Dec 23 |
-| **[Visa](https://visa.com)** | **[Principal Data Scientist](https://jobr.pro/job/34843229/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bellevue, WA, United States | On Site | Dec 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 38 companies | Avg salary: 190k  
+**Current Stats:** 50 jobs | 16% remote | 39 companies | Avg salary: 182k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
