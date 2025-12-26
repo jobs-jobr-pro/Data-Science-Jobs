@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 26, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 26, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Seagate Technology](https://www.seagate.com/)** | **[Staff Data Scientist](https://jobr.pro/job/35018453/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore, SG | On Site | Dec 26 |
+| **[ST Engineering](https://www.stengg.com)** | **[Junior Data Scientist](https://jobr.pro/job/35017508/junior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Land - 249 Jalan Boon Lay, SG | On Site | Dec 26 |
 | **[ADP](https://www.adp.com/)** | **[Senior Data Scientist](https://jobr.pro/job/35011500/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Roseland, NJ, United States | On Site | Dec 25 |
 | **[Google](https://www.google.com/)** | **[Research Data Scientist, Network and Machines Optimization, Cloud](https://jobr.pro/job/34999618/research-data-scientist-network-and-machines-optimization-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sunnyvale, CA, USA | On Site | Dec 25 |
 | **[Autofleet](https://www.autofleet.io/)** | **[Senior Data Scientist](https://jobr.pro/job/35000502/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Dec 25 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Payoneer](https://www.payoneer.com)** | **[Senior Data Scientist](https://jobr.pro/job/34932704/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Petach Tiqva, Israel | On Site | Dec 23 |
 | **[UL Solutions](https://www.ul.com/)** | **[Associate Data Scientist](https://jobr.pro/job/34953151/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Dublin, Co. Dublin, Ireland | On Site | Dec 23 |
 | **[OLX](https://www.olxgroup.com/)** | **[Data Scientist](https://jobr.pro/job/34936341/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote Poland, Poland | Remote | Dec 23 |
-| **[Sia](https://www.sia-partners.com)** | **[Consultant Senior Data Scientist R&D - Computer Vision](https://jobr.pro/job/34921843/consultant-senior-data-scientist-rd-computer-vision?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Paris, France | On Site | Dec 23 |
-| **[AbbVie](https://www.abbvie.com/)** | **[Data Scientist for Published Clinical Evidence & Competitive Intelligence Insights (all genders)](https://jobr.pro/job/34939598/data-scientist-for-published-clinical-evidence-competitive-intelligence-insights-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Ludwigshafen, RP, Germany | On Site | Dec 23 |
 
 ---
 
