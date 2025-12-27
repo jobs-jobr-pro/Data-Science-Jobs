@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 26, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 27, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -19,8 +19,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bertrandt](https://www.bertrandt.com)** | **[Senior Data Scientist (m/w/d)](https://jobr.pro/job/35021699/senior-data-scientist-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Ingelheim am Rhein, Germany | Remote | Dec 26 |
 | **[Seagate Technology](https://www.seagate.com/)** | **[Staff Data Scientist](https://jobr.pro/job/35018453/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore, SG | On Site | Dec 26 |
 | **[ST Engineering](https://www.stengg.com)** | **[Junior Data Scientist](https://jobr.pro/job/35017508/junior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Land - 249 Jalan Boon Lay, SG | On Site | Dec 26 |
-| **[Sedgwick](https://www.sedgwick.com/)** | **[Data Scientist (REMOTE)](https://jobr.pro/job/35027277/data-scientist-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Telecommuter TN, United States | Remote | Dec 26 |
 | **[Fidelity International](https://fidelityinternational.com/)** | **[Data Scientist, Risk Data Analytics](https://jobr.pro/job/35026358/data-scientist-risk-data-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Gurgaon Office, India | On Site | Dec 26 |
+| **[Sedgwick](https://www.sedgwick.com/)** | **[Data Scientist (REMOTE)](https://jobr.pro/job/35027277/data-scientist-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Telecommuter TN, United States | Remote | Dec 26 |
 | **[ADP](https://www.adp.com/)** | **[Senior Data Scientist](https://jobr.pro/job/35011500/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Roseland, NJ, United States | On Site | Dec 25 |
 | **[Google](https://www.google.com/)** | **[Research Data Scientist, Network and Machines Optimization, Cloud](https://jobr.pro/job/34999618/research-data-scientist-network-and-machines-optimization-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sunnyvale, CA, USA | On Site | Dec 25 |
 | **[Autofleet](https://www.autofleet.io/)** | **[Senior Data Scientist](https://jobr.pro/job/35000502/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Dec 25 |
