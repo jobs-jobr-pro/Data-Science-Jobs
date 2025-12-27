@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 27, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 27, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Visa](https://visa.com)** | **[Senior Data Scientist IV](https://jobr.pro/job/35033209/senior-data-scientist-iv?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bellevue, WA, United States | On Site | Dec 26 |
 | **[Coop Sverige](https://www.coop.se/)** | **[Data Scientist](https://jobr.pro/job/35026334/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Solna | On Site | Dec 26 |
 | **[Google](https://www.google.com/)** | **[Senior Staff Data Scientist Manager, Search](https://jobr.pro/job/35019817/senior-staff-data-scientist-manager-search?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, CA, USA | On Site | Dec 26 |
 | **[Experian](https://www.experian.com/)** | **[Senior Data Scientist (m/d/f)](https://jobr.pro/job/35020867/senior-data-scientist-mdf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Düsseldorf, Germany | On Site | Dec 26 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nearmap](https://www.nearmap.com)** | **[Senior Data Scientist](https://jobr.pro/job/34921831/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Carlsbad, CA, United States | Remote | Dec 23 |
 | **[Visa](https://visa.com)** | **[Data Scientist](https://jobr.pro/job/34921833/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Toronto, CANADA, Canada | On Site | Dec 23 |
 | **[Wealthsimple](https://www.wealthsimple.com/)** | **[Senior Data Scientist, Fraud](https://jobr.pro/job/34925087/senior-data-scientist-fraud?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Canada | On Site | Dec 23 |
-| **[Dandy](https://www.meetdandy.com/)** | **[Senior Data Scientist I - Product](https://jobr.pro/job/34930618/senior-data-scientist-i-product?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA - Remote | Remote | Dec 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 40 companies | Avg salary: 207k  
+**Current Stats:** 50 jobs | 12% remote | 39 companies | Avg salary: 199k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
