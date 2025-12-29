@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 29, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 29, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,8 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Google](https://www.google.com/)** | **[Staff Data Scientist, Product, Applied AI](https://jobr.pro/job/35072520/staff-data-scientist-product-applied-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sunnyvale, CA, USA | On Site | Dec 29 |
+| **[Google](https://www.google.com/)** | **[Senior Product Data Scientist, Developer and Experiences](https://jobr.pro/job/35072518/senior-product-data-scientist-developer-and-experiences?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Kirkland, WA, USA; New York, NY, USA | On Site | Dec 29 |
 | **[Sartorius](https://www.sartorius.com/)** | **[Data Scientist - Remote](https://jobr.pro/job/35067194/data-scientist-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Home Office United States of America | Remote | Dec 29 |
+| **[Bundesanstalt für Materialforschung und -prüfung (BAM)](https://www.bam.de/)** | **[Senior Data Scientist für Semantische Technologien (m/w/d)der Fachrichtung Informatik, Materialwissenschaften, Data Science oder vergleichbar](https://jobr.pro/job/35071863/senior-data-scientist-fur-semantische-technologien-mwdder-fachrichtung-informatik-materialwissenschaften-data-science-oder-vergleichbar?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | E 14 TVöD, Tarifbeschäftigte*r | On Site | Dec 29 |
 | **[Flatiron Health](https://flatiron.com/)** | **[Applied AI Data Scientist](https://jobr.pro/job/35061902/applied-ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | NY office | On Site | Dec 28 |
+| **[Versa Networks](https://versa-networks.com/)** | **[Data Scientist](https://jobr.pro/job/35067710/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Santa Clara, California, United States | On Site | Dec 28 |
 | **[Capgemini Invent](https://www.capgemini.com/)** | **[Senior Consultant / Manager (Gen) AI & Data Scientist \| AI Garage (m/w/d)](https://jobr.pro/job/35066586/senior-consultant-manager-gen-ai-data-scientist-ai-garage-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Berlin, Frankfurt am Main, Hamburg, Köln, München, Stuttgart | On Site | Dec 28 |
 | **[Allen Integrated Solutions](https://www.allenintegratedsolutions.com/)** | **[Exploitation Specialist - Data Scientist Job#470](https://jobr.pro/job/35064216/exploitation-specialist-data-scientist-job470?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Springfield, Virginia, United States | On Site | Dec 28 |
 | **[Allen Integrated Solutions](https://www.allenintegratedsolutions.com/)** | **[Data Scientist (Senior) Job#493](https://jobr.pro/job/35064208/data-scientist-senior-job493?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Springfield, Virginia, United States | On Site | Dec 28 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Business Data Scientist, AI/ML, Google Cloud](https://jobr.pro/job/34952770/business-data-scientist-aiml-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Waterloo, ON, Canada | On Site | Dec 24 |
 | **[Google](https://www.google.com/)** | **[Senior Research Data Scientist, Resource Planning, Google Cloud](https://jobr.pro/job/34952728/senior-research-data-scientist-resource-planning-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sunnyvale, CA, USA | On Site | Dec 24 |
 | **[Next](https://www.next.co.uk/)** | **[Data Scientist - Product Operations](https://jobr.pro/job/34953913/data-scientist-product-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Leicester, Leicestershire, United Kingdom | On Site | Dec 24 |
-| **[EXL](https://www.exlservice.com/)** | **[Associate - Business Analyst-Data Science-Data Scientist](https://jobr.pro/job/34961988/associate-business-analyst-data-science-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Gurugram, Haryana, India | On Site | Dec 24 |
-| **[HALA](https://hala.com/)** | **[Data Scientist](https://jobr.pro/job/34986068/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Riyadh, Riyadh, Saudi Arabia | On Site | Dec 24 |
-| **[Bayer](https://www.bayer.com/)** | **[Sr Data Scientist](https://jobr.pro/job/34939531/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Barcelona, Cataluña, ES | On Site | Dec 24 |
-| **[Celonis](https://www.celonis.com/)** | **[Product Data Scientist](https://jobr.pro/job/34990087/product-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, India | On Site | Dec 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 40 companies | Avg salary: 197k  
+**Current Stats:** 50 jobs | 10% remote | 38 companies | Avg salary: 211k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
