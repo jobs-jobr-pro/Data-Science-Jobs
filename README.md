@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 29, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 29, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Sartorius](https://www.sartorius.com/)** | **[Data Scientist - Remote](https://jobr.pro/job/35067194/data-scientist-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Home Office United States of America | Remote | Dec 29 |
+| **[Flatiron Health](https://flatiron.com/)** | **[Applied AI Data Scientist](https://jobr.pro/job/35061902/applied-ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | NY office | On Site | Dec 28 |
+| **[Capgemini Invent](https://www.capgemini.com/)** | **[Senior Consultant / Manager (Gen) AI & Data Scientist \| AI Garage (m/w/d)](https://jobr.pro/job/35066586/senior-consultant-manager-gen-ai-data-scientist-ai-garage-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Berlin, Frankfurt am Main, Hamburg, Köln, München, Stuttgart | On Site | Dec 28 |
+| **[Allen Integrated Solutions](https://www.allenintegratedsolutions.com/)** | **[Exploitation Specialist - Data Scientist Job#470](https://jobr.pro/job/35064216/exploitation-specialist-data-scientist-job470?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Springfield, Virginia, United States | On Site | Dec 28 |
+| **[Allen Integrated Solutions](https://www.allenintegratedsolutions.com/)** | **[Data Scientist (Senior) Job#493](https://jobr.pro/job/35064208/data-scientist-senior-job493?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Springfield, Virginia, United States | On Site | Dec 28 |
+| **[Allen Integrated Solutions](https://www.allenintegratedsolutions.com/)** | **[Data Scientist - Senior Job#482](https://jobr.pro/job/35064207/data-scientist-senior-job482?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Springfield, Virginia, United States | On Site | Dec 28 |
+| **[Allen Integrated Solutions](https://www.allenintegratedsolutions.com/)** | **[Data Scientist - Junior Job#479](https://jobr.pro/job/35064206/data-scientist-junior-job479?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Springfield, Virginia, United States | On Site | Dec 28 |
+| **[Govini](https://govini.com/)** | **[Senior Data Scientist](https://jobr.pro/job/35059554/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pittsburgh, PA | On Site | Dec 28 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Categorie Protette – Junior – Data Scientist & Engineering](https://jobr.pro/job/35044539/categorie-protette-junior-data-scientist-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Milano | On Site | Dec 27 |
 | **[BETA Technologies](https://www.beta.team/)** | **[Data Scientist - Digital Products](https://jobr.pro/job/35033951/data-scientist-digital-products?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | South Burlington, VT | On Site | Dec 27 |
 | **[Moffatt & Nichol](https://www.moffattnichol.com/)** | **[Data Scientist – Mid Level](https://jobr.pro/job/35039869/data-scientist-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Costa Mesa, CA, US | On Site | Dec 26 |
@@ -55,18 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[HALA](https://hala.com/)** | **[Data Scientist](https://jobr.pro/job/34986068/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Riyadh, Riyadh, Saudi Arabia | On Site | Dec 24 |
 | **[Bayer](https://www.bayer.com/)** | **[Sr Data Scientist](https://jobr.pro/job/34939531/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Barcelona, Cataluña, ES | On Site | Dec 24 |
 | **[Celonis](https://www.celonis.com/)** | **[Product Data Scientist](https://jobr.pro/job/34990087/product-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, India | On Site | Dec 24 |
-| **[Information Commissioner’s Office (ICO)](https://ico.org.uk/)** | **[Principal Data Scientist](https://jobr.pro/job/34965810/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Wycliffe House, United Kingdom | On Site | Dec 24 |
-| **[Otis Elevator Co.](https://www.otis.com/)** | **[Data Scientist](https://jobr.pro/job/34968727/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Unit 2A & 2B (Octave Block), 6th floor, Parcel - 4, Salarpuria Sattva - Knowledge City, Madhapur, Hyderabad, Telangana, India, Zip/Postal Code: 500081 | On Site | Dec 24 |
-| **[Eli Lilly and Company](https://www.lilly.com/)** | **[Digital Health R&D – Data Scientist – Data Analytics and Statistics](https://jobr.pro/job/34962186/digital-health-rd-data-scientist-data-analytics-and-statistics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | SG: Singapore LCCP | On Site | Dec 24 |
-| **[Yash Technologies](https://www.yash.com)** | **[Data Scientist - AI/ML Job](https://jobr.pro/job/34992942/data-scientist-aiml-job?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Hyderabad, TG, IN | On Site | Dec 24 |
-| **[PwC](https://www.pwc.com/)** | **[IN_Senior Manager_ Data Scientist (AI/ML) _ Data & Analytics _ Advisory _Pune](https://jobr.pro/job/34983290/insenior-manager-data-scientist-aiml-data-analytics-advisory-pune?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pune, India | On Site | Dec 24 |
-| **[Pacific Gas and Electric Company](https://www.pge.com)** | **[Data Scientist, Principal](https://jobr.pro/job/34991943/data-scientist-principal?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Oakland, CA, US, 94612 | On Site | Dec 24 |
-| **[Huron](https://www.huronconsultinggroup.com/)** | **[Data Scientist](https://jobr.pro/job/34989812/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore India - Outer Ring Road | On Site | Dec 24 |
-| **[Clara](https://www.clara.com/)** | **[Data Scientist - Risk (Cientista de Dados - Risco) - São Paulo (Hybrid)](https://jobr.pro/job/34925269/data-scientist-risk-cientista-de-dados-risco-sao-paulo-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Latin America | On Site | Dec 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 44 companies | Avg salary: 198k  
+**Current Stats:** 50 jobs | 10% remote | 40 companies | Avg salary: 197k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
