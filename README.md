@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 30, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 30, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,8 +13,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Artlist](https://artlist.io/)** | **[Data Scientist](https://jobr.pro/job/35143908/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 30 |
+| **[UT Southwestern Medical Center](https://www.utsouthwestern.edu/)** | **[Data Scientist I, Surgery](https://jobr.pro/job/35134073/data-scientist-i-surgery?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Texas-Dallas-5323 Harry Hines Blvd | On Site | Dec 30 |
 | **[Google](https://www.google.com/)** | **[Senior Staff Research Data Scientist, Google Security AI](https://jobr.pro/job/35128921/senior-staff-research-data-scientist-google-security-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sunnyvale, CA, USA | On Site | Dec 30 |
+| **[DNV](https://www.dnv.com/)** | **[Data Scientist](https://jobr.pro/job/35135063/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pune, India | On Site | Dec 30 |
 | **[Atlassian](https://www.atlassian.com/)** | **[Data Scientist](https://jobr.pro/job/35130829/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bengaluru - India - Bengaluru, 560071 India; Remote - Remote | Remote | Dec 30 |
+| **[PayPal](https://www.paypal.com/)** | **[Data Scientist](https://jobr.pro/job/35144403/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Dec 30 |
+| **[PayPal](https://www.paypal.com/)** | **[Sr Data Scientist](https://jobr.pro/job/35144395/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IND - Tamil Nadu - Chennai - Corp - Old Mahabalipuram Rd, India | On Site | Dec 30 |
+| **[State Street](https://www.statestreet.com/)** | **[State Street Investment Management - Data Scientist - Summer Internship 2026](https://jobr.pro/job/35133823/state-street-investment-management-data-scientist-summer-internship-2026?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Quincy, Massachusetts, United States | On Site | Dec 30 |
+| **[AirAsia](https://www.airasia.com/)** | **[Data Scientist II](https://jobr.pro/job/35144677/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Kuala Lumpur - RedQ, Malaysia | On Site | Dec 30 |
+| **[Caterpillar Inc.](https://www.caterpillar.com/)** | **[Data Scientist II](https://jobr.pro/job/35143005/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Chennai, Tamil Nadu, India | On Site | Dec 30 |
 | **[Atomic AI](https://atomic.ai/)** | **[Data Scientist, Chemoinformatics](https://jobr.pro/job/35112598/data-scientist-chemoinformatics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | South San Francisco, California, United States | On Site | Dec 29 |
 | **[Atomic AI](https://atomic.ai/)** | **[Data Scientist, RNA Biology](https://jobr.pro/job/35112599/data-scientist-rna-biology?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | South San Francisco, California, United States | On Site | Dec 29 |
 | **[Moffatt & Nichol](https://www.moffattnichol.com/)** | **[Data Scientist – Mid Level](https://jobr.pro/job/35119182/data-scientist-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Costa Mesa, CA, US | On Site | Dec 29 |
@@ -53,20 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bundesanstalt für Materialforschung und -prüfung (BAM)](https://www.bam.de/)** | **[Senior Data Scientist für Semantische Technologien (m/w/d)der Fachrichtung Informatik, Materialwissenschaften, Data Science oder vergleichbar](https://jobr.pro/job/35071863/senior-data-scientist-fur-semantische-technologien-mwdder-fachrichtung-informatik-materialwissenschaften-data-science-oder-vergleichbar?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | E 14 TVöD, Tarifbeschäftigte*r | On Site | Dec 29 |
 | **[UBS](https://www.ubs.com/)** | **[Data Scientist – Applied AI & Machine Learning](https://jobr.pro/job/35077303/data-scientist-applied-ai-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore, Singapore | On Site | Dec 29 |
 | **[ING](https://www.ing.com/)** | **[Data Scientist](https://jobr.pro/job/35079531/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Istanbul (VADI ISTANBUL PARK), Türkiye | On Site | Dec 29 |
-| **[PayPal](https://www.paypal.com/)** | **[Sr Data Scientist](https://jobr.pro/job/35081111/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | ISR - Tel Aviv District - Tel Aviv - Corp - Yigal Alon St, Israel | On Site | Dec 29 |
 | **[ING Nederland](https://www.ing.com/)** | **[Junior Data Scientist](https://jobr.pro/job/35080321/junior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | ACT (Amsterdam - Acanthus), Netherlands | On Site | Dec 29 |
 | **[Sartorius](https://www.sartorius.com/)** | **[Data Scientist - Remote](https://jobr.pro/job/35067194/data-scientist-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Home Office United States of America | Remote | Dec 29 |
-| **[LEGO Group](https://www.lego.com/)** | **[Senior Data Scientist - Demand Forecasting](https://jobr.pro/job/35077337/senior-data-scientist-demand-forecasting?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Copenhagen Løvstræde, Denmark | On Site | Dec 29 |
-| **[Walmart](https://careers.walmart.com/)** | **[(USA) Staff, Data Scientist \| Gen AI Vision](https://jobr.pro/job/35082062/usa-staff-data-scientist-gen-ai-vision?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | (USA) Crossman Respect Building CA SUNNYVALE Home Office, United States | On Site | Dec 29 |
-| **[ING](https://www.ing.com/)** | **[Junior Data Scientist](https://jobr.pro/job/35080373/junior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | ACT (Amsterdam - Acanthus), Netherlands | On Site | Dec 29 |
-| **[ING Nederland](https://www.ing.com/)** | **[Data Scientist](https://jobr.pro/job/35080320/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | ACT (Amsterdam - Acanthus), Netherlands | On Site | Dec 29 |
-| **[NN Group](https://www.nn-group.com/)** | **[Data Scientist](https://jobr.pro/job/35098114/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | The Hague - Haagse Poort - Low Rise, Netherlands | On Site | Dec 29 |
-| **[Global](https://global.com/)** | **[Lead Data Scientist - MLOps](https://jobr.pro/job/35096150/lead-data-scientist-mlops?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Holborn - London, United Kingdom | On Site | Dec 29 |
-| **[Thales](https://www.thalesgroup.com/)** | **[Stagiaire – Ingénieur Data scientist H/F](https://jobr.pro/job/35103061/stagiaire-ingenieur-data-scientist-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Vélizy-Le-Bois, France | On Site | Dec 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 41 companies | Avg salary: 181k  
+**Current Stats:** 50 jobs | 26% remote | 42 companies | Avg salary: 188k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
