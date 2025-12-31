@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 31, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 31, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -17,6 +17,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Income Insurance Limited](https://www.income.com.sg/)** | **[Summer Internship 2026 - Data Scientist](https://jobr.pro/job/35187203/summer-internship-2026-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore | On Site | Dec 31 |
 | **[Character.AI](https://character.ai)** | **[Staff Data Scientist, Monetization](https://jobr.pro/job/35167945/staff-data-scientist-monetization?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Redwood City, CA | On Site | Dec 31 |
 | **[Amazon.com](https://www.amazon.com/)** | **[Senior Data Scientist - Data and Machine Learning, WWPS ProServe](https://jobr.pro/job/35163383/senior-data-scientist-data-and-machine-learning-wwps-proserve?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Herndon, Virginia, USA | On Site | Dec 31 |
+| **[Morgan Stanley](https://www.morganstanley.com/)** | **[Data Scientist / GenAI Developer – eTrading (eRates)](https://jobr.pro/job/35196746/data-scientist-genai-developer-etrading-erates?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Budapest Millennium Tower III, Hungary | On Site | Dec 31 |
 | **[Visa](https://visa.com)** | **[Senior Data Scientist IV](https://jobr.pro/job/35162051/senior-data-scientist-iv?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bellevue, WA, United States | On Site | Dec 30 |
 | **[Visa](https://visa.com)** | **[Staff Data Scientist](https://jobr.pro/job/35162052/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bellevue, WA, United States | On Site | Dec 30 |
 | **[Visa](https://visa.com)** | **[Lead Data Scientist](https://jobr.pro/job/35162053/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bellevue, WA, United States | On Site | Dec 30 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mayo Clinic](https://www.mayoclinic.org/)** | **[Data Scientist - Research Sovereign AI](https://jobr.pro/job/35130922/data-scientist-research-sovereign-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Rochester, MN, United States | On Site | Dec 29 |
 | **[Imagemaker](https://www.imagemaker.com/)** | **[Data Scientist Senior- Inglés Avanzado](https://jobr.pro/job/35117927/data-scientist-senior-ingles-avanzado?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Chile | Remote | Dec 29 |
 | **[Imagemaker](https://www.imagemaker.com/)** | **[Data Scientist Bilingüe - CL (Remote)](https://jobr.pro/job/35117924/data-scientist-bilingue-cl-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Chile | Remote | Dec 29 |
-| **[American Institutes for Research](https://www.air.org/)** | **[Data Scientist Assistant](https://jobr.pro/job/35106722/data-scientist-assistant?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | US-Remote \| US-VA-Arlington \| US-NC-Chapel Hill \| US-IL-Chicago \| US-CA-Sacramento \| US-TX-Austin | Remote | Dec 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 39 companies | Avg salary: 225k  
+**Current Stats:** 50 jobs | 16% remote | 40 companies | Avg salary: 232k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
