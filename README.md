@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2025
 
-<sub><small>Last updated: Dec 30, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 31, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -24,6 +24,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PayPal](https://www.paypal.com/)** | **[Data Scientist](https://jobr.pro/job/35144403/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Dec 30 |
 | **[PayPal](https://www.paypal.com/)** | **[Sr Data Scientist](https://jobr.pro/job/35144395/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IND - Tamil Nadu - Chennai - Corp - Old Mahabalipuram Rd, India | On Site | Dec 30 |
 | **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Data Scientist](https://jobr.pro/job/35155769/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | DEU, Wiesbaden (Bldg 1000), Germany | On Site | Dec 30 |
+| **[eBay](https://www.ebay.com/)** | **[ML Data Scientist, Payments](https://jobr.pro/job/35158963/ml-data-scientist-payments?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, India | On Site | Dec 30 |
 | **[Atomic AI](https://atomic.ai/)** | **[Data Scientist, Chemoinformatics](https://jobr.pro/job/35112598/data-scientist-chemoinformatics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | South San Francisco, California, United States | On Site | Dec 29 |
 | **[Atomic AI](https://atomic.ai/)** | **[Data Scientist, RNA Biology](https://jobr.pro/job/35112599/data-scientist-rna-biology?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | South San Francisco, California, United States | On Site | Dec 29 |
 | **[Moffatt & Nichol](https://www.moffattnichol.com/)** | **[Data Scientist – Mid Level](https://jobr.pro/job/35119182/data-scientist-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Costa Mesa, CA, US | On Site | Dec 29 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bundesanstalt für Materialforschung und -prüfung (BAM)](https://www.bam.de/)** | **[Senior Data Scientist für Semantische Technologien (m/w/d)der Fachrichtung Informatik, Materialwissenschaften, Data Science oder vergleichbar](https://jobr.pro/job/35071863/senior-data-scientist-fur-semantische-technologien-mwdder-fachrichtung-informatik-materialwissenschaften-data-science-oder-vergleichbar?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | E 14 TVöD, Tarifbeschäftigte*r | On Site | Dec 29 |
 | **[UBS](https://www.ubs.com/)** | **[Data Scientist – Applied AI & Machine Learning](https://jobr.pro/job/35077303/data-scientist-applied-ai-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore, Singapore | On Site | Dec 29 |
 | **[ING](https://www.ing.com/)** | **[Data Scientist](https://jobr.pro/job/35079531/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Istanbul (VADI ISTANBUL PARK), Türkiye | On Site | Dec 29 |
-| **[ING Nederland](https://www.ing.com/)** | **[Junior Data Scientist](https://jobr.pro/job/35080321/junior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | ACT (Amsterdam - Acanthus), Netherlands | On Site | Dec 29 |
 
 ---
 
