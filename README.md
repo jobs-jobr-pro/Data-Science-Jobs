@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2026
 
-<sub><small>Last updated: Jan 01, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Jan 01, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Rakuten Viber](https://www.viber.com/)** | **[Data Scientist - infrastructure](https://jobr.pro/job/35239890/data-scientist-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bnei Brak, Tel Aviv District, IL | On Site | Jan 01 |
+| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[AWM Risk Analytics Group – Data Scientist - Vice President](https://jobr.pro/job/35236604/awm-risk-analytics-group-data-scientist-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | NY, United States | On Site | Jan 01 |
 | **[VinFast](https://vinfast.com/)** | **[Senior Data Engineer/ Data Scientist – Self-Driving](https://jobr.pro/job/35214175/senior-data-engineer-data-scientist-self-driving?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Ha Noi, Viet Nam | On Site | Jan 01 |
 | **[Skylight](https://skylight.digital/)** | **[Senior/Staff Data Scientist (ACF)](https://jobr.pro/job/35222425/seniorstaff-data-scientist-acf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Washington, District of Columbia, United States | On Site | Dec 31 |
 | **[CHECK24](https://www.check24.de/)** | **[(Junior) Data Scientist (m/w/d) – Hotel](https://jobr.pro/job/35213468/junior-data-scientist-mwd-hotel?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Münster, Nordrhein-Westfalen, Germany | On Site | Dec 31 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Waymo](https://waymo.com/)** | **[Staff Software Engineer/Data Scientist, Large Model Evaluation](https://jobr.pro/job/35116779/staff-software-engineerdata-scientist-large-model-evaluation?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, California, USA; San Francisco, California, USA | On Site | Dec 29 |
 | **[Experian](https://www.experian.com/)** | **[Data Scientist, Customer Analytics (Remote)](https://jobr.pro/job/35102649/data-scientist-customer-analytics-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | United States, UNITED STATES, United States | Remote | Dec 29 |
 | **[SOMFY Group](https://www.somfy-group.com/)** | **[Data Scientist Expérimenté (H/F)](https://jobr.pro/job/35102651/data-scientist-experimente-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Annecy, Auvergne-Rhône-Alpes, France | On Site | Dec 29 |
-| **[Weee!](https://www.sayweee.com)** | **[Data Scientist](https://jobr.pro/job/35105194/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Fremont, California, United States | On Site | Dec 29 |
-| **[Navy Federal Credit Union](https://www.navyfederal.org/)** | **[Senior Data Scientist](https://jobr.pro/job/35128151/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pensacola, FL, United States | On Site | Dec 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 43 companies | Avg salary: 230k  
+**Current Stats:** 50 jobs | 6% remote | 43 companies | Avg salary: 237k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
