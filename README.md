@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2026
 
-<sub><small>Last updated: Jan 01, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 01, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[CHECK24](https://www.check24.de/)** | **[(Junior) Data Scientist (m/w/d) – Hotel](https://jobr.pro/job/35213468/junior-data-scientist-mwd-hotel?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Münster, Nordrhein-Westfalen, Germany | On Site | Dec 31 |
 | **[Vaillant Group](https://www.vaillant-group.com)** | **[Data Scientist (GenAI focus)](https://jobr.pro/job/35178024/data-scientist-genai-focus?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Katowice, PL, 40-202 | On Site | Dec 31 |
 | **[Income Insurance Limited](https://www.income.com.sg/)** | **[Summer Internship 2026 - Data Scientist](https://jobr.pro/job/35187203/summer-internship-2026-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore | On Site | Dec 31 |
 | **[Character.AI](https://character.ai)** | **[Staff Data Scientist, Monetization](https://jobr.pro/job/35167945/staff-data-scientist-monetization?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Redwood City, CA | On Site | Dec 31 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Jemena](https://www.jemena.com.au/)** | **[Senior Data Scientist](https://jobr.pro/job/35083853/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Melbourne, VIC, AU | On Site | Dec 29 |
 | **[Mayo Clinic](https://www.mayoclinic.org/)** | **[Data Scientist - Research Sovereign AI](https://jobr.pro/job/35130922/data-scientist-research-sovereign-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Rochester, MN, United States | On Site | Dec 29 |
 | **[Imagemaker](https://www.imagemaker.com/)** | **[Data Scientist Senior- Inglés Avanzado](https://jobr.pro/job/35117927/data-scientist-senior-ingles-avanzado?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Chile | Remote | Dec 29 |
-| **[Imagemaker](https://www.imagemaker.com/)** | **[Data Scientist Bilingüe - CL (Remote)](https://jobr.pro/job/35117924/data-scientist-bilingue-cl-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Chile | Remote | Dec 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 40 companies | Avg salary: 232k  
+**Current Stats:** 50 jobs | 14% remote | 41 companies | Avg salary: 232k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
