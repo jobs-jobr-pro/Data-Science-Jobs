@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2026
 
-<sub><small>Last updated: Jan 01, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 01, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[XPENG](https://www.xiaopeng.com/)** | **[Data Scientist](https://jobr.pro/job/35247684/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 深圳、上海、北京、中国香港 | On Site | Jan 01 |
 | **[Rakuten Viber](https://www.viber.com/)** | **[Data Scientist - infrastructure](https://jobr.pro/job/35239890/data-scientist-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bnei Brak, Tel Aviv District, IL | On Site | Jan 01 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[AWM Risk Analytics Group – Data Scientist - Vice President](https://jobr.pro/job/35236604/awm-risk-analytics-group-data-scientist-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | NY, United States | On Site | Jan 01 |
 | **[VinFast](https://vinfast.com/)** | **[Senior Data Engineer/ Data Scientist – Self-Driving](https://jobr.pro/job/35214175/senior-data-engineer-data-scientist-self-driving?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Ha Noi, Viet Nam | On Site | Jan 01 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Capstone Integrated Solutions](https://www.capstone-is.com/)** | **[Data Scientist - short-term contract](https://jobr.pro/job/35107685/data-scientist-short-term-contract?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | Dec 29 |
 | **[Waymo](https://waymo.com/)** | **[Staff Software Engineer/Data Scientist, Large Model Evaluation](https://jobr.pro/job/35116779/staff-software-engineerdata-scientist-large-model-evaluation?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, California, USA; San Francisco, California, USA | On Site | Dec 29 |
 | **[Experian](https://www.experian.com/)** | **[Data Scientist, Customer Analytics (Remote)](https://jobr.pro/job/35102649/data-scientist-customer-analytics-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | United States, UNITED STATES, United States | Remote | Dec 29 |
-| **[SOMFY Group](https://www.somfy-group.com/)** | **[Data Scientist Expérimenté (H/F)](https://jobr.pro/job/35102651/data-scientist-experimente-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Annecy, Auvergne-Rhône-Alpes, France | On Site | Dec 29 |
 
 ---
 
