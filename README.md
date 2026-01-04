@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2026
 
-<sub><small>Last updated: Jan 03, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 04, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[iFIT](https://www.ifit.com/)** | **[Data Scientist](https://jobr.pro/job/35303503/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Morristown, NJ, United States | On Site | Jan 03 |
+| **[ECS](https://ecstech.com/)** | **[Senior Cybersecurity Data Scientist](https://jobr.pro/job/35301439/senior-cybersecurity-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Fairfax, VA, United States | On Site | Jan 03 |
 | **[Genpact](https://www.genpact.com/)** | **[Manager– Data Scientist](https://jobr.pro/job/35296702/manager-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India-Bangalore | On Site | Jan 03 |
 | **[Genpact](https://www.genpact.com/)** | **[Senior Manager, Data Scientist](https://jobr.pro/job/35296696/senior-manager-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India-Bangalore | On Site | Jan 03 |
 | **[Genpact](https://www.genpact.com/)** | **[Assistant Manager, Data Scientist](https://jobr.pro/job/35296694/assistant-manager-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India-Bangalore | On Site | Jan 03 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Qualtrics](https://www.qualtrics.com/)** | **[Data Scientist, GTM Analytics](https://jobr.pro/job/35221621/data-scientist-gtm-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Provo, Utah, United States | On Site | Dec 31 |
 | **[Capco](https://www.capco.com/)** | **[Data Scientist (She/He/They)](https://jobr.pro/job/35215579/data-scientist-shehethey?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Poland | On Site | Dec 31 |
 | **[Adani Group](https://www.adani.com/)** | **[Predictive Analytics Data Scientist-AI Labs](https://jobr.pro/job/35231325/predictive-analytics-data-scientist-ai-labs?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Ahmedabad, Gujarat, India | On Site | Dec 31 |
-| **[Vaillant Group](https://www.vaillant-group.com)** | **[Data Scientist (GenAI focus)](https://jobr.pro/job/35178024/data-scientist-genai-focus?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Katowice, PL, 40-202 | On Site | Dec 31 |
-| **[Peraton](https://www.peraton.com/)** | **[Data Scientist](https://jobr.pro/job/35223265/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | United States | On Site | Dec 31 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 43 companies | Avg salary: 184k  
+**Current Stats:** 50 jobs | 8% remote | 43 companies | Avg salary: 182k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
