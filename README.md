@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2026
 
-<sub><small>Last updated: Jan 23, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 23, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -46,6 +46,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bertrandt](https://www.bertrandt.com)** | **[Bachelor- / Masterarbeit – Data Scientist und KI in München (m/w/d)](https://jobr.pro/job/36645473/bachelor-masterarbeit-data-scientist-und-ki-in-munchen-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Munich, Germany | On Site | Jan 23 |
 | **[Alcon](https://www.alcon.com/)** | **[Sr Principal Data Scientist - Digital Health](https://jobr.pro/job/36646490/sr-principal-data-scientist-digital-health?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Fort Worth - Main, United States | On Site | Jan 23 |
 | **[GE HealthCare](https://www.gehealthcare.com/)** | **[Staff Data Scientist NLP](https://jobr.pro/job/36656395/staff-data-scientist-nlp?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IND19-01-Bengaluru-EPIP 122 (Phase II), India | On Site | Jan 23 |
+| **[IAG Loyalty](https://www.iagloyalty.com/)** | **[Data Scientist](https://jobr.pro/job/36658255/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London, United Kingdom | On Site | Jan 23 |
 | **[Archer](https://www.archer.com/)** | **[Senior Data Scientist](https://jobr.pro/job/36607496/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Jose, California, United States | On Site | Jan 22 |
 | **[Branch](https://www.branch.io/)** | **[Senior Data Scientist - Discovery](https://jobr.pro/job/36600926/senior-data-scientist-discovery?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Denver | Remote | Jan 22 |
 | **[Weedmaps](https://weedmaps.com/)** | **[Senior Data Scientist](https://jobr.pro/job/36593694/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Austin, Texas | On Site | Jan 22 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Data Scientist Intern (AI Track) - 2026 Start (BS/MS)](https://jobr.pro/job/36553726/data-scientist-intern-ai-track-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore, Singapore | On Site | Jan 22 |
 | **[Oracle](https://www.oracle.com/)** | **[Applied Data Scientist](https://jobr.pro/job/36552145/applied-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | ZURICH, Switzerland | On Site | Jan 22 |
 | **[Google](https://www.google.com/)** | **[Staff Data Scientist, GenAI Applications, Global Business Consulting](https://jobr.pro/job/36548542/staff-data-scientist-genai-applications-global-business-consulting?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore | On Site | Jan 22 |
-| **[SIXT](https://www.sixt.com)** | **[Data Scientist I](https://jobr.pro/job/36555475/data-scientist-i?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bengaluru, Karnataka, India | On Site | Jan 22 |
 
 ---
 
