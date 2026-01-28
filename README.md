@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2026
 
-<sub><small>Last updated: Jan 28, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 28, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -44,24 +44,24 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pinterest](https://www.pinterest.com/)** | **[Sr. Data Scientist](https://jobr.pro/job/36790975/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco, CA, US | On Site | Jan 27 |
 | **[Visa](https://visa.com)** | **[Sr. Data Scientist - Visa Commercial Solutions](https://jobr.pro/job/36796997/sr-data-scientist-visa-commercial-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Foster City, CA, United States | On Site | Jan 27 |
 | **[Hippo Insurance](https://www.hippo.com/)** | **[Senior Data Scientist](https://jobr.pro/job/36802011/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Austin, TX | On Site | Jan 27 |
+| **[Alight Solutions](https://www.alight.com/)** | **[Senior Data Scientist - Virtual](https://jobr.pro/job/36868184/senior-data-scientist-virtual?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | US-CA-California-Virtual, United States | Remote | Jan 27 |
+| **[Wellcome Sanger Institute](https://www.sanger.ac.uk/)** | **[Principal/Senior Data Scientist](https://jobr.pro/job/36870735/principalsenior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Wellcome Genome Campus, United Kingdom | On Site | Jan 27 |
+| **[Cerved](https://www.cerved.com/)** | **[Junior Data scientist](https://jobr.pro/job/36825627/junior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | TORINO, Italy | On Site | Jan 27 |
 | **[Gartner](https://www.gartner.com/)** | **[Senior Data Scientist (6+ yrs in Data Science & Python programming)](https://jobr.pro/job/36849177/senior-data-scientist-6-yrs-in-data-science-python-programming?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Gurgaon - Cyber Park, India | On Site | Jan 27 |
 | **[Rabobank](https://www.rabobank.com/)** | **[Intern Data Scientist](https://jobr.pro/job/36852209/intern-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Utrecht Croeselaan 18, Netherlands | On Site | Jan 27 |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[Data Scientist Intern](https://jobr.pro/job/36842696/data-scientist-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | N/A, South Africa | On Site | Jan 27 |
 | **[AML RightSource](https://www.amlrightsource.com/)** | **[Data Scientist (Contractor)](https://jobr.pro/job/36842588/data-scientist-contractor?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Noida, India | On Site | Jan 27 |
 | **[Copeland](https://www.copeland.com/)** | **[Senior Data Scientist](https://jobr.pro/job/36840888/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sidney, United States | On Site | Jan 27 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Data Scientist III](https://jobr.pro/job/36841244/data-scientist-iii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, Karnataka, India | On Site | Jan 27 |
-| **[Cerved](https://www.cerved.com/)** | **[Junior Data scientist](https://jobr.pro/job/36825627/junior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | TORINO, Italy | On Site | Jan 27 |
 | **[ICF](https://www.icf.com/)** | **[HR Data Engineer/Data Scientist](https://jobr.pro/job/36845479/hr-data-engineerdata-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Nationwide Remote Office (US99), United States | Remote | Jan 27 |
 | **[F5](https://www.f5.com/)** | **[Senior Data Scientist](https://jobr.pro/job/36853122/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Dublin, Ireland | On Site | Jan 27 |
-| **[Corteva Agriscience](https://www.corteva.com/)** | **[Data Scientist Intern](https://jobr.pro/job/36842696/data-scientist-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | N/A, South Africa | On Site | Jan 27 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Data Scientist III](https://jobr.pro/job/36841244/data-scientist-iii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, Karnataka, India | On Site | Jan 27 |
 | **[Centific](https://centific.com/)** | **[Data Scientist](https://jobr.pro/job/36821766/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India Office - Hyderabad | On Site | Jan 27 |
-| **[Wellcome Sanger Institute](https://www.sanger.ac.uk/)** | **[Principal/Senior Data Scientist](https://jobr.pro/job/36870735/principalsenior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Wellcome Genome Campus, United Kingdom | On Site | Jan 27 |
-| **[Alight Solutions](https://www.alight.com/)** | **[Senior Data Scientist - Virtual](https://jobr.pro/job/36868184/senior-data-scientist-virtual?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | US-CA-California-Virtual, United States | Remote | Jan 27 |
-| **[QBE Insurance](https://www.qbe.com/)** | **[Senior Data Scientist](https://jobr.pro/job/36753493/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | GBR - London - 30 Fenchurch Street, United Kingdom | On Site | Jan 26 |
-| **[ING](https://www.ing.com/)** | **[Senior Data Scientist](https://jobr.pro/job/36764684/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Jan 26 |
-| **[Quantexa](https://www.quantexa.com/)** | **[Associate Data Scientist](https://jobr.pro/job/36756340/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London, England, United Kingdom | On Site | Jan 26 |
-| **[Bupa](https://www.bupa.com/)** | **[Data Scientist](https://jobr.pro/job/36773739/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Central London, United Kingdom | On Site | Jan 26 |
 | **[AIA](https://www.aia.com/)** | **[Manager, AI / Data Scientist](https://jobr.pro/job/36767547/manager-ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | AIA ED (Shanghai) Hongkou, China | On Site | Jan 26 |
 | **[FITS, LLC](https://www.fitspr.com)** | **[Data Scientist](https://jobr.pro/job/36771436/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Dorado | On Site | Jan 26 |
+| **[Bupa](https://www.bupa.com/)** | **[Data Scientist](https://jobr.pro/job/36773739/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Central London, United Kingdom | On Site | Jan 26 |
+| **[Quantexa](https://www.quantexa.com/)** | **[Associate Data Scientist](https://jobr.pro/job/36756340/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London, England, United Kingdom | On Site | Jan 26 |
+| **[QBE Insurance](https://www.qbe.com/)** | **[Senior Data Scientist](https://jobr.pro/job/36753493/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | GBR - London - 30 Fenchurch Street, United Kingdom | On Site | Jan 26 |
+| **[ING](https://www.ing.com/)** | **[Senior Data Scientist](https://jobr.pro/job/36764684/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Jan 26 |
 | **[TransUnion](https://www.transunion.com/)** | **[Senior Data Scientist](https://jobr.pro/job/36771460/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Chicago - 555 West Adams St, United States | On Site | Jan 26 |
 
 ---
