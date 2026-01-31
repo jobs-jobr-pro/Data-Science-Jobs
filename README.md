@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2026
 
-<sub><small>Last updated: Jan 31, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 31, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,9 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Jack Link's Protein Snacks](https://www.jacklinks.com)** | **[Data Scientist – Decision Support, Analytics and Automation](https://jobr.pro/job/37120184/data-scientist-decision-support-analytics-and-automation?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Minneapolis, MN, United States | On Site | Jan 30 |
+| **[VMD Corp](https://vmdcorp.com/)** | **[Data Scientist & Foundry Visualization Specialist (Secret)](https://jobr.pro/job/37120189/data-scientist-foundry-visualization-specialist-secret?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | McLean, VA, United States | On Site | Jan 30 |
 | **[PetIQ](https://petiq.com/)** | **[Data Scientist (Remote)](https://jobr.pro/job/37101471/data-scientist-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Oak Brook, IL, United States | Remote | Jan 30 |
+| **[Experian](https://www.experian.com/)** | **[Senior- Data Scientist Consultant](https://jobr.pro/job/37120204/senior-data-scientist-consultant?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Istanbul, Turkey | On Site | Jan 30 |
 | **[Crédit Agricole CIB](https://www.ca-cib.fr/)** | **[Data Scientist Back Office H/F](https://jobr.pro/job/37109830/data-scientist-back-office-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Europe, France, Ile-de-France, 78 - Yvelines | On Site | Jan 30 |
 | **[Lincare Holdings, Inc.](https://www.lincare.com/)** | **[Data Scientist](https://jobr.pro/job/37102001/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Clearwater, FL, United States | On Site | Jan 30 |
+| **[bet365](https://www.bet365.com)** | **[Senior Data Scientist, Sports](https://jobr.pro/job/37120227/senior-data-scientist-sports?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Stoke-on-Trent, England, United Kingdom | On Site | Jan 30 |
+| **[Entain](https://www.entaingroup.com)** | **[Senior Data Scientist](https://jobr.pro/job/37120232/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London, England, United Kingdom | On Site | Jan 30 |
 | **[TotalEnergies](https://totalenergies.com/)** | **[ALTERNANCE - Data Scientist H/F](https://jobr.pro/job/37087683/alternance-data-scientist-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | NANTERRE-IMMEUBLE SPAZIO(FRA), NANTERRE, France | On Site | Jan 30 |
 | **[Ally Financial](https://www.ally.com/)** | **[Principal - Data Scientist - Responsible AI](https://jobr.pro/job/37086975/principal-data-scientist-responsible-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 601 S. Tryon Street, NC | Remote | Jan 30 |
 | **[Miratech](https://miratechgroup.com/)** | **[Middle AI Engineer / Data Scientist](https://jobr.pro/job/37085834/middle-ai-engineer-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bengaluru, KA, India | On Site | Jan 30 |
@@ -25,7 +30,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Kotak Mahindra Bank](https://www.kotak.com/)** | **[Senior Data Scientist-Digital Banking Kotak 811-Regional Sales](https://jobr.pro/job/37091211/senior-data-scientist-digital-banking-kotak-811-regional-sales?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, Karnataka, India | On Site | Jan 30 |
 | **[Ford Motor Company](https://corporate.ford.com/)** | **[Credit Data Scientist](https://jobr.pro/job/37086693/credit-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Chennai, Tamil Nadu, India | On Site | Jan 30 |
 | **[Bosch Group](https://www.bosch.com)** | **[Data Scientist](https://jobr.pro/job/37052793/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | bangalore, India | On Site | Jan 30 |
-| **[Jack Link's Protein Snacks](https://www.jacklinks.com)** | **[Data Scientist – Decision Support, Analytics and Automation](https://jobr.pro/job/37048173/data-scientist-decision-support-analytics-and-automation?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Minneapolis, MN, United States | On Site | Jan 30 |
 | **[The Swift Group](https://theswiftgroup.com/)** | **[Senior Data Scientist](https://jobr.pro/job/37103421/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Doral, FL | On Site | Jan 30 |
 | **[Cermati.com](https://www.cermati.com)** | **[Data Scientist - Risk Platform](https://jobr.pro/job/37056608/data-scientist-risk-platform?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Jakarta, Jakarta, Indonesia | On Site | Jan 30 |
 | **[Together We Talent](https://www.togetherwetalent.com/)** | **[Business Data Scientist I - Hybrid](https://jobr.pro/job/37036497/business-data-scientist-i-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tulsa, United States | On Site | Jan 30 |
@@ -54,19 +58,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SUSE](https://www.suse.com/)** | **[CFL Data Scientist](https://jobr.pro/job/37092269/cfl-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore Office, India | On Site | Jan 30 |
 | **[CVS Health](https://cvshealth.com/)** | **[Principal Data Scientist – Price and Promotions Data Science](https://jobr.pro/job/37116511/principal-data-scientist-price-and-promotions-data-science?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Work At Home-Washington, United States | On Site | Jan 30 |
 | **[CVS Health](https://cvshealth.com/)** | **[Lead Data Scientist – Forecasting](https://jobr.pro/job/37116507/lead-data-scientist-forecasting?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Work At Home-Washington, United States | On Site | Jan 30 |
+| **[Amazon.com](https://www.amazon.com/)** | **[Data Scientist, Selling Partner Trust and Store Integrity](https://jobr.pro/job/37123719/data-scientist-selling-partner-trust-and-store-integrity?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Seattle, Washington, USA | On Site | Jan 30 |
 | **[AECOM](https://www.aecom.com)** | **[Data Scientist III](https://jobr.pro/job/37035687/data-scientist-iii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bucharest, 11-15 TIPOGRAFILOR S, Romania | On Site | Jan 29 |
 | **[Mochi Health](https://joinmochi.com/)** | **[Senior Data Scientist](https://jobr.pro/job/37057591/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco, CA | On Site | Jan 29 |
 | **[New Relic](https://newrelic.com/)** | **[Lead Data Scientist](https://jobr.pro/job/37043423/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Atlanta, Georgia, USA; Chicago, Illinois, USA; Houston, Texas, USA; Portland, Oregon, USA | Remote | Jan 29 |
 | **[Intuitive](https://www.intuitive.com)** | **[Senior Data Scientist](https://jobr.pro/job/37047058/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sunnyvale, CA, United States | On Site | Jan 29 |
-| **[Match Group](https://mtch.com/)** | **[Data Scientist I, Integrity](https://jobr.pro/job/37042920/data-scientist-i-integrity?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Los Angeles, California | On Site | Jan 29 |
-| **[NielsenIQ](https://nielseniq.com)** | **[Jr Data Scientist](https://jobr.pro/job/37035689/jr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Ciudad de México, DIF, Mexico | On Site | Jan 29 |
-| **[DeepMind](https://www.deepmind.com/)** | **[Senior Staff Data Scientist, GeminiApp x-Product](https://jobr.pro/job/37040431/senior-staff-data-scientist-geminiapp-x-product?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, California, US | On Site | Jan 29 |
-| **[Hearst](https://www.hearst.com/)** | **[Senior Applied Data Scientist](https://jobr.pro/job/37083418/senior-applied-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, NY, United States | On Site | Jan 29 |
-| **[Thumbtack](https://www.thumbtack.com/)** | **[Senior Data Scientist, People](https://jobr.pro/job/37039697/senior-data-scientist-people?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote, United States | Remote | Jan 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 45 companies | Avg salary: 175k  
+**Current Stats:** 50 jobs | 12% remote | 45 companies | Avg salary: 161k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
