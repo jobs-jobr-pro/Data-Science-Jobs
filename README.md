@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2026
 
-<sub><small>Last updated: Jan 31, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 31, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,10 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ADP](https://www.adp.com/)** | **[Lead Data Scientist](https://jobr.pro/job/37182119/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Parsippany, NJ, United States | On Site | Jan 31 |
 | **[UT Southwestern Medical Center](https://www.utsouthwestern.edu/)** | **[Data Scientist I, Surgery](https://jobr.pro/job/37166903/data-scientist-i-surgery?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Texas-Dallas-5323 Harry Hines Blvd | On Site | Jan 31 |
 | **[Ørsted](https://www.orsted.com)** | **[Lead Data Scientist for Risk Management](https://jobr.pro/job/37139791/lead-data-scientist-for-risk-management?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Warsaw, PL | On Site | Jan 31 |
 | **[Anthropic](https://www.anthropic.com/)** | **[Data Scientist, Product](https://jobr.pro/job/37131152/data-scientist-product?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco, CA \| New York City, NY | On Site | Jan 31 |
 | **[Stackline](https://www.stackline.com/)** | **[Data Scientist I](https://jobr.pro/job/37123733/data-scientist-i?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Seattle | On Site | Jan 31 |
+| **[Boot Barn](https://www.bootbarn.com/)** | **[Senior Data Scientist](https://jobr.pro/job/37178502/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Irvine, CA, United States | On Site | Jan 31 |
 | **[Fanatics](https://www.fanaticsinc.com/)** | **[Principal Data Scientist, Marketing & Personalization](https://jobr.pro/job/37169907/principal-data-scientist-marketing-personalization?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Mateo, CA, United States | On Site | Jan 31 |
 | **[Plaid Inc.](https://plaid.com/)** | **[Data Scientist - Network Value](https://jobr.pro/job/37124326/data-scientist-network-value?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco | On Site | Jan 31 |
 | **[Walmart](https://careers.walmart.com/)** | **[(USA) Staff, Data Scientist](https://jobr.pro/job/37152498/usa-staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | (USA) Global People Center (GPC) AR Bentonville Home Office, United States | On Site | Jan 31 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Business Data Scientist, Ads Marketing Analytics (English)](https://jobr.pro/job/37079697/business-data-scientist-ads-marketing-analytics-english?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mexico City, CDMX, Mexico | On Site | Jan 30 |
 | **[Google](https://www.google.com/)** | **[Staff Data Scientist, Research, Applied AI](https://jobr.pro/job/37079383/staff-data-scientist-research-applied-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sunnyvale, CA, USA; Kirkland, WA, USA | On Site | Jan 30 |
 | **[Kotak Mahindra Bank](https://www.kotak.com/)** | **[Senior Data Scientist-Digital Banking Kotak 811-Regional Sales](https://jobr.pro/job/37091211/senior-data-scientist-digital-banking-kotak-811-regional-sales?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bangalore, Karnataka, India | On Site | Jan 30 |
-| **[Ford Motor Company](https://corporate.ford.com/)** | **[Credit Data Scientist](https://jobr.pro/job/37086693/credit-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Chennai, Tamil Nadu, India | On Site | Jan 30 |
-| **[Elevation Capital](https://www.elevationcapital.com)** | **[Principal data scientist](https://jobr.pro/job/37140119/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mumbai, Maharashtra, India - Remote | Remote | Jan 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 45 companies | Avg salary: 226k  
+**Current Stats:** 50 jobs | 26% remote | 45 companies | Avg salary: 223k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
