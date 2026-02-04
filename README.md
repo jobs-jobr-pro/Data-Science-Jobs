@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2026
 
-<sub><small>Last updated: Feb 03, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Feb 04, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[NN Group](https://www.nn-group.com/)** | **[Data Engineer](https://jobr.pro/job/37335674/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | The Hague - Haagse Poort - Low Rise, Netherlands | On Site | Feb 04 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst, Data Operations](https://jobr.pro/job/37330665/data-analyst-data-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | IN - AHMEDABAD, India | On Site | Feb 04 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Sales Specialist, Capital IQ Solutions and Data Feeds, ASEAN](https://jobr.pro/job/37330703/sales-specialist-capital-iq-solutions-and-data-feeds-asean?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | SG - SINGAPORE 12 MARINA BOULEVARD, Singapore | On Site | Feb 04 |
 | **[XPENG](https://www.xiaopeng.com/)** | **[Data Scientist](https://jobr.pro/job/37328662/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 深圳、上海、北京、中国香港 | On Site | Feb 03 |
 | **[XPENG](https://www.xiaopeng.com/)** | **[Research Scientist (VLM 架构研发)](https://jobr.pro/job/37328217/research-scientist-vlm-?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 深圳、上海、北京 | On Site | Feb 03 |
 | **[XPENG](https://www.xiaopeng.com/)** | **[Research Scientist（VLM 预训练 / 后训练）](https://jobr.pro/job/37328214/research-scientistvlm-?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 深圳、上海、北京 | On Site | Feb 03 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Software Engineer Graduate (Data Arch - AI/ML Infrastructure) - 2026 Start (BS/MS)](https://jobr.pro/job/37291763/software-engineer-graduate-data-arch-aiml-infrastructure-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Jose, California, United States | On Site | Feb 03 |
 | **[TikTok](https://www.tiktok.com/)** | **[Data Scientist Graduate (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobr.pro/job/37291761/data-scientist-graduate-tiktok-shop-business-product-ds-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Seattle, Washington, United States | On Site | Feb 03 |
 | **[TikTok](https://www.tiktok.com/)** | **[Software Engineer Graduate (Data Arch - ShortText Rec) - 2026 Start (BS/MS)](https://jobr.pro/job/37291764/software-engineer-graduate-data-arch-shorttext-rec-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Jose, California, United States | On Site | Feb 03 |
-| **[TikTok](https://www.tiktok.com/)** | **[Software Engineer Graduate (Data Arch - Data Ecosystem ) - 2026 Start (BS/MS)](https://jobr.pro/job/37291755/software-engineer-graduate-data-arch-data-ecosystem-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Jose, California, United States | On Site | Feb 03 |
-| **[TikTok](https://www.tiktok.com/)** | **[AI Annotation Model Operations Specialist, Data Annotation Lab - AI Data Service and Operations](https://jobr.pro/job/37291749/ai-annotation-model-operations-specialist-data-annotation-lab-ai-data-service-and-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore, Singapore | On Site | Feb 03 |
-| **[TikTok](https://www.tiktok.com/)** | **[Data Analyst Project Intern (Safety Model Operations) - 2026 Start (BS/MS）](https://jobr.pro/job/37291725/data-analyst-project-intern-safety-model-operations-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore, Singapore | On Site | Feb 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 35 companies | Avg salary: 125k  
+**Current Stats:** 50 jobs | 12% remote | 37 companies | Avg salary: 119k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, pytorch, sql, python, ai  
