@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2026
 
-<sub><small>Last updated: Feb 05, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Feb 06, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Gartner](https://www.gartner.com/)** | **[Data Analyst](https://jobr.pro/job/37509143/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Gurgaon - Cyber Park, India | On Site | Feb 06 |
+| **[Gartner](https://www.gartner.com/)** | **[Data Analyst (Quant/Qual Problem Solving, SQL, Excel, Databricks)](https://jobr.pro/job/37509142/data-analyst-quantqual-problem-solving-sql-excel-databricks?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Gurgaon - Cyber Park, India | On Site | Feb 06 |
 | **[ADP](https://www.adp.com/)** | **[Data Scientist Development Program](https://jobr.pro/job/37502029/data-scientist-development-program?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Nanterre cedex, fra-fr, France | On Site | Feb 05 |
 | **[ADP](https://www.adp.com/)** | **[Director Sales & Marketing Data Quality Transformation](https://jobr.pro/job/37502020/director-sales-marketing-data-quality-transformation?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Roseland, NJ, United States | On Site | Feb 05 |
 | **[SE Independent Delivery Services, Inc.](https://southeastindependentdelivery.com/)** | **[Ops Excellence Data Coordinator](https://jobr.pro/job/37500056/ops-excellence-data-coordinator?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Lakeland, FL, US | On Site | Feb 05 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ManTech](https://www.mantech.com/)** | **[Business Data Analyst](https://jobr.pro/job/37477980/business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | USA-VA-Herndon | On Site | Feb 05 |
 | **[ArcelorMittal](https://corporate.arcelormittal.com/)** | **[Senior Data Scientist / Machine Learning Engineer](https://jobr.pro/job/37483995/senior-data-scientist-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Luxembourg, Luxembourg | On Site | Feb 05 |
 | **[Arcadis](https://www.arcadis.com/)** | **[Project Director - Data Centres (Nordics)](https://jobr.pro/job/37484885/project-director-data-centres-nordics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London, Greater London, United Kingdom | On Site | Feb 05 |
-| **[TikTok](https://www.tiktok.com/)** | **[Data Understanding Specialist - Data Cycling Center - German Speaking (12-Month Fixed-term Contract)](https://jobr.pro/job/37476515/data-understanding-specialist-data-cycling-center-german-speaking-12-month-fixed-term-contract?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Lisbon, Lisbon, Portugal | On Site | Feb 05 |
-| **[TikTok](https://www.tiktok.com/)** | **[Software Engineer Graduate (Data Arch - E-commerce) - 2026 Start (BS/MS)](https://jobr.pro/job/37476498/software-engineer-graduate-data-arch-e-commerce-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Jose, California, United States | On Site | Feb 05 |
 
 ---
 
