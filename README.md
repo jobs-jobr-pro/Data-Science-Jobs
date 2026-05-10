@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Scientist Jobs — 2026
 
-<sub><small>Last updated: May 09, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 10, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,12 +13,19 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Similarweb](https://similarweb.com)** | **[Data Engineer](https://jobr.pro/job/40701381/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tel Aviv-Yafo | On Site | May 10 |
+| **[KlearNow.AI](https://klearnow.ai)** | **[Senior AI Engineer](https://jobr.pro/job/40701195/senior-ai-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | California | On Site | May 10 |
+| **[Neuralink](https://neuralink.com)** | **[Software Engineer, Agentic AI](https://jobr.pro/job/40701264/software-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Austin, Texas, United States; South San Francisco, California, United States | On Site | May 09 |
+| **[Power Digital](https://powerdigitalmarketing.com)** | **[AI Data Engineer](https://jobr.pro/job/40697408/ai-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote - United States | Remote | May 09 |
+| **[JioStar](https://jiostar.com)** | **[Sr Data Scientist - GenAI](https://jobr.pro/job/40694113/sr-data-scientist-genai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bengaluru | On Site | May 09 |
 | **[Dun & Bradstreet](https://dnb.com)** | **[Senior Data Engineer-AI (R-19035)](https://jobr.pro/job/40689921/senior-data-engineer-ai-r-19035?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Shanghai - China | On Site | May 09 |
 | **[BJAK](https://bjak.my/en/about-us)** | **[Data Engineer](https://jobr.pro/job/40689120/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Malaysia | On Site | May 09 |
 | **[Archer](https://archerreview.com)** | **[Sr Staff Engineer, Data Infrastructure](https://jobr.pro/job/40690967/sr-staff-engineer-data-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Jose, California, United States | On Site | May 09 |
+| **[Cogent Security](https://cogent.security)** | **[AI Research Engineer](https://jobr.pro/job/40699160/ai-research-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco, CA | On Site | May 09 |
 | **[Zscaler](https://zscaler.com)** | **[Senior Specialist Sales Engineer - Data Security, Commercial](https://jobr.pro/job/40686240/senior-specialist-sales-engineer-data-security-commercial?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote - USA | Remote | May 09 |
 | **[Zscaler](https://zscaler.com)** | **[Principal Specialist Sales Engineer - Data Security, SLED/Healthcare](https://jobr.pro/job/40686239/principal-specialist-sales-engineer-data-security-sledhealthcare?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote - USA | Remote | May 09 |
 | **[CHAOS Industries](https://chaosinc.com)** | **[Data Scientist: Mission Engineering](https://jobr.pro/job/40691223/data-scientist-mission-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Hawthorne, California, United States | On Site | May 08 |
+| **[Cadence Health](https://cadencehealth.com)** | **[Senior Software Engineer, Agentic AI](https://jobr.pro/job/40695208/senior-software-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | May 08 |
 | **[Life360](https://life360.com)** | **[Sr. Staff AI Security Engineer, AI Native Platform](https://jobr.pro/job/40687235/sr-staff-ai-security-engineer-ai-native-platform?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote, USA | Remote | May 08 |
 | **[Life360](https://life360.com)** | **[Principal AI Security Engineer, AI Native Platform](https://jobr.pro/job/40687231/principal-ai-security-engineer-ai-native-platform?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote, USA | Remote | May 08 |
 | **[Cribl](https://cribl.io)** | **[Sr Software Engineer, Cribl AI](https://jobr.pro/job/40685315/sr-software-engineer-cribl-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote - United States | Remote | May 08 |
@@ -56,17 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Agile Defense](https://agiledefense.com)** | **[Data Scientist](https://jobr.pro/job/40682367/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Falls Church, VA | On Site | May 08 |
 | **[Faire](https://faire.com)** | **[Senior Business Intelligence Analyst](https://jobr.pro/job/40684741/senior-business-intelligence-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York City, NY; San Francisco, CA | On Site | May 08 |
 | **[EarnIn](https://earningswhispers.com)** | **[Software Engineer (Gen AI)](https://jobr.pro/job/40682482/software-engineer-gen-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mountain View, US | On Site | May 08 |
-| **[Electrosoft](https://electrosoftbd.com)** | **[Data Analyst II](https://jobr.pro/job/40683313/data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Atlanta, GA | On Site | May 08 |
-| **[arsys EN](https://arsys.es)** | **[Backend Engineer - ERP Systems & Data Migration (AI-Enhanced Role)(f/m/d)](https://jobr.pro/job/40690972/-backend-engineer-erp-systems-data-migration-ai-enhanced-rolefmd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Carrer de la Llacuna 161, 08018 Barcelona | On Site | May 08 |
-| **[arsys EN](https://arsys.es)** | **[Backend Engineer - ERP Systems & Data Migration (AI-Enhanced Role)](https://jobr.pro/job/40690971/backend-engineer-erp-systems-data-migration-ai-enhanced-role?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Avenida de las Cortes Valencianas 58, 46015 Valencia | On Site | May 08 |
-| **[Braze](https://braze.com)** | **[Senior Sales Data Analyst](https://jobr.pro/job/40681986/senior-sales-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | São Paulo | On Site | May 08 |
-| **[Kunai](https://kuna.io)** | **[Senior Data Engineer](https://jobr.pro/job/40688359/senior-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote - United States | Remote | May 08 |
-| **[Pelmorex](https://pelmorex.com)** | **[Senior Data Engineer - Hybrid](https://jobr.pro/job/40684399/senior-data-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Oakville, Canada | On Site | May 08 |
-| **[Unity Technologies](https://unitytec.com)** | **[Machine Learning Engineer, Offline Infrastructure (Entry-Level / New Grad PhD)](https://jobr.pro/job/40685237/machine-learning-engineer-offline-infrastructure-entry-level-new-grad-phd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bellevue, WA, USA | On Site | May 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 42 companies | Avg salary: 8.142865044651562e+162k  
+**Current Stats:** 50 jobs | 36% remote | 44 companies | Avg salary: 7.166675366674267e+174k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, ai  
