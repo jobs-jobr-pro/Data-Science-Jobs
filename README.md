@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Scientist Jobs — 2026
 
-<sub><small>Last updated: May 24, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 25, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Anthropic](https://www.anthropic.com)** | **[Data Scientist, Platform Product](https://jobr.pro/job/40924670/data-scientist-platform-product?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York City, NY \| Seattle, WA; San Francisco, CA | On Site | May 25 |
+| **[Honeycomb Insurance](https://honeycombinsurance.com)** | **[Senior Data Scientist](https://jobr.pro/job/40923496/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tel Aviv, Israel | On Site | May 24 |
 | **[Toptal](https://www.toptal.com/)** | **[Talent Network: Lead Data Scientist](https://jobr.pro/job/40907866/talent-network-lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Anywhere in Europe and South America | Remote | May 22 |
 | **[NT Concepts](https://www.ntconcepts.com/)** | **[Data Scientist](https://jobr.pro/job/40901346/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Herndon, VA | On Site | May 22 |
 | **[NICE](https://nicehash.com)** | **[Specialist Data Scientist, Actimize (AML Analyst)](https://jobr.pro/job/40898796/specialist-data-scientist-actimize-aml-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | India - Pune | On Site | May 22 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Inter Carreiras](https://inter.com)** | **[DATA SCIENTIST III - ANALYTCS & MODELING - INTER PAG (São Paulo, SP)](https://jobr.pro/job/40878813/data-scientist-iii-analytcs-modeling-inter-pag-sao-paulo-sp?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | São Paulo, SP | On Site | May 19 |
 | **[Coursera Sourcing]()** | **[Data Scientist II](https://jobr.pro/job/40858569/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Canada | On Site | May 19 |
 | **[Coursera](https://www.coursera.org)** | **[Data Scientist II](https://jobr.pro/job/40854677/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Canada | On Site | May 19 |
-| **[Rundoo](https://rundoo.ai)** | **[Senior Data Scientist](https://jobr.pro/job/40853485/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | May 19 |
-| **[WPP Media](https://wppmedia.com)** | **[Data Scientist](https://jobr.pro/job/40850718/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London, United Kingdom | On Site | May 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 46 companies | Avg salary: 4.117654411779412e+97k  
+**Current Stats:** 50 jobs | 34% remote | 46 companies | Avg salary: 2.176474705889706e+97k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, ai  
