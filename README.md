@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Scientist Jobs — 2026
 
-<sub><small>Last updated: May 29, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 30, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,11 +13,25 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Included Health](https://includedhealth.com/)** | **[Data Scientist II](https://jobr.pro/job/40986344/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | May 29 |
+| **[Roblox](https://roblox.com)** | **[Senior Data Scientist - Analytical Data Product (Short Term)](https://jobr.pro/job/40985734/senior-data-scientist-analytical-data-product-short-term?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Mateo, CA, United States | On Site | May 29 |
+| **[HealthCare](https://www.healthcare.gov/)** | **[Senior Applied AI Data Scientist](https://jobr.pro/job/40986274/senior-applied-ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | May 29 |
+| **[2016–2026](https://wealthsimple.com)** | **[Senior Data Scientist, Crypto](https://jobr.pro/job/40985080/senior-data-scientist-crypto?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote (Canada) | Remote | May 29 |
+| **[Monks](https://www.monks.com/?page=gravitysmtp-settings)** | **[Semi Senior Data Scientist](https://jobr.pro/job/40985645/semi-senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Buenos Aires | On Site | May 29 |
+| **[Flatiron Health](https://flatiron.com)** | **[Senior Applied AI Data Scientist](https://jobr.pro/job/40986915/senior-applied-ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | NY office | On Site | May 29 |
+| **[Point72](https://pointclickcare.com)** | **[Data Scientist](https://jobr.pro/job/40980012/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, NY | On Site | May 29 |
+| **[AppOmni](https://appomni.com)** | **[Lead Data Scientist](https://jobr.pro/job/40987993/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote - USA | Remote | May 29 |
+| **[iwoca](https://www.iwoca.co.uk/)** | **[Data Scientist - Partner Flow Team](https://jobr.pro/job/40981627/data-scientist-partner-flow-team?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London | On Site | May 29 |
+| **[Neuron 7](https://neuronthemes.com)** | **[Lead Data Scientist](https://jobr.pro/job/40981492/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bengaluru | On Site | May 29 |
 | **[Robinhood](https://robinhood.com)** | **[Senior Data Scientist, Product (Crypto)](https://jobr.pro/job/40974048/senior-data-scientist-product-crypto?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Menlo Park, CA; New York, NY | On Site | May 29 |
+| **[Capgemini](https://capgemini.com)** | **[FBS - Data Scientist Predictive Analyst (Mid Level)](https://jobr.pro/job/40985258/fbs-data-scientist-predictive-analyst-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mexico | Remote | May 29 |
+| **[Diversified Services Network, Inc.](https://dsnworldwide.com)** | **[Data Scientist](https://jobr.pro/job/40984535/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mossville, Illinois, United States | On Site | May 29 |
+| **[Charger Logistics Inc](http://www.chargerlogistics.com)** | **[Data Scientist](https://jobr.pro/job/40981497/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Brampton, Ontario, Canada | On Site | May 29 |
 | **[Promise](https://Promise.io)** | **[Data Scientist - AI](https://jobr.pro/job/40975241/data-scientist-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco | Remote | May 28 |
 | **[Core One](https://coreone.com)** | **[Data Scientist](https://jobr.pro/job/40974667/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tampa, Florida | On Site | May 28 |
 | **[Neon Pagamentos](https://www.atom.com/name/Neon.io)** | **[Staff Data Scientist I \| Risco de Crédito](https://jobr.pro/job/40970137/staff-data-scientist-i-risco-de-credito?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remoto | Remote | May 28 |
 | **[Justworks](https://justworks.com)** | **[Senior Data Scientist](https://jobr.pro/job/40975250/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, New York | On Site | May 28 |
+| **[MCA Connect](https://mcaconnect.com)** | **[Azure Senior Data Scientist](https://jobr.pro/job/40978833/azure-senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | May 28 |
 | **[Kepora](https://www.kepora.com)** | **[Data Scientist](https://jobr.pro/job/40970822/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Herndon | On Site | May 28 |
 | **[CI&T](https://www.citi.com/banking/bank-accounts)** | **[\[Job - 29613\] Data Scientist, Brazil](https://jobr.pro/job/40966516/job-29613-data-scientist-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Brazil | Remote | May 28 |
 | **[Fast loans at fair rates](https://www.lendable.co.uk/)** | **[Principal Data Scientist](https://jobr.pro/job/40969279/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London | Remote | May 28 |
@@ -49,27 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Instacart](https://www.instacart.com/)** | **[Senior People Data Scientist](https://jobr.pro/job/40939248/senior-people-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Canada - Remote (ON, AB, BC, or NS Only) | Remote | May 26 |
 | **[Prolaio](https://prolaio.com)** | **[Sr. Data Scientist, Clinical](https://jobr.pro/job/40948173/sr-data-scientist-clinical?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Chicago, IL | On Site | May 26 |
 | **[Accenture Federal Services](https://accenture.com)** | **[Data Scientist](https://jobr.pro/job/40935946/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Arlington, VA | On Site | May 26 |
-| **[Fetch](https://gofetch.org)** | **[Pricing Data Scientist](https://jobr.pro/job/40935756/pricing-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | May 26 |
-| **[Spotify](https://spotify.com)** | **[Data Scientist](https://jobr.pro/job/40949162/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Dubai | Remote | May 26 |
-| **[Bloomreach](https://bloomreach.com)** | **[Senior Machine Learning Engineer / Data Scientist](https://jobr.pro/job/40935771/senior-machine-learning-engineer-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Slovakia | On Site | May 26 |
-| **[Legora](https://legora.com)** | **[Senior Data Scientist](https://jobr.pro/job/40935922/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Stockholm HQ | On Site | May 26 |
-| **[Instructure](https://instructure.io)** | **[Senior Data Scientist, Applied AI](https://jobr.pro/job/40933113/senior-data-scientist-applied-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Budapest, Hungary | Remote | May 26 |
-| **[6sense](https://6sense.com)** | **[Sr. Data Scientist](https://jobr.pro/job/40943340/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bengaluru, Karnataka, India | On Site | May 26 |
-| **[Artefact](https://www.artefacta.com/)** | **[Data Scientist Intern (2024)](https://jobr.pro/job/40973435/data-scientist-intern-2024?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Jakarta, Jakarta, Indonesia | On Site | May 26 |
-| **[Customer.io](https://customer.io)** | **[Senior Data Scientist](https://jobr.pro/job/40935452/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Americas Remote | Remote | May 26 |
-| **[Charger Logistics Inc](http://www.chargerlogistics.com)** | **[Data Scientist](https://jobr.pro/job/40940019/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Brampton, Ontario, Canada | On Site | May 26 |
-| **[Tiger Analytics Inc.](https://www.tigeranalytics.com/)** | **[Senior Data Scientist - GenAI](https://jobr.pro/job/40935702/senior-data-scientist-genai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Chicago, Illinois, United States | Remote | May 26 |
-| **[Weekday AI](https://www.weekday.works)** | **[Senior Data Scientist](https://jobr.pro/job/40933466/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pune, Maharashtra, India | On Site | May 26 |
-| **[Braze](https://www.braze.com)** | **[Senior Data Scientist (AI Deployment)](https://jobr.pro/job/40928259/senior-data-scientist-ai-deployment?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | São Paulo | On Site | May 25 |
-| **[TRM Labs](https://www.trmlabs.com/)** | **[Senior Data Scientist, Full Stack (LATAM)](https://jobr.pro/job/40928558/senior-data-scientist-full-stack-latam?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | South America | Remote | May 25 |
-| **[Accelerate ‎Your Digital Transformation](https://www.truelogic.io)** | **[Senior Data Scientist - Real Estate](https://jobr.pro/job/40927050/senior-data-scientist-real-estate?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | LatAm | Remote | May 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 50% remote | 48 companies | Avg salary: 1.4000014333345616e+85k  
+**Current Stats:** 50 jobs | 48% remote | 48 companies | Avg salary: 1.0678483631594737e+109k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** machine learning, ai  
+**Trending Skills:** ai  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
