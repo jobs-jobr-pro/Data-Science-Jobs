@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Scientist Jobs — 2026
 
-<sub><small>Last updated: May 30, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 31, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Anthropic](https://www.anthropic.com)** | **[Data Scientist, GTM](https://jobr.pro/job/40996046/data-scientist-gtm?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York City, NY; San Francisco, CA \| New York City, NY | On Site | May 31 |
 | **[Included Health](https://includedhealth.com/)** | **[Data Scientist II](https://jobr.pro/job/40986344/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | May 29 |
 | **[Roblox](https://roblox.com)** | **[Senior Data Scientist - Analytical Data Product (Short Term)](https://jobr.pro/job/40985734/senior-data-scientist-analytical-data-product-short-term?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Mateo, CA, United States | On Site | May 29 |
 | **[HealthCare](https://www.healthcare.gov/)** | **[Senior Applied AI Data Scientist](https://jobr.pro/job/40986274/senior-applied-ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | May 29 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[eClinical Solutions](https://eclinicalsol.com)** | **[Data Scientist](https://jobr.pro/job/40938477/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mansfield, MA (Remote) | Remote | May 26 |
 | **[Instacart](https://www.instacart.com/)** | **[Senior People Data Scientist](https://jobr.pro/job/40939248/senior-people-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Canada - Remote (ON, AB, BC, or NS Only) | Remote | May 26 |
 | **[Prolaio](https://prolaio.com)** | **[Sr. Data Scientist, Clinical](https://jobr.pro/job/40948173/sr-data-scientist-clinical?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Chicago, IL | On Site | May 26 |
-| **[Accenture Federal Services](https://accenture.com)** | **[Data Scientist](https://jobr.pro/job/40935946/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Arlington, VA | On Site | May 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 48% remote | 48 companies | Avg salary: 1.0678483631594737e+109k  
+**Current Stats:** 50 jobs | 48% remote | 48 companies | Avg salary: 1.9473694889009947e+109k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
