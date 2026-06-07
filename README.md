@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 06, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 07, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Adaptyv](https://adaptyvbio.com)** | **[Data Scientist, Lab & Protein Data](https://jobr.pro/job/41068099/data-scientist-lab-protein-data?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Lausanne | On Site | Jun 06 |
+| **[Anaplan](https://anaplan.com)** | **[Principal AI Data Scientist](https://jobr.pro/job/41064765/principal-ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pennsylvania-Remote, United States | Remote | Jun 06 |
+| **[Anaplan](https://anaplan.com)** | **[Principal Data Scientist - AI](https://jobr.pro/job/41064766/principal-data-scientist-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pennsylvania-Remote, United States | Remote | Jun 06 |
+| **[Cordial Experience Inc.](https://cordial.com)** | **[Data Scientist - Production Engineering](https://jobr.pro/job/41064941/data-scientist-production-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote (US) | Remote | Jun 05 |
 | **[FacultyModern Slavery StatementPrivacy PolicyXLinkedInYouTube](https://www.wearefaculty.com)** | **[Data Scientist](https://jobr.pro/job/41054131/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London | On Site | Jun 05 |
 | **[PHMG Careers](https://phmg.com/)** | **[Data Scientist](https://jobr.pro/job/41053152/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Manchester | On Site | Jun 05 |
 | **[Accenture Federal Services](https://accenture.com)** | **[SAP Data Scientist](https://jobr.pro/job/41054979/sap-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Washington, DC | On Site | Jun 05 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Instructure](https://instructure.io)** | **[Senior Data Scientist, AI Platform](https://jobr.pro/job/41035209/senior-data-scientist-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Budapest, Hungary | Remote | Jun 03 |
 | **[Instructure](https://instructure.io)** | **[Senior Applied Data Scientist, Retrieval and Semantic Systems](https://jobr.pro/job/41035211/senior-applied-data-scientist-retrieval-and-semantic-systems?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Budapest, Hungary | Remote | Jun 03 |
 | **[Instructure](https://instructure.io)** | **[Senior Applied Data Scientist, Learner Modeling](https://jobr.pro/job/41035210/senior-applied-data-scientist-learner-modeling?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Budapest, Hungary | Remote | Jun 03 |
-| **[Uber Freight](https://www.uberfreight.com/en-US/)** | **[Data Scientist III](https://jobr.pro/job/41029943/data-scientist-iii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Chicago, IL 60607, United States | On Site | Jun 03 |
-| **[Roblox](https://roblox.com)** | **[Senior Data Scientist - Consumer Frontend](https://jobr.pro/job/41029094/senior-data-scientist-consumer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Mateo, CA, United States | On Site | Jun 03 |
-| **[CI&T](https://ciandt.com)** | **[\[Job-29597\] Senior Data Scientist , Brazil](https://jobr.pro/job/41029223/job-29597-senior-data-scientist-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Brazil | Remote | Jun 03 |
-| **[Coderi Del Xúquer](https://coderi.org)** | **[SR Data Scientist AWS (Arg, Col, Perú)](https://jobr.pro/job/41031044/sr-data-scientist-aws-arg-col-peru?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Buenos Aires | Remote | Jun 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 45 companies | Avg salary: 1.8700016923086536e+73k  
+**Current Stats:** 50 jobs | 32% remote | 45 companies | Avg salary: 1.4583353591685e+67k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, ai  
