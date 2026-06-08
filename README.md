@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 07, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Referral Board]()** | **[Principal Data Scientist - Agent Builder](https://jobr.pro/job/41069327/principal-data-scientist-agent-builder?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Greece; Ireland; Poland; Portugal; Spain; Sweden; United Kingdom | On Site | Jun 07 |
 | **[mylo](https://btech.com/en)** | **[Senior Data Scientist](https://jobr.pro/job/41068766/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New Cairo City, Cairo Governorate, Egypt | On Site | Jun 07 |
 | **[Adaptyv](https://adaptyvbio.com)** | **[Data Scientist, Lab & Protein Data](https://jobr.pro/job/41068099/data-scientist-lab-protein-data?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Lausanne | On Site | Jun 06 |
 | **[Anaplan](https://anaplan.com)** | **[Principal AI Data Scientist](https://jobr.pro/job/41064765/principal-ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pennsylvania-Remote, United States | Remote | Jun 06 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Roblox](https://roblox.com)** | **[Senior Data Scientist - Family Experience](https://jobr.pro/job/41031355/senior-data-scientist-family-experience?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Mateo, CA, United States | On Site | Jun 03 |
 | **[Netspend](https://www.ouro.com/)** | **[Data Scientist, Intern](https://jobr.pro/job/41039564/data-scientist-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Austin, TX | On Site | Jun 03 |
 | **[Instructure](https://instructure.io)** | **[Senior Data Scientist, AI Platform](https://jobr.pro/job/41035209/senior-data-scientist-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Budapest, Hungary | Remote | Jun 03 |
-| **[Instructure](https://instructure.io)** | **[Senior Applied Data Scientist, Retrieval and Semantic Systems](https://jobr.pro/job/41035211/senior-applied-data-scientist-retrieval-and-semantic-systems?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Budapest, Hungary | Remote | Jun 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 46 companies | Avg salary: 1.4583353591685e+67k  
+**Current Stats:** 50 jobs | 28% remote | 47 companies | Avg salary: 1.4583353591685e+67k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, ai  
