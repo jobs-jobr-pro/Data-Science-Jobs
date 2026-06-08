@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,8 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[dunnhumby](https://dunnhumby.com)** | **[Senior Research Data Scientist](https://jobr.pro/job/41072537/senior-research-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London | On Site | Jun 08 |
+| **[2016–2026](https://wealthsimple.com)** | **[Senior Data Scientist, Sales](https://jobr.pro/job/41072443/senior-data-scientist-sales?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote (Canada) | Remote | Jun 08 |
+| **[Bedrock Robotics](https://bedrockrobotics.com)** | **[Data Scientist](https://jobr.pro/job/41072253/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, NY | Remote | Jun 08 |
+| **[Melio](https://melio.tech)** | **[Senior Data Scientist](https://jobr.pro/job/41071951/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jun 08 |
+| **[Veriff](https://veriff.com)** | **[Senior Data Scientist](https://jobr.pro/job/41072457/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tallinn, Spain (Remote) | Remote | Jun 08 |
+| **[First Help Financial](https://firsthelpfinancial.com)** | **[Senior Data Scientist - Risk Analytics (Contract, São Paulo)](https://jobr.pro/job/41071847/senior-data-scientist-risk-analytics-contract-sao-paulo?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | São Paulo, State of São Paulo, Brazil | On Site | Jun 08 |
 | **[Referral Board]()** | **[Principal Data Scientist - Agent Builder](https://jobr.pro/job/41069327/principal-data-scientist-agent-builder?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Greece; Ireland; Poland; Portugal; Spain; Sweden; United Kingdom | On Site | Jun 07 |
-| **[Campus](https://campus.edu/)** | **[Staff Data Scientist](https://jobr.pro/job/41071228/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Campus NYC | Remote | Jun 07 |
+| **[Campus](https://campus.edu/)** | **[Staff Data Scientist](https://jobr.pro/job/41071506/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Campus NYC | Remote | Jun 07 |
 | **[mylo](https://btech.com/en)** | **[Senior Data Scientist](https://jobr.pro/job/41068766/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New Cairo City, Cairo Governorate, Egypt | On Site | Jun 07 |
 | **[Adaptyv](https://adaptyvbio.com)** | **[Data Scientist, Lab & Protein Data](https://jobr.pro/job/41068099/data-scientist-lab-protein-data?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Lausanne | On Site | Jun 06 |
 | **[Anaplan](https://anaplan.com)** | **[Principal AI Data Scientist](https://jobr.pro/job/41064765/principal-ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pennsylvania-Remote, United States | Remote | Jun 06 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Murmuration](https://murmuration.org/)** | **[Senior Data Scientist Job](https://jobr.pro/job/41051611/senior-data-scientist-job?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | United States | Remote | Jun 04 |
 | **[Kleva](https://www.kleva.co/)** | **[Product Data Scientist (Contactability & Routing)](https://jobr.pro/job/41047875/product-data-scientist-contactability-routing?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mexico City, Mexico City, Mexico | On Site | Jun 04 |
 | **[Zifo](https://zifornd.com/)** | **[Data Scientist - Life Sciences AI / ML](https://jobr.pro/job/41046596/data-scientist-life-sciences-ai-ml?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mexico City, Mexico City, Mexico | On Site | Jun 04 |
-| **[Probably Genetic](https://www.probablygenetic.com)** | **[Senior Data Scientist](https://jobr.pro/job/41034380/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco | Remote | Jun 03 |
-| **[Jobber](https://jobber.com)** | **[Data Scientist](https://jobr.pro/job/41039427/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | Jun 03 |
-| **[Tyba](https://www.tyba.ai/)** | **[Data Scientist](https://jobr.pro/job/41041786/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | SF Bay Area | Remote | Jun 03 |
-| **[Capital on Tap](https://capitalontap.com)** | **[Data Scientist (Growth Team)](https://jobr.pro/job/41031241/data-scientist-growth-team?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London | On Site | Jun 03 |
-| **[Roblox](https://roblox.com)** | **[Senior Data Scientist - Family Experience](https://jobr.pro/job/41031355/senior-data-scientist-family-experience?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Mateo, CA, United States | On Site | Jun 03 |
-| **[Netspend](https://www.ouro.com/)** | **[Data Scientist, Intern](https://jobr.pro/job/41039564/data-scientist-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Austin, TX | On Site | Jun 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 47 companies | Avg salary: 1.8461551923095623e+73k  
+**Current Stats:** 50 jobs | 28% remote | 46 companies | Avg salary: 1.718184000001591e+61k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, ai  
