@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 10, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 10, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,8 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Grab](https://grab.careers/)** | **[Senior Data Scientist (Integrity)](https://jobr.pro/job/41114590/senior-data-scientist-integrity?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Singapore, , Singapore | On Site | Jun 10 |
+| **[Cint](https://www.cint.com/)** | **[Data Scientist](https://jobr.pro/job/41112134/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote, Remote, United Kingdom | Remote | Jun 09 |
 | **[MaintainX](https://getmaintainx.com)** | **[Senior Product Data Scientist](https://jobr.pro/job/41107058/senior-product-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Montreal, Toronto, Vancouver, SF (Remote) | Remote | Jun 09 |
 | **[Xometry](https://xometry.com)** | **[Principal Data Scientist - Gen AI](https://jobr.pro/job/41108403/principal-data-scientist-gen-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | North Bethesda, MD | On Site | Jun 09 |
+| **[GRVTY](https://grvty.com)** | **[Data Scientist - Cleared](https://jobr.pro/job/41114984/data-scientist-cleared?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Chantilly, Virginia, United States | On Site | Jun 09 |
 | **[BuiltIn Integration Sandbox]()** | **[Do Not Apply - Senior Data Scientist 6/9/2026, 9:51:03 AM](https://jobr.pro/job/41108248/do-not-apply-senior-data-scientist-692026-95103-am?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Chicago | On Site | Jun 09 |
 | **[NielsenIQ](https://nielseniq.com/global/en/careers/)** | **[Lead Data Scientist](https://jobr.pro/job/41098390/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Santiago de Chile, , Chile | Remote | Jun 09 |
 | **[Meritis](https://meritis.fr)** | **[Data Scientist (H/F)](https://jobr.pro/job/41100943/data-scientist-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sophia Antipolis, , France | Remote | Jun 09 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NielsenIQ](https://nielseniq.com/global/en/careers/)** | **[Data Scientist](https://jobr.pro/job/41086396/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Seoul, 11, Korea, republic of | On Site | Jun 08 |
 | **[Sunlighten](http://sunlighten.com)** | **[Data Scientist - Applied AI & ML](https://jobr.pro/job/41078908/data-scientist-applied-ai-ml?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Leawood, Kansas, United States | On Site | Jun 08 |
 | **[First Help Financial](https://firsthelpfinancial.com)** | **[Senior Data Scientist - Risk Analytics (Contract, São Paulo)](https://jobr.pro/job/41071847/senior-data-scientist-risk-analytics-contract-sao-paulo?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | São Paulo, State of São Paulo, Brazil | On Site | Jun 08 |
-| **[Referral Board]()** | **[Principal Data Scientist - Agent Builder](https://jobr.pro/job/41069327/principal-data-scientist-agent-builder?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Greece; Ireland; Poland; Portugal; Spain; Sweden; United Kingdom | On Site | Jun 07 |
-| **[Campus](https://campus.edu/)** | **[Staff Data Scientist](https://jobr.pro/job/41071506/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Campus NYC | Remote | Jun 07 |
-| **[mylo](https://btech.com/en)** | **[Senior Data Scientist](https://jobr.pro/job/41068766/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New Cairo City, Cairo Governorate, Egypt | On Site | Jun 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 45 companies | Avg salary: 1.642858071430243e+77k  
+**Current Stats:** 50 jobs | 26% remote | 44 companies | Avg salary: 1.7692317692325693e+71k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
