@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,11 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Cloudflare](https://cloudflare.com)** | **[Data Scientist](https://jobr.pro/job/41184170/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | In-Office | On Site | Jun 13 |
 | **[Unitek Learning](https://www.uniteklearning.com)** | **[People Data Scientist](https://jobr.pro/job/41181921/people-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tempe, AZ, United States | Remote | Jun 12 |
 | **[EPIC Brokers](https://epicbrokers.com)** | **[Lead Insurance Data Scientist](https://jobr.pro/job/41179685/lead-insurance-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | 125 S Wacker Dr, Suite 3150, Chicago, IL 60606 | On Site | Jun 12 |
 | **[Toast](https://toastmasters.org)** | **[Data Scientist II](https://jobr.pro/job/41178437/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Boston, MA | On Site | Jun 12 |
 | **[Figma](https://www.figma.com)** | **[Data Scientist, Finance](https://jobr.pro/job/41177914/data-scientist-finance?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco, CA • New York, NY • United States | On Site | Jun 12 |
 | **[AI-Powered Workforce Solutions](https://futurefitai.com)** | **[Data Scientist](https://jobr.pro/job/41182286/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote (North America) | Remote | Jun 12 |
+| **[Luster National](https://luster.com)** | **[Reporting Data Scientist](https://jobr.pro/job/41185591/reporting-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sacramento, California, United States | On Site | Jun 12 |
 | **[Roblox](https://roblox.com)** | **[Senior Data Scientist - Generative AI](https://jobr.pro/job/41175982/senior-data-scientist-generative-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Mateo, CA, United States | On Site | Jun 12 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Lead Data Scientist](https://jobr.pro/job/41176560/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bogota, , Colombia | Remote | Jun 12 |
 | **[Midi Health](https://joinmidi.com)** | **[Staff Data Scientist](https://jobr.pro/job/41173391/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Hybrid - Palo Alto | On Site | Jun 12 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Braze](https://www.braze.com)** | **[Forward-Deployed Data Scientist](https://jobr.pro/job/41154865/forward-deployed-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tokyo | On Site | Jun 11 |
 | **[Sensor Tower](https://sensortower.com)** | **[Data Scientist](https://jobr.pro/job/41155006/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | São Paulo, Brazil | Remote | Jun 11 |
 | **[Expel](https://expel.com)** | **[Senior Data Scientist](https://jobr.pro/job/41163499/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | Jun 11 |
-| **[Cellfie Mobile](https://cellfie.ge)** | **[Data Scientist](https://jobr.pro/job/41150479/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Tbilisi, Tbilisi, Georgia | On Site | Jun 11 |
-| **[Public Storage](https://publicstorage.com)** | **[Data Scientist](https://jobr.pro/job/41150915/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Glendale, CA, United States | On Site | Jun 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 52% remote | 40 companies | Avg salary: 7.1600139200062e+143k  
+**Current Stats:** 50 jobs | 52% remote | 40 companies | Avg salary: 6.884628769236731e+149k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, ai  
