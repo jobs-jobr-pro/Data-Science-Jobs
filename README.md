@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 15, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 15, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Striveworks](https://striveworks.com)** | **[Data Scientist (Active Secret Clearance)](https://jobr.pro/job/41193009/data-scientist-active-secret-clearance?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote; Tacoma, WA | Remote | Jun 15 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Senior Data Scientist](https://jobr.pro/job/41187242/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Pune, MH, India | On Site | Jun 13 |
 | **[Cloudflare](https://cloudflare.com)** | **[Data Scientist](https://jobr.pro/job/41184170/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | In-Office | On Site | Jun 13 |
 | **[Cobblestone Energy.](https://cobblestoneenergy.com)** | **[Junior Data Scientist - Dubai, UAE](https://jobr.pro/job/41186858/junior-data-scientist-dubai-uae?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Dubai, UAE | On Site | Jun 12 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mudflap](https://www.mudflapinc.com/)** | **[Senior Data Scientist, Pricing](https://jobr.pro/job/41160149/senior-data-scientist-pricing?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Palo Alto, CA | Remote | Jun 11 |
 | **[Mudflap](https://www.mudflapinc.com/)** | **[Senior Data Scientist, Product](https://jobr.pro/job/41160148/senior-data-scientist-product?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Palo Alto, CA | Remote | Jun 11 |
 | **[Constellation Software, Inc.]()** | **[Senior Data Scientist](https://jobr.pro/job/41162086/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, New York | On Site | Jun 11 |
-| **[Mudflap](https://www.mudflapinc.com/)** | **[Senior Data Scientist, Risk](https://jobr.pro/job/41160147/senior-data-scientist-risk?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Palo Alto, CA | Remote | Jun 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 46% remote | 36 companies | Avg salary: 4.230773461542693e+149k  
+**Current Stats:** 50 jobs | 46% remote | 37 companies | Avg salary: 7.307696538465769e+149k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, ai  
