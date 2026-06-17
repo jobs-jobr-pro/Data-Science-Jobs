@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 17, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 17, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Partly Group](https://www.partly.com)** | **[Senior Data Scientist](https://jobr.pro/job/41228666/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Christchurch | On Site | Jun 16 |
+| **[Traackr](https://traackr.com)** | **[Data Scientist](https://jobr.pro/job/41228023/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Mexico | Remote | Jun 16 |
+| **[Docebo](https://docebo.com)** | **[Senior Data Scientist (SEO & AI)](https://jobr.pro/job/41226688/senior-data-scientist-seo-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Athens, Georgia | Remote | Jun 16 |
 | **[Legend Biotech US]()** | **[Scientist/Sr. Scientist, Bioinformatics Data](https://jobr.pro/job/41219771/scientistsr-scientist-bioinformatics-data?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Somerset, New Jersey, United States | On Site | Jun 16 |
+| **[Coursera](https://alison.com)** | **[Data Scientist II](https://jobr.pro/job/41226557/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Canada | On Site | Jun 16 |
 | **[Clarity AI](https://clarity.ai)** | **[Data Scientist](https://jobr.pro/job/41221146/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | Jun 16 |
 | **[Wavestone](https://www.wavestone.com)** | **[Senior Consultant.e - Data Scientist (H/F)](https://jobr.pro/job/41218405/senior-consultante-data-scientist-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Puteaux, IDF, France | On Site | Jun 16 |
 | **[QRC Group, Inc](https://qrcgroup.net)** | **[Sr. Data Scientist](https://jobr.pro/job/41218375/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Juncos, Juncos, Puerto Rico | On Site | Jun 16 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Jerry](https://www.jerry.ai)** | **[Associate Data Scientist](https://jobr.pro/job/41201291/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Los Angeles, California | Remote | Jun 15 |
 | **[Accenture Federal Services](https://accenture.com)** | **[Senior Data Scientist](https://jobr.pro/job/41206075/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Washington, DC | On Site | Jun 15 |
 | **[Semgrep](https://semgrep.dev)** | **[Senior Data Scientist](https://jobr.pro/job/41209191/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco Office | Remote | Jun 15 |
-| **[Rox](https://www.rox.com)** | **[Data Scientist (Growth)](https://jobr.pro/job/41217742/data-scientist-growth?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco | On Site | Jun 15 |
-| **[OpenAI](https://openai.com)** | **[People Research Data Scientist, AI Fairness & Bias](https://jobr.pro/job/41203945/people-research-data-scientist-ai-fairness-bias?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco | Remote | Jun 15 |
-| **[iFood](https://ifoodieapp.com)** | **[Data Scientist 3](https://jobr.pro/job/41211297/data-scientist-3?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | Jun 15 |
-| **[Adswerve, Inc](https://adswerve.com)** | **[Data Scientist 1](https://jobr.pro/job/41207376/data-scientist-1?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | United States - Remote | Remote | Jun 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 56% remote | 40 companies | Avg salary: 8.354990800125e+113k  
+**Current Stats:** 50 jobs | 54% remote | 41 companies | Avg salary: 4.2500083549571e+113k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
