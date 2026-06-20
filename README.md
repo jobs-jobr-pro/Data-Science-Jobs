@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 20, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 20, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Thoughtworks](https://www.thoughtworks.com)** | **[Principal Data Scientist](https://jobr.pro/job/41295698/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Toronto, Canada | On Site | Jun 19 |
+| **[AB InBev \| Growth Group](https://www.abinbev.com)** | **[Senior Data Scientist - BEES Logistics](https://jobr.pro/job/41296870/senior-data-scientist-bees-logistics?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote | Remote | Jun 19 |
+| **[A11](https://a11ywatch.com)** | **[Principal Data Scientist (m/f/d)](https://jobr.pro/job/41297396/principal-data-scientist-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Düsseldorf | On Site | Jun 19 |
+| **[A11](https://a11ywatch.com)** | **[Senior Data Scientist (m/f/d)](https://jobr.pro/job/41297397/senior-data-scientist-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Düsseldorf | On Site | Jun 19 |
 | **[Stripe](https://stripe.com)** | **[Data Scientist, Payments](https://jobr.pro/job/41285880/data-scientist-payments?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Dublin | On Site | Jun 19 |
 | **[Sportradar](https://sportradar.com)** | **[Senior Data Scientist - MTS (m/f/d)](https://jobr.pro/job/41284218/senior-data-scientist-mts-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Ljubljana, , Slovenia | On Site | Jun 19 |
 | **[Talan](https://www.talan.com)** | **[Consultant Data Scientist Senior (IA / IA Générative) - H/F - CDI](https://jobr.pro/job/41283230/consultant-data-scientist-senior-ia-ia-generative-hf-cdi?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Paris, IDF, France | On Site | Jun 19 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Roku](https://www.weareroku.com)** | **[Sr. Data Scientist](https://jobr.pro/job/41240707/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Santa Monica, California | On Site | Jun 17 |
 | **[Stone - Linkedin](https://stone.com.ar)** | **[Sênior/Lead Data Scientist](https://jobr.pro/job/41242192/seniorlead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remoto | On Site | Jun 17 |
 | **[DoubleVerify](https://doubleverify.com)** | **[Sr Data Scientist II](https://jobr.pro/job/41241049/sr-data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Paris-France | On Site | Jun 17 |
-| **[Kpler](https://www.kpler.com)** | **[Data Scientist](https://jobr.pro/job/41243473/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Hungary | On Site | Jun 17 |
-| **[Feedzai](https://careers.feedzai.com)** | **[Senior Data Scientist](https://jobr.pro/job/41241731/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Brazil Remote | Remote | Jun 17 |
-| **[Truecaller](https://truecaller.com)** | **[Senior Data Scientist](https://jobr.pro/job/41236690/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Stockholm, Sweden | On Site | Jun 17 |
-| **[Iliad - Free](https://en.wikipedia.org)** | **[Data Scientist - dataTV - Paris H/F](https://jobr.pro/job/41232272/data-scientist-datatv-paris-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Paris, IDF, France | Remote | Jun 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 40% remote | 48 companies | Avg salary: 1.2307710769250984e+73k  
+**Current Stats:** 50 jobs | 38% remote | 47 companies | Avg salary: 2.2071440000017147e+79k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
