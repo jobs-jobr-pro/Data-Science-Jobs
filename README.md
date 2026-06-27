@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 27, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 27, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Roblox](https://ro.co)** | **[AI Data Scientist](https://jobr.pro/job/41443756/ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, NY | On Site | Jun 27 |
+| **[Agile Defense](https://agiledefense.com)** | **[Data Scientist (Various Levels](https://jobr.pro/job/41440308/data-scientist-various-levels?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Fort Meade, MD | On Site | Jun 26 |
 | **[Pinterest](https://www.pinterestcareers.com)** | **[Sr. Data Scientist, Performance Marketing](https://jobr.pro/job/41437057/sr-data-scientist-performance-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | San Francisco, CA, US; Remote, US | Remote | Jun 26 |
 | **[Axle](https://www.axle.energy)** | **[Data Scientist II](https://jobr.pro/job/41437683/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Rockville, MD | On Site | Jun 26 |
 | **[Eurofins](https://www.eurofins.de)** | **[Scientist: Data Review](https://jobr.pro/job/41434604/scientist-data-review?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Lancaster, PA, United States | On Site | Jun 26 |
@@ -37,6 +39,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Experian](https://www.experian.com)** | **[Senior Data Scientist](https://jobr.pro/job/41417356/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Sofia, , Bulgaria | Remote | Jun 26 |
 | **[Dex](https://meetdex.ai)** | **[Dex - Founding Data Scientist](https://jobr.pro/job/41425063/dex-founding-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London | Remote | Jun 26 |
 | **[Pinterest](https://www.pinterestcareers.com)** | **[Staff Data Scientist, Ads Delivery](https://jobr.pro/job/41413808/staff-data-scientist-ads-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Seattle , WA, US; Remote, US | Remote | Jun 26 |
+| **[Oxford Dynamics](https://www.oxdynamics.com)** | **[Data Scientist](https://jobr.pro/job/41439219/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Oxford, England, United Kingdom | On Site | Jun 26 |
 | **[Capgemini](https://capgemini.com)** | **[FBS Data Scientist (Marketing)](https://jobr.pro/job/41436907/fbs-data-scientist-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Brazil | Remote | Jun 26 |
 | **[GoTyme ZA (South Africa)](https://www.gotyme.co.za)** | **[Data Scientist](https://jobr.pro/job/41421263/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Cape Town, Western Cape, South Africa | On Site | Jun 26 |
 | **[Conga](https://conga.com)** | **[Staff Data Scientist (AI/ML)](https://jobr.pro/job/41406504/staff-data-scientist-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | US - Boston, MA ; US - Houston, TX | On Site | Jun 25 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Acumatica](https://www.acumatica.com)** | **[Associate Data Scientist](https://jobr.pro/job/41380382/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Colombo, WP, Sri Lanka | Remote | Jun 25 |
 | **[Brainlake Advertising LLC](http://www.brainlake.com)** | **[Senior Data Scientist](https://jobr.pro/job/41423915/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Jun 25 |
 | **[Oredata Yazılım Anonim Şirketi](https://oredata.com)** | **[Data Scientist](https://jobr.pro/job/41414640/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Istanbul, İstanbul, Turkey | On Site | Jun 25 |
-| **[Atria Physician Practice New York PC](http://www.atria.org)** | **[Senior Data Scientist](https://jobr.pro/job/41402534/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | United States | Remote | Jun 25 |
-| **[KNOREX](https://knorex.com)** | **[Data Scientist](https://jobr.pro/job/41384598/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Ho Chi Minh City, Ho Chi Minh, Vietnam | On Site | Jun 25 |
-| **[CodeRoad](https://coderoad.pl)** | **[Senior Data Scientist](https://jobr.pro/job/41378643/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Latin America | On Site | Jun 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 48% remote | 44 companies | Avg salary: 2.213454961539846e+73k  
+**Current Stats:** 50 jobs | 46% remote | 44 companies | Avg salary: 1.2266678000019183e+85k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
