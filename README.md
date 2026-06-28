@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 28, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 28, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Jumia]()** | **[Data Scientist Intern - Jumia (Full Time)](https://jobr.pro/job/41456749/data-scientist-intern-jumia-full-time?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Egypt | On Site | Jun 28 |
+| **[Brego](https://www.brego.io)** | **[Lead Data Scientist](https://jobr.pro/job/41460054/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Silverstone, United Kingdom | Remote | Jun 28 |
 | **[Freshworks](https://freshworksmedia.com)** | **[Lead - Data Scientist](https://jobr.pro/job/41450195/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bengaluru, , India | On Site | Jun 27 |
 | **[Roblox](https://ro.co)** | **[AI Data Scientist](https://jobr.pro/job/41443756/ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, NY | On Site | Jun 27 |
 | **[OCT Consulting, LLC](https://octconsulting.com)** | **[Junior Data Scientist / Sr Analyst (0030)](https://jobr.pro/job/41448643/junior-data-scientist-sr-analyst-0030?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | McLean, Virginia, United States | On Site | Jun 27 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wise](https://wise.com)** | **[Lead Data Scientist - Contact Automation](https://jobr.pro/job/41395941/lead-data-scientist-contact-automation?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London, , United Kingdom | Remote | Jun 25 |
 | **[Wise](https://wise.com)** | **[Lead Data Scientist - Fraud Prevention](https://jobr.pro/job/41395943/lead-data-scientist-fraud-prevention?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London, , United Kingdom | On Site | Jun 25 |
 | **[Wise](https://wise.com)** | **[Lead Data Scientist - Trust and Safety](https://jobr.pro/job/41395944/lead-data-scientist-trust-and-safety?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London, , United Kingdom | Remote | Jun 25 |
-| **[Ubisoft](https://ubisoft.com)** | **[Data Scientist - H/F/NB](https://jobr.pro/job/41396030/data-scientist-hfnb?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Paris, IDF, France | On Site | Jun 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 50% remote | 45 companies | Avg salary: 1.0823535294127645e+97k  
+**Current Stats:** 50 jobs | 52% remote | 45 companies | Avg salary: 6.111121333338889e+102k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
