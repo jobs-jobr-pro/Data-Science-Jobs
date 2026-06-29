@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 29, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 29, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Thoughtworks](https://www.thoughtworks.com)** | **[Lead Data Scientist](https://jobr.pro/job/41465310/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Melbourne, Australia | On Site | Jun 29 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Senior Data Scientist](https://jobr.pro/job/41461882/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Bogota, DC, Colombia | Remote | Jun 28 |
 | **[Airbnb](https://careers.airbnb.com)** | **[Data Scientist - Inference, Community Support](https://jobr.pro/job/41461738/data-scientist-inference-community-support?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote - USA | Remote | Jun 28 |
 | **[Airbnb](https://careers.airbnb.com)** | **[Data Scientist - Algorithms, Community Support](https://jobr.pro/job/41461737/data-scientist-algorithms-community-support?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | Remote - USA | Remote | Jun 28 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Capco](https://redcapacitacion.cl)** | **[Lead Data Scientist – Energy Domain](https://jobr.pro/job/41402411/lead-data-scientist-energy-domain?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | UK - London | On Site | Jun 25 |
 | **[Ripple](https://ripple.com)** | **[Staff Data Scientist](https://jobr.pro/job/41404797/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London, UK | On Site | Jun 25 |
 | **[NBCUniversal](https://www.nbcunicareers.com)** | **[Senior Data Scientist](https://jobr.pro/job/41397286/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | New York, NY, United States | Remote | Jun 25 |
-| **[Genomics England](https://www.genomicsengland.co.uk)** | **[Genomic Data Scientist (we have office locations in Cambridge, Leeds & London)](https://jobr.pro/job/41397159/genomic-data-scientist-we-have-office-locations-in-cambridge-leeds-london?utm_source=github&utm_medium=repo&utm_campaign=github-data-science-jobs)** | London, England, United Kingdom | Remote | Jun 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 54% remote | 46 companies | Avg salary: 8.7500087500055e+114k  
+**Current Stats:** 50 jobs | 52% remote | 47 companies | Avg salary: 8.7500087500055e+114k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
